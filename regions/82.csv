@@ -1,0 +1,5 @@
+zip_code,name_id,id,taxArea,city,estate_name,delivered,deliveryQuarter,developer_name,longitude,latitude,availablePropertiesMinPrice,availablePropertiesCount,residenceType,address,typologies,image
+82000,STUDENTLY MONTAUBAN#e74ed9521900,e74ed9521900,B1,Montauban,STUDENTLY MONTAUBAN,False,2025T2,LP Promotion,1.3450165,44.0145855,79510,10,Student,Rue Jean Jaures,T1|T1 Bis|T2,
+82000,RSS SERENLY#d69446a8b717,d69446a8b717,B1,Montauban,RSS SERENLY,False,,iSelection,1.3428504,44.0143845,161400,16,Senior,2 Avenue Jean Jaurès,T2,
+82350,Albias De Gaulle#4a85fdfa1438,4a85fdfa1438,C,Albias,Albias De Gaulle,False,2025T4,LIDR Solution,1.448538,44.091421,105025,5,,9 Avenue du Général de Gaulle,Studio|T1 Bis|T2|T2 Bis|T3|T3 Bis,
+82000,SERENLY MONTAUBAN#93fb73ddfc85,93fb73ddfc85,B1,Montauban,SERENLY MONTAUBAN,False,2025T3,LP Promotion,1.344391,44.0131438,163400,4,Senior,Avenue Chamier,T2|T3,

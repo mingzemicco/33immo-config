@@ -1,0 +1,4 @@
+zip_code,name_id,id,taxArea,city,estate_name,delivered,deliveryQuarter,developer_name,longitude,latitude,availablePropertiesMinPrice,availablePropertiesCount,residenceType,address,typologies,image
+46250,Terre de France - Marminiac - Les Hameaux de Pomette#29ceb0f90beb,29ceb0f90beb,C,Marminiac,Terre de France - Marminiac - Les Hameaux de Pomette,False,,Attentif LMNP,1.213487,44.650946,55858,1,Tourism,Les Champs de Pomette,T3,
+46000,Le 318 Wilson 3#03daac835b89,03daac835b89,C,Cahors,Le 318 Wilson 3,False,2026T2,Edouard Denis,1.4370133,44.4458565,194560,3,,318 RUE DU PRESIDENT WILSON,T2|T3,
+46000,Le 318 Wilson 1#3c00913c88f2,3c00913c88f2,C,Cahors,Le 318 Wilson 1,False,2026T2,Edouard Denis,1.4370133,44.4458565,216890,5,,318 RUE DU PRESIDENT WILSON,T2|T3|T4,
