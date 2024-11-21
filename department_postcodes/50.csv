@@ -1,0 +1,642 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+50,Manche,49.611,-1.749,Acqueville,50440
+50,Manche,49.115,-1.129,Agneaux,50180
+50,Manche,49.038,-1.581,Agon-Coutainville,50230
+50,Manche,49.212,-1.080,Airel,50680
+50,Manche,49.156,-1.185,Amigny,50620
+50,Manche,49.103,-1.459,Ancteville,50200
+50,Manche,48.846,-1.528,Anctoville-sur-Boscq,50400
+50,Manche,49.636,-1.285,Anneville-en-Saire,50760
+50,Manche,49.120,-1.586,Anneville-sur-Mer,50560
+50,Manche,48.961,-1.531,Annoville,50660
+50,Manche,49.327,-1.335,Appeville,50500
+50,Manche,48.491,-1.379,Argouges,50240
+50,Manche,48.526,-1.475,Aucey-la-Plaine,50170
+50,Manche,49.707,-1.935,Auderville,50440
+50,Manche,49.417,-1.226,Audouville-la-Hubert,50480
+50,Manche,49.538,-1.322,Aumeville-Lestre,50630
+50,Manche,49.300,-1.323,Auvers,50500
+50,Manche,49.215,-1.305,Auxais,50500
+50,Manche,48.688,-1.357,Avranches,50300
+50,Manche,49.457,-1.312,Azeville,50310
+50,Manche,48.704,-1.432,Bacilly,50530
+50,Manche,48.924,-1.301,La Baleine,50450
+50,Manche,48.608,-0.830,Barenton,50720
+50,Manche,49.668,-1.263,Barfleur,50760
+50,Manche,49.380,-1.770,Barneville-Carteret,50270
+50,Manche,49.106,-1.018,La Barre-de-Semilly,50810
+50,Manche,49.427,-1.805,Baubigny,50270
+50,Manche,49.087,-1.069,Baudre,50000
+50,Manche,49.309,-1.367,Baupte,50500
+50,Manche,48.643,-1.035,La Bazoge,50520
+50,Manche,48.837,-1.366,Beauchamps,50320
+50,Manche,48.961,-1.142,Beaucoudray,50420
+50,Manche,48.742,-0.962,Beauficel,50150
+50,Manche,49.663,-1.842,La Hague,50440
+50,Manche,48.603,-1.528,Beauvoir,50170
+50,Manche,48.682,-0.980,Bellefontaine,50520
+50,Manche,49.060,-1.355,Belval,50210
+50,Manche,49.528,-1.775,Benoîtville,50340
+50,Manche,49.137,-0.947,Bérigny,50810
+50,Manche,48.858,-1.157,Beslon,50800
+50,Manche,49.376,-1.626,Besneville,50390
+50,Manche,48.965,-1.004,Beuvrigny,50420
+50,Manche,49.352,-1.365,Beuzeville-la-Bastille,50360
+50,Manche,49.073,-0.889,Biéville,50160
+50,Manche,49.429,-1.486,Biniville,50390
+50,Manche,49.614,-1.810,Biville,50440
+50,Manche,49.072,-1.571,Blainville-sur-Mer,50560
+50,Manche,49.371,-1.288,Blosville,50480
+50,Manche,48.870,-1.247,La Bloutière,50800
+50,Manche,48.806,-1.127,Boisyvon,50800
+50,Manche,49.391,-1.459,La Bonneville,50360
+50,Manche,48.763,-1.527,Jullouville,50610
+50,Manche,48.763,-1.527,Jullouville,50610
+50,Manche,48.793,-1.286,Bourguenolles,50800
+50,Manche,49.390,-1.255,Boutteville,50480
+50,Manche,49.082,-1.500,Brainville,50200
+50,Manche,49.655,-1.785,Branville-Hague,50440
+50,Manche,48.725,-1.173,Brécey,50370
+50,Manche,48.899,-1.532,Bréhal,50290
+50,Manche,48.899,-1.532,Bréhal,50290
+50,Manche,49.650,-1.508,Bretteville,50110
+50,Manche,49.257,-1.628,Bretteville-sur-Ay,50430
+50,Manche,49.538,-1.669,Breuville,50260
+50,Manche,49.340,-1.171,Brévands,50500
+50,Manche,48.869,-1.558,Bréville-sur-Mer,50290
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.469,-1.632,Bricquebec-en-Cotentin,50260
+50,Manche,49.535,-1.717,Bricquebosq,50340
+50,Manche,49.038,-1.479,Bricqueville-la-Blouette,50200
+50,Manche,48.918,-1.513,Bricqueville-sur-Mer,50290
+50,Manche,49.625,-1.412,Brillevast,50330
+50,Manche,49.553,-1.573,Brix,50700
+50,Manche,48.720,-0.966,Brouains,50150
+50,Manche,49.358,-1.206,Brucheville,50480
+50,Manche,48.518,-0.971,Buais-Les-Monts,50640
+50,Manche,48.518,-0.971,Buais-Les-Monts,50640
+50,Manche,49.087,-1.381,Cambernon,50200
+50,Manche,49.070,-1.284,Cametours,50570
+50,Manche,49.085,-1.338,Camprond,50210
+50,Manche,49.079,-1.180,Canisy,50750
+50,Manche,49.640,-1.359,Canteloup,50330
+50,Manche,49.346,-1.636,Canville-la-Rocque,50580
+50,Manche,49.066,-1.249,Carantilly,50570
+50,Manche,49.296,-1.255,Carentan les Marais,50480
+50,Manche,49.296,-1.255,Carentan les Marais,50480
+50,Manche,49.296,-1.255,Carentan les Marais,50500
+50,Manche,49.296,-1.255,Carentan les Marais,50500
+50,Manche,48.504,-1.353,Carnet,50240
+50,Manche,49.659,-1.448,Carneville,50330
+50,Manche,48.749,-1.559,Carolles,50740
+50,Manche,49.374,-1.323,Carquebut,50480
+50,Manche,49.354,-1.565,Catteville,50390
+50,Manche,49.191,-1.122,Cavigny,50620
+50,Manche,49.312,-1.186,Catz,50500
+50,Manche,48.630,-1.384,Céaux,50220
+50,Manche,48.911,-1.438,Cérences,50510
+50,Manche,49.192,-0.938,Cerisy-la-Forêt,50680
+50,Manche,49.036,-1.271,Cerisy-la-Salle,50210
+50,Manche,48.764,-1.237,La Chaise-Baudouin,50370
+50,Manche,48.772,-1.400,Le Grippon,50320
+50,Manche,48.772,-1.400,Le Grippon,50320
+50,Manche,48.737,-1.529,Champeaux,50530
+50,Manche,48.834,-1.316,Champrepus,50800
+50,Manche,49.177,-1.221,Les Champs-de-Losque,50620
+50,Manche,48.892,-1.482,Chanteloup,50510
+50,Manche,48.807,-1.167,La Chapelle-Cécelin,50800
+50,Manche,48.664,-1.149,La Chapelle-Urée,50370
+50,Manche,48.644,-1.069,Chasseguey,50520
+50,Manche,48.736,-1.333,Chavoy,50870
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50100
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50110
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50120
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50130
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50130
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50460
+50,Manche,49.633,-1.633,Cherbourg-en-Cotentin,50470
+50,Manche,48.799,-1.201,Chérencé-le-Héron,50800
+50,Manche,48.711,-0.999,Chérencé-le-Roussel,50520
+50,Manche,49.651,-1.371,Clitourps,50330
+50,Manche,48.875,-1.195,La Colombe,50800
+50,Manche,49.454,-1.488,Colomby,50700
+50,Manche,49.054,-1.024,Condé-sur-Vire,50420
+50,Manche,49.054,-1.024,Condé-sur-Vire,50890
+50,Manche,48.986,-1.429,Contrières,50660
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,49.691,-1.400,Vicq-sur-Mer,50330
+50,Manche,48.873,-1.524,Coudeville-sur-Mer,50290
+50,Manche,48.782,-1.104,Coulouvray-Boisbenâtre,50670
+50,Manche,49.050,-1.388,Courcy,50200
+50,Manche,48.628,-1.422,Courtils,50220
+50,Manche,49.056,-1.443,Coutances,50200
+50,Manche,49.161,-1.008,Couvains,50680
+50,Manche,49.558,-1.681,Couville,50690
+50,Manche,49.554,-1.332,Crasville,50630
+50,Manche,49.199,-1.562,Créances,50710
+50,Manche,48.709,-1.113,Les Cresnays,50370
+50,Manche,48.550,-1.380,La Croix-Avranchin,50240
+50,Manche,48.582,-1.380,Crollon,50220
+50,Manche,49.385,-1.476,Crosville-sur-Douve,50360
+50,Manche,48.729,-1.098,Cuves,50670
+50,Manche,49.029,-1.221,Dangy,50750
+50,Manche,49.314,-1.662,Denneville,50580
+50,Manche,49.208,-1.163,Le Dézert,50620
+50,Manche,49.628,-1.528,Digosville,50110
+50,Manche,49.691,-1.858,Digulleville,50440
+50,Manche,48.990,-1.034,Domjean,50420
+50,Manche,48.850,-1.573,Donville-les-Bains,50350
+50,Manche,49.337,-1.548,Doville,50250
+50,Manche,48.716,-1.488,Dragey-Ronthon,50530
+50,Manche,48.716,-1.488,Dragey-Ronthon,50530
+50,Manche,48.612,-1.278,Ducey-Les Chéris,50220
+50,Manche,48.612,-1.278,Ducey-Les Chéris,50220
+50,Manche,49.459,-1.382,Écausseville,50310
+50,Manche,49.682,-1.824,Éculleville,50440
+50,Manche,49.460,-1.337,Émondeville,50310
+50,Manche,48.833,-1.382,Équilly,50320
+50,Manche,49.474,-1.396,Éroudeville,50310
+50,Manche,49.472,-1.570,L'Étang-Bertrand,50260
+50,Manche,49.385,-1.436,Étienville,50360
+50,Manche,49.681,-1.454,Fermanville,50840
+50,Manche,49.148,-1.317,Feugères,50190
+50,Manche,49.170,-1.492,La Feuillie,50190
+50,Manche,49.395,-1.666,Fierville-les-Mines,50580
+50,Manche,49.530,-1.868,Flamanville,50340
+50,Manche,48.848,-1.264,Fleury,50800
+50,Manche,49.476,-1.451,Flottemanville,50700
+50,Manche,49.618,-1.717,Flottemanville-Hague,50690
+50,Manche,48.820,-1.417,Folligny,50320
+50,Manche,48.820,-1.417,Folligny,50320
+50,Manche,48.820,-1.417,Folligny,50320
+50,Manche,49.493,-1.308,Fontenay-sur-Mer,50310
+50,Manche,48.966,-1.041,Fourneaux,50420
+50,Manche,48.708,-0.820,Le Fresne-Poret,50850
+50,Manche,49.441,-1.353,Fresville,50310
+50,Manche,48.769,-0.963,Gathemo,50150
+50,Manche,49.679,-1.290,Gatteville-le-Phare,50760
+50,Manche,48.901,-1.329,Gavray,50450
+50,Manche,48.901,-1.329,Gavray,50450
+50,Manche,48.901,-1.329,Gavray,50450
+50,Manche,49.129,-1.551,Geffosses,50560
+50,Manche,48.689,-1.473,Genêts,50530
+50,Manche,48.671,-0.802,Ger,50850
+50,Manche,48.690,-1.284,La Godefroy,50300
+50,Manche,48.701,-1.260,La Gohannière,50300
+50,Manche,49.438,-1.513,Golleville,50390
+50,Manche,49.231,-1.402,Gonfreville,50190
+50,Manche,49.631,-1.472,Gonneville-Le Theil,50330
+50,Manche,49.631,-1.472,Gonneville-Le Theil,50330
+50,Manche,49.264,-1.389,Gorges,50190
+50,Manche,48.928,-1.093,Gouvets,50420
+50,Manche,49.097,-1.579,Gouville sur Mer,50200
+50,Manche,49.097,-1.579,Gouville sur Mer,50560
+50,Manche,49.238,-1.200,Graignes-Mesnil-Angot,50620
+50,Manche,49.238,-1.200,Graignes-Mesnil-Angot,50620
+50,Manche,48.688,-1.173,Le Grand-Celland,50370
+50,Manche,48.832,-1.566,Granville,50400
+50,Manche,48.832,-1.566,Granville,50400
+50,Manche,49.068,-1.494,Gratot,50200
+50,Manche,49.672,-1.799,Gréville-Hague,50440
+50,Manche,48.954,-1.350,Grimesnil,50450
+50,Manche,49.507,-1.732,Grosville,50340
+50,Manche,48.966,-1.370,Guéhébert,50210
+50,Manche,48.971,-1.215,Le Guislain,50410
+50,Manche,49.449,-1.409,Le Ham,50310
+50,Manche,48.947,-1.259,Hambye,50450
+50,Manche,48.542,-1.222,Hamelin,50730
+50,Manche,49.576,-1.645,Hardinvast,50690
+50,Manche,48.974,-1.544,Hauteville-sur-Mer,50590
+50,Manche,49.124,-1.303,Hauteville-la-Guichard,50570
+50,Manche,49.428,-1.466,Hautteville-Bocage,50390
+50,Manche,48.980,-1.188,La Haye-Bellefond,50410
+50,Manche,49.393,-1.730,La Haye-d'Ectot,50270
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50250
+50,Manche,49.283,-1.539,La Haye,50580
+50,Manche,48.809,-1.374,La Haye-Pesnel,50320
+50,Manche,49.575,-1.802,Héauville,50340
+50,Manche,49.122,-1.170,Thèreval,50180
+50,Manche,49.122,-1.170,Thèreval,50570
+50,Manche,49.558,-1.784,Helleville,50340
+50,Manche,49.462,-1.435,Hémevez,50700
+50,Manche,49.667,-1.880,Herqueville,50440
+50,Manche,49.037,-1.511,Heugueville-sur-Sienne,50200
+50,Manche,48.974,-1.501,Hérenguerville,50660
+50,Manche,49.371,-1.259,Hiesville,50480
+50,Manche,48.808,-1.401,Hocquigny,50320
+50,Manche,49.190,-1.194,Le Hommet-d'Arthenay,50620
+50,Manche,49.509,-1.432,Huberville,50700
+50,Manche,48.870,-1.467,Hudimesnil,50510
+50,Manche,48.612,-1.449,Huisnes-sur-Mer,50170
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,48.621,-1.182,Isigny-le-Buat,50540
+50,Manche,49.680,-1.914,Jobourg,50440
+50,Manche,49.471,-1.351,Joganville,50310
+50,Manche,48.590,-1.347,Juilley,50220
+50,Manche,48.678,-1.042,Juvigny les Vallées,50520
+50,Manche,49.079,-0.916,Lamberville,50160
+50,Manche,48.819,-1.283,La Lande-d'Airou,50800
+50,Manche,48.568,-1.023,Lapenty,50600
+50,Manche,49.250,-1.455,Laulne,50430
+50,Manche,48.933,-1.378,Lengronne,50450
+50,Manche,49.216,-1.524,Lessay,50430
+50,Manche,49.216,-1.524,Lessay,50430
+50,Manche,49.525,-1.322,Lestre,50310
+50,Manche,49.352,-1.322,Liesville-sur-Douve,50480
+50,Manche,49.483,-1.472,Lieusaint,50700
+50,Manche,48.738,-1.026,Lingeard,50670
+50,Manche,48.943,-1.528,Lingreville,50660
+50,Manche,49.296,-1.488,Montsenelle,50250
+50,Manche,49.296,-1.488,Montsenelle,50250
+50,Manche,49.296,-1.488,Montsenelle,50250
+50,Manche,49.296,-1.488,Montsenelle,50250
+50,Manche,49.296,-1.488,Montsenelle,50250
+50,Manche,48.534,-1.085,Les Loges-Marchis,50600
+50,Manche,48.756,-1.160,Les Loges-sur-Brécey,50370
+50,Manche,48.731,-1.394,Lolif,50530
+50,Manche,48.858,-1.535,Longueville,50290
+50,Manche,48.864,-1.423,Le Loreur,50510
+50,Manche,49.097,-1.300,Le Lorey,50570
+50,Manche,48.788,-1.409,La Lucerne-d'Outremer,50320
+50,Manche,48.766,-1.329,Le Luot,50870
+50,Manche,49.141,-1.046,La Luzerne,50680
+50,Manche,49.452,-1.548,Magneville,50260
+50,Manche,48.700,-1.388,Marcey-les-Grèves,50300
+50,Manche,49.188,-1.307,Marchésieux,50190
+50,Manche,48.653,-1.244,Marcilly,50220
+50,Manche,48.900,-1.126,Margueray,50410
+50,Manche,49.104,-1.252,Marigny-Le-Lozon,50570
+50,Manche,49.104,-1.252,Marigny-Le-Lozon,50570
+50,Manche,49.598,-1.648,Martinvast,50690
+50,Manche,48.955,-1.200,Maupertuis,50410
+50,Manche,49.656,-1.483,Maupertus-sur-Mer,50330
+50,Manche,49.169,-1.099,La Meauffe,50880
+50,Manche,49.280,-1.295,Méautis,50500
+50,Manche,49.371,-1.693,Le Mesnil,50580
+50,Manche,48.700,-1.062,Le Mesnil-Adelée,50520
+50,Manche,48.877,-1.359,Le Mesnil-Amand,50450
+50,Manche,49.105,-1.211,Le Mesnil-Amey,50570
+50,Manche,48.944,-1.415,Le Mesnil-Aubert,50510
+50,Manche,49.598,-1.527,Le Mesnil-au-Val,50110
+50,Manche,49.134,-1.352,Le Mesnilbus,50490
+50,Manche,49.161,-1.235,Le Mesnil-Eury,50570
+50,Manche,48.865,-1.304,Le Mesnil-Garnier,50450
+50,Manche,48.722,-1.056,Le Mesnil-Gilbert,50670
+50,Manche,49.020,-1.144,Le Mesnil-Herman,50750
+50,Manche,48.631,-1.080,Le Mesnillard,50600
+50,Manche,48.667,-1.217,Le Mesnil-Ozenne,50220
+50,Manche,48.662,-1.048,Le Mesnil-Rainfray,50520
+50,Manche,48.859,-1.377,Le Mesnil-Rogues,50450
+50,Manche,49.142,-1.078,Le Mesnil-Rouxelin,50000
+50,Manche,48.692,-1.015,Le Mesnil-Tôve,50520
+50,Manche,49.225,-1.162,Le Mesnil-Véneron,50620
+50,Manche,49.161,-1.277,Le Mesnil-Vigot,50570
+50,Manche,48.856,-1.340,Le Mesnil-Villeman,50450
+50,Manche,48.860,-1.404,La Meurdraquière,50510
+50,Manche,49.190,-1.455,Millières,50190
+50,Manche,49.403,-1.785,Les Moitiers-d'Allonne,50270
+50,Manche,49.359,-1.432,Les Moitiers-en-Bauptois,50360
+50,Manche,48.936,-1.132,Montabot,50410
+50,Manche,49.567,-1.420,Montaigu-la-Brisette,50700
+50,Manche,48.891,-1.270,Montaigu-les-Bois,50450
+50,Manche,48.481,-1.408,Montanel,50240
+50,Manche,48.883,-1.109,Montbray,50410
+50,Manche,49.115,-1.346,Montcuit,50490
+50,Manche,49.497,-1.387,Montebourg,50310
+50,Manche,49.655,-1.263,Montfarville,50760
+50,Manche,49.088,-1.420,Monthuchon,50200
+50,Manche,48.525,-1.288,Montjoie-Saint-Martin,50240
+50,Manche,49.267,-1.165,Montmartin-en-Graignes,50620
+50,Manche,48.991,-1.529,Montmartin-sur-Mer,50590
+50,Manche,49.026,-1.320,Montpinchon,50210
+50,Manche,49.107,-0.896,Montrabot,50810
+50,Manche,49.133,-1.243,Montreuil-sur-Lozon,50570
+50,Manche,48.622,-1.533,Le Mont-Saint-Michel,50170
+50,Manche,49.108,-1.511,Montsurvent,50200
+50,Manche,49.203,-1.053,Moon-sur-Elle,50680
+50,Manche,48.881,-1.069,Morigny,50410
+50,Manche,49.570,-1.317,Morsalines,50630
+50,Manche,48.647,-0.931,Mortain-Bocage,50140
+50,Manche,48.647,-0.931,Mortain-Bocage,50140
+50,Manche,48.647,-0.931,Mortain-Bocage,50140
+50,Manche,48.647,-0.931,Mortain-Bocage,50140
+50,Manche,48.647,-0.931,Mortain-Bocage,50140
+50,Manche,49.474,-1.517,Morville,50700
+50,Manche,48.784,-1.352,La Mouche,50320
+50,Manche,48.548,-1.045,Moulines,50600
+50,Manche,48.994,-1.136,Moyon Villages,50420
+50,Manche,48.994,-1.136,Moyon Villages,50860
+50,Manche,48.994,-1.136,Moyon Villages,50860
+50,Manche,49.136,-1.476,Muneville-le-Bingard,50490
+50,Manche,48.936,-1.487,Muneville-sur-Mer,50290
+50,Manche,49.241,-1.371,Nay,50190
+50,Manche,49.503,-1.551,Négreville,50260
+50,Manche,49.426,-1.563,Néhou,50390
+50,Manche,48.663,-0.947,Le Neufbourg,50140
+50,Manche,49.310,-1.528,Neufmesnil,50250
+50,Manche,49.424,-1.334,Neuville-au-Plain,50480
+50,Manche,49.350,-1.597,Neuville-en-Beaumont,50250
+50,Manche,49.031,-1.410,Nicorps,50200
+50,Manche,48.998,-1.257,Notre-Dame-de-Cenilly,50210
+50,Manche,48.747,-1.199,Notre-Dame-de-Livoye,50370
+50,Manche,49.620,-1.680,Nouainville,50690
+50,Manche,49.546,-1.366,Octeville-l'Avenel,50630
+50,Manche,49.692,-1.884,Omonville-la-Petite,50440
+50,Manche,49.696,-1.841,Omonville-la-Rogue,50440
+50,Manche,49.424,-1.440,Orglandes,50390
+50,Manche,49.011,-1.464,Orval sur Sienne,50660
+50,Manche,49.011,-1.464,Orval sur Sienne,50660
+50,Manche,49.020,-1.366,Ouville,50210
+50,Manche,49.503,-1.340,Ozeville,50310
+50,Manche,48.593,-1.082,Grandparigny,50600
+50,Manche,48.593,-1.082,Grandparigny,50600
+50,Manche,48.593,-1.082,Grandparigny,50600
+50,Manche,48.593,-1.082,Grandparigny,50600
+50,Manche,48.917,-1.205,Percy-en-Normandie,50410
+50,Manche,48.917,-1.205,Percy-en-Normandie,50410
+50,Manche,49.191,-1.412,Périers,50190
+50,Manche,49.613,-1.309,La Pernelle,50630
+50,Manche,48.736,-0.999,Perriers-en-Beauficel,50150
+50,Manche,49.055,-0.893,Le Perron,50160
+50,Manche,48.697,-1.215,Le Petit-Celland,50370
+50,Manche,49.379,-1.387,Picauville,50250
+50,Manche,49.379,-1.387,Picauville,50250
+50,Manche,49.379,-1.387,Picauville,50250
+50,Manche,49.379,-1.387,Picauville,50360
+50,Manche,49.379,-1.387,Picauville,50480
+50,Manche,49.379,-1.387,Picauville,50480
+50,Manche,49.467,-1.778,Pierreville,50340
+50,Manche,49.510,-1.820,Les Pieux,50340
+50,Manche,49.164,-1.559,Pirou,50770
+50,Manche,49.030,-0.893,Placy-Montaigu,50160
+50,Manche,49.279,-1.435,Le Plessis-Lastelle,50250
+50,Manche,48.617,-1.320,Poilley,50220
+50,Manche,48.624,-1.353,Pontaubault,50220
+50,Manche,49.163,-1.151,Pont-Hébert,50880
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.568,-1.486,Pontorson,50170
+50,Manche,48.711,-1.334,Ponts,50300
+50,Manche,49.352,-1.695,Portbail,50580
+50,Manche,48.605,-1.376,Précey,50220
+50,Manche,49.588,-1.324,Quettehou,50630
+50,Manche,48.961,-1.469,Quettreville-sur-Sienne,50660
+50,Manche,48.961,-1.469,Quettreville-sur-Sienne,50660
+50,Manche,49.071,-1.213,Quibou,50750
+50,Manche,49.510,-1.305,Quinéville,50310
+50,Manche,49.207,-1.345,Raids,50500
+50,Manche,49.146,-1.131,Rampan,50000
+50,Manche,49.517,-1.665,Rauville-la-Bigot,50260
+50,Manche,49.390,-1.501,Rauville-la-Place,50390
+50,Manche,49.456,-1.273,Ravenoville,50480
+50,Manche,48.677,-1.111,Reffuveille,50520
+50,Manche,49.015,-1.538,Regnéville-sur-Mer,50590
+50,Manche,49.410,-1.474,Reigneville-Bocage,50390
+50,Manche,49.179,-1.260,Remilly Les Marais,50570
+50,Manche,49.626,-1.251,Réville,50760
+50,Manche,49.500,-1.593,Rocheville,50260
+50,Manche,48.637,-0.980,Romagny Fontenay,50140
+50,Manche,48.637,-0.980,Romagny Fontenay,50140
+50,Manche,48.983,-1.330,Roncey,50210
+50,Manche,49.126,-1.442,La Ronde-Haye,50490
+50,Manche,49.481,-1.828,Le Rozel,50340
+50,Manche,48.499,-1.459,Sacey,50170
+50,Manche,49.044,-0.948,Saint-Amand-Villages,50160
+50,Manche,49.044,-0.948,Saint-Amand-Villages,50160
+50,Manche,49.044,-0.948,Saint-Amand-Villages,50160
+50,Manche,49.238,-1.247,Saint-André-de-Bohon,50500
+50,Manche,49.133,-1.022,Saint-André-de-l'Épine,50680
+50,Manche,48.806,-1.500,Saint-Aubin-des-Préaux,50380
+50,Manche,48.570,-1.287,Saint-Aubin-de-Terregatte,50240
+50,Manche,49.153,-1.379,Saint-Aubin-du-Perron,50490
+50,Manche,48.684,-0.950,Saint-Barthélemy,50140
+50,Manche,48.699,-1.297,Saint-Brice,50300
+50,Manche,48.541,-1.132,Saint-Brice-de-Landelles,50730
+50,Manche,48.833,-1.189,Sainte-Cécile,50800
+50,Manche,49.554,-1.735,Saint-Christophe-du-Foc,50340
+50,Manche,49.185,-1.040,Saint-Clair-sur-l'Elle,50680
+50,Manche,48.668,-0.890,Saint-Clément-Rancoudray,50140
+50,Manche,48.668,-0.890,Saint-Clément-Rancoudray,50140
+50,Manche,49.415,-1.511,Sainte-Colombe,50390
+50,Manche,49.642,-1.765,Sainte-Croix-Hague,50440
+50,Manche,49.486,-1.415,Saint-Cyr,50310
+50,Manche,48.567,-0.826,Saint-Cyr-du-Bailleul,50720
+50,Manche,48.943,-1.327,Saint-Denis-le-Gast,50450
+50,Manche,48.993,-1.377,Saint-Denis-le-Vêtu,50210
+50,Manche,49.072,-1.145,Saint-Ébremond-de-Bonfossé,50750
+50,Manche,49.488,-1.357,Saint-Floxel,50310
+50,Manche,49.225,-1.108,Saint-Fromond,50620
+50,Manche,49.659,-1.306,Sainte-Geneviève,50760
+50,Manche,49.363,-1.729,Saint-Georges-de-la-Rivière,50270
+50,Manche,48.737,-1.222,Saint-Georges-de-Livoye,50370
+50,Manche,49.147,-0.978,Saint-Georges-d'Elle,50680
+50,Manche,48.614,-0.775,Saint-Georges-de-Rouelley,50720
+50,Manche,49.135,-1.109,Saint-Georges-Montcocq,50000
+50,Manche,49.119,-0.920,Saint-Germain-d'Elle,50810
+50,Manche,49.710,-1.913,Saint-Germain-des-Vaux,50440
+50,Manche,49.527,-1.402,Saint-Germain-de-Tournebut,50700
+50,Manche,49.439,-1.244,Saint-Germain-de-Varreville,50480
+50,Manche,49.489,-1.772,Saint-Germain-le-Gaillard,50340
+50,Manche,49.237,-1.608,Saint-Germain-sur-Ay,50430
+50,Manche,49.220,-1.376,Saint-Germain-sur-Sèves,50190
+50,Manche,49.096,-1.161,Saint-Gilles,50180
+50,Manche,48.572,-1.082,Saint-Hilaire-du-Harcouët,50600
+50,Manche,48.572,-1.082,Saint-Hilaire-du-Harcouët,50600
+50,Manche,48.572,-1.082,Saint-Hilaire-du-Harcouët,50730
+50,Manche,49.303,-1.217,Saint-Hilaire-Petitville,50500
+50,Manche,49.420,-1.616,Saint-Jacques-de-Néhou,50390
+50,Manche,48.525,-1.326,Saint-James,50240
+50,Manche,49.231,-1.136,Saint-Jean-de-Daye,50620
+50,Manche,48.719,-1.359,Saint-Jean-de-la-Haize,50300
+50,Manche,49.368,-1.739,Saint-Jean-de-la-Rivière,50270
+50,Manche,49.188,-1.003,Saint-Jean-de-Savigny,50680
+50,Manche,49.093,-0.991,Saint-Jean-d'Elle,50810
+50,Manche,49.093,-0.991,Saint-Jean-d'Elle,50810
+50,Manche,49.093,-0.991,Saint-Jean-d'Elle,50810
+50,Manche,49.093,-0.991,Saint-Jean-d'Elle,50810
+50,Manche,49.093,-0.991,Saint-Jean-d'Elle,50810
+50,Manche,48.824,-1.463,Saint-Jean-des-Champs,50320
+50,Manche,48.824,-1.463,Saint-Jean-des-Champs,50320
+50,Manche,48.824,-1.463,Saint-Jean-des-Champs,50320
+50,Manche,48.772,-1.203,Saint-Jean-du-Corail-des-Bois,50370
+50,Manche,48.726,-1.514,Saint-Jean-le-Thomas,50530
+50,Manche,49.531,-1.523,Saint-Joseph,50700
+50,Manche,48.749,-1.115,Saint-Laurent-de-Cuves,50670
+50,Manche,48.570,-1.246,Saint-Laurent-de-Terregatte,50240
+50,Manche,49.109,-1.077,Saint-Lô,50000
+50,Manche,49.331,-1.673,Saint-Lô-d'Ourville,50580
+50,Manche,48.994,-0.987,Saint-Louet-sur-Vire,50420
+50,Manche,48.665,-1.303,Saint-Loup,50300
+50,Manche,49.063,-1.542,Saint-Malo-de-la-Lande,50200
+50,Manche,49.478,-1.286,Saint-Marcouf,50310
+50,Manche,49.395,-1.203,Sainte-Marie-du-Mont,50480
+50,Manche,49.168,-1.352,Saint-Martin-d'Aubigny,50190
+50,Manche,49.529,-1.369,Saint-Martin-d'Audouville,50310
+50,Manche,49.041,-1.174,Saint-Martin-de-Bonfossé,50750
+50,Manche,48.977,-1.286,Saint-Martin-de-Cenilly,50210
+50,Manche,48.747,-0.860,Chaulieu,50150
+50,Manche,48.747,-0.860,Chaulieu,50150
+50,Manche,48.666,-1.336,Saint-Martin-des-Champs,50300
+50,Manche,49.428,-1.233,Saint-Martin-de-Varreville,50480
+50,Manche,48.780,-1.159,Saint-Martin-le-Bouillant,50800
+50,Manche,49.553,-1.646,Saint-Martin-le-Gréard,50690
+50,Manche,48.816,-1.151,Saint-Maur-des-Bois,50800
+50,Manche,49.394,-1.700,Saint-Maurice-en-Cotentin,50270
+50,Manche,49.408,-1.323,Sainte-Mère-Église,50480
+50,Manche,49.408,-1.323,Sainte-Mère-Église,50480
+50,Manche,49.408,-1.323,Sainte-Mère-Église,50480
+50,Manche,49.408,-1.323,Sainte-Mère-Église,50480
+50,Manche,49.408,-1.323,Sainte-Mère-Église,50480
+50,Manche,49.134,-1.382,Saint-Michel-de-la-Pierre,50490
+50,Manche,48.764,-1.025,Saint-Michel-de-Montjoie,50670
+50,Manche,49.320,-1.582,Saint-Nicolas-de-Pierrepont,50250
+50,Manche,48.761,-1.192,Saint-Nicolas-des-Bois,50370
+50,Manche,48.679,-1.244,Saint-Ovin,50220
+50,Manche,48.679,-1.244,Saint-Ovin,50300
+50,Manche,48.802,-1.546,Saint-Pair-sur-Mer,50380
+50,Manche,49.227,-1.440,Saint-Patrice-de-Claids,50190
+50,Manche,49.295,-1.189,Saint-Pellerin,50500
+50,Manche,48.771,-1.298,Le Parc,50870
+50,Manche,48.771,-1.298,Le Parc,50870
+50,Manche,48.771,-1.298,Le Parc,50870
+50,Manche,49.417,-1.685,Saint-Pierre-d'Arthéglise,50270
+50,Manche,49.039,-1.435,Saint-Pierre-de-Coutances,50200
+50,Manche,49.122,-0.997,Saint-Pierre-de-Semilly,50810
+50,Manche,49.669,-1.398,Saint-Pierre-Église,50330
+50,Manche,48.784,-1.488,Saint-Pierre-Langers,50530
+50,Manche,48.830,-1.505,Saint-Planchers,50400
+50,Manche,48.747,-1.057,Saint-Pois,50670
+50,Manche,48.645,-1.300,Saint-Quentin-sur-le-Homme,50220
+50,Manche,49.049,-1.131,Bourgvallées,50750
+50,Manche,49.049,-1.131,Bourgvallées,50750
+50,Manche,49.049,-1.131,Bourgvallées,50750
+50,Manche,49.049,-1.131,Bourgvallées,50750
+50,Manche,49.335,-1.609,Saint-Sauveur-de-Pierrepont,50250
+50,Manche,48.840,-1.434,Saint-Sauveur-la-Pommeraye,50510
+50,Manche,49.123,-1.406,Saint-Sauveur-Lendelin,50490
+50,Manche,49.379,-1.547,Saint-Sauveur-le-Vicomte,50390
+50,Manche,49.195,-1.375,Saint-Sébastien-de-Raids,50190
+50,Manche,48.558,-1.320,Saint-Senier-de-Beuvron,50240
+50,Manche,48.687,-1.319,Saint-Senier-sous-Avranches,50300
+50,Manche,49.073,-1.057,Sainte-Suzanne-sur-Vire,50750
+50,Manche,49.599,-1.273,Saint-Vaast-la-Hougue,50550
+50,Manche,49.599,-1.273,Saint-Vaast-la-Hougue,50550
+50,Manche,48.909,-1.056,Saint-Vigor-des-Monts,50420
+50,Manche,49.243,-1.327,Terre-et-Marais,50500
+50,Manche,49.243,-1.327,Terre-et-Marais,50500
+50,Manche,48.754,-1.463,Sartilly-Baie-Bocage,50530
+50,Manche,48.754,-1.463,Sartilly-Baie-Bocage,50530
+50,Manche,48.754,-1.463,Sartilly-Baie-Bocage,50530
+50,Manche,48.754,-1.463,Sartilly-Baie-Bocage,50530
+50,Manche,48.754,-1.463,Sartilly-Baie-Bocage,50530
+50,Manche,49.572,-1.489,Saussemesnil,50700
+50,Manche,49.011,-1.425,Saussey,50200
+50,Manche,49.059,-1.327,Savigny,50210
+50,Manche,48.519,-1.024,Savigny-le-Vieux,50640
+50,Manche,49.386,-1.284,Sébeville,50480
+50,Manche,49.429,-1.770,Sénoville,50270
+50,Manche,49.091,-1.484,Servigny,50200
+50,Manche,48.602,-1.411,Servon,50170
+50,Manche,49.593,-1.686,Sideville,50690
+50,Manche,49.559,-1.830,Siouville-Hague,50340
+50,Manche,49.424,-1.709,Sortosville-en-Beaumont,50270
+50,Manche,49.481,-1.429,Sortosville,50310
+50,Manche,49.522,-1.606,Sottevast,50260
+50,Manche,49.539,-1.752,Sotteville,50340
+50,Manche,49.009,-1.188,Soulles,50750
+50,Manche,48.713,-0.891,Sourdeval,50150
+50,Manche,48.713,-0.891,Sourdeval,50150
+50,Manche,48.912,-1.276,Sourdeval-les-Bois,50450
+50,Manche,48.753,-1.358,Subligny,50870
+50,Manche,49.452,-1.792,Surtainville,50270
+50,Manche,49.362,-1.585,Taillepied,50390
+50,Manche,49.541,-1.460,Tamerville,50700
+50,Manche,48.584,-1.443,Tanis,50170
+50,Manche,48.804,-1.335,Le Tanu,50320
+50,Manche,48.804,-1.335,Le Tanu,50320
+50,Manche,48.541,-0.878,Le Teilleul,50640
+50,Manche,48.541,-0.878,Le Teilleul,50640
+50,Manche,48.541,-0.878,Le Teilleul,50640
+50,Manche,48.541,-0.878,Le Teilleul,50640
+50,Manche,48.541,-0.878,Le Teilleul,50640
+50,Manche,48.963,-1.084,Tessy-Bocage,50420
+50,Manche,48.963,-1.084,Tessy-Bocage,50420
+50,Manche,49.592,-1.394,Teurthéville-Bocage,50630
+50,Manche,49.583,-1.738,Teurthéville-Hague,50690
+50,Manche,49.648,-1.417,Théville,50330
+50,Manche,48.723,-1.273,Tirepied,50870
+50,Manche,48.723,-1.273,Tirepied,50870
+50,Manche,49.671,-1.336,Tocqueville,50330
+50,Manche,49.579,-1.607,Tollevast,50470
+50,Manche,49.641,-1.719,Tonneville,50460
+50,Manche,49.031,-0.982,Torigny-les-Villes,50160
+50,Manche,49.031,-0.982,Torigny-les-Villes,50160
+50,Manche,49.031,-0.982,Torigny-les-Villes,50160
+50,Manche,49.031,-0.982,Torigny-les-Villes,50160
+50,Manche,49.050,-1.526,Tourville-sur-Sienne,50200
+50,Manche,49.537,-1.823,Tréauville,50340
+50,Manche,48.960,-1.417,Trelly,50660
+50,Manche,49.209,-1.245,Tribehou,50620
+50,Manche,48.788,-1.246,La Trinité,50800
+50,Manche,49.018,-1.072,Troisgots,50420
+50,Manche,49.405,-1.269,Turqueville,50480
+50,Manche,49.449,-1.445,Urville,50700
+50,Manche,49.667,-1.744,Urville-Nacqueville,50460
+50,Manche,48.676,-1.425,Vains,50300
+50,Manche,49.648,-1.321,Valcanville,50760
+50,Manche,49.512,-1.473,Valognes,50700
+50,Manche,48.661,-1.372,Le Val-Saint-Père,50300
+50,Manche,49.337,-1.491,Varenguebec,50250
+50,Manche,49.671,-1.371,Varouville,50330
+50,Manche,49.618,-1.357,Le Vast,50630
+50,Manche,49.599,-1.791,Vasteville,50440
+50,Manche,49.516,-1.358,Vaudreville,50310
+50,Manche,49.161,-1.418,Vaudrimesnil,50490
+50,Manche,49.637,-1.825,Vauville,50440
+50,Manche,49.083,-1.457,La Vendelée,50200
+50,Manche,48.895,-1.390,Ver,50450
+50,Manche,48.568,-1.386,Vergoncey,50240
+50,Manche,48.715,-1.228,Vernix,50370
+50,Manche,49.246,-1.490,Vesly,50430
+50,Manche,49.246,-1.490,Vesly,50430
+50,Manche,49.320,-1.144,Les Veys,50500
+50,Manche,49.632,-1.320,Le Vicel,50760
+50,Manche,49.566,-1.371,Videcosville,50630
+50,Manche,49.351,-1.233,Vierville,50480
+50,Manche,48.964,-1.171,Villebaudon,50410
+50,Manche,48.834,-1.222,Villedieu-les-Poêles-Rouffigny,50800
+50,Manche,48.834,-1.222,Villedieu-les-Poêles-Rouffigny,50800
+50,Manche,48.532,-1.388,Villiers-le-Pré,50240
+50,Manche,49.161,-1.061,Villiers-Fossard,50680
+50,Manche,49.569,-1.715,Virandeville,50690
+50,Manche,48.844,-1.551,Yquelon,50400
+50,Manche,49.496,-1.510,Yvetot-Bocage,50700

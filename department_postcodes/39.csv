@@ -1,0 +1,598 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+39,Jura,47.064,5.3782,Abergement-la-Ronce,39500
+39,Jura,46.914,5.6785,Abergement-le-Grand,39600
+39,Jura,46.906,5.6966,Abergement-le-Petit,39800
+39,Jura,46.913,5.9456,Abergement-lès-Thésy,39110
+39,Jura,46.955,5.8095,Aiglepierre,39110
+39,Jura,46.585,5.5857,Alièze,39270
+39,Jura,47.166,5.5649,Amange,39700
+39,Jura,46.859,5.9289,Andelot-en-Montagne,39110
+39,Jura,46.423,5.4267,Andelot-Morval,39320
+39,Jura,46.423,5.4267,Andelot-Morval,39320
+39,Jura,46.958,5.2770,Annoire,39120
+39,Jura,46.894,5.7731,Arbois,39600
+39,Jura,47.148,5.5205,Archelange,39290
+39,Jura,46.772,5.8775,Ardon,39300
+39,Jura,46.400,5.5889,Arinthod,39240
+39,Jura,46.769,5.5293,Arlay,39140
+39,Jura,46.769,5.5293,Arlay,39210
+39,Jura,46.293,5.4882,Aromas,39240
+39,Jura,46.293,5.4882,Aromas,39240
+39,Jura,46.953,5.7843,Les Arsures,39600
+39,Jura,46.715,6.0802,Arsure-Arsurette,39250
+39,Jura,46.572,5.5286,La Chailleuse,39270
+39,Jura,46.572,5.5286,La Chailleuse,39270
+39,Jura,46.572,5.5286,La Chailleuse,39270
+39,Jura,46.572,5.5286,La Chailleuse,39570
+39,Jura,46.937,5.3967,Asnans-Beauvoisin,39120
+39,Jura,46.937,5.3967,Asnans-Beauvoisin,39120
+39,Jura,47.140,5.5839,Audelange,39700
+39,Jura,46.562,5.3893,Augea,39190
+39,Jura,47.026,5.5838,Augerans,39380
+39,Jura,46.554,5.4956,Augisey,39270
+39,Jura,46.916,5.6327,Aumont,39800
+39,Jura,47.060,5.3371,Aumur,39410
+39,Jura,47.125,5.5082,Authume,39100
+39,Jura,47.177,5.6551,Auxange,39700
+39,Jura,46.401,5.8407,Avignon-lès-Saint-Claude,39200
+39,Jura,46.967,5.4621,Balaiseaux,39120
+39,Jura,46.455,5.3509,Balanod,39160
+39,Jura,46.377,5.4172,La Balme-d'Épy,39320
+39,Jura,46.982,5.5818,Bans,39380
+39,Jura,46.542,5.7032,Barésia-sur-l'Ain,39130
+39,Jura,47.157,5.6930,La Barre,39700
+39,Jura,46.810,5.7178,Barretaine,39800
+39,Jura,46.704,5.6456,Baume-les-Messieurs,39210
+39,Jura,46.704,5.6456,Baume-les-Messieurs,39570
+39,Jura,47.105,5.5362,Baverans,39100
+39,Jura,46.585,5.4305,Beaufort,39190
+39,Jura,46.531,5.5482,Beffia,39270
+39,Jura,46.309,5.9088,Bellecombe,39310
+39,Jura,46.556,6.0823,Bellefontaine,39400
+39,Jura,47.028,5.6048,Belmont,39380
+39,Jura,46.857,5.5953,Bersaillin,39800
+39,Jura,46.857,5.5953,Bersaillin,39800
+39,Jura,46.857,5.5953,Bersaillin,39800
+39,Jura,46.785,5.7961,Besain,39800
+39,Jura,47.145,5.4515,Biarne,39290
+39,Jura,46.703,6.0496,Bief-des-Maisons,39150
+39,Jura,46.820,6.1171,Bief-du-Fourg,39250
+39,Jura,46.903,5.5293,Biefmorin,39800
+39,Jura,46.746,6.0564,Billecul,39250
+39,Jura,46.731,5.4278,Bletterans,39140
+39,Jura,46.746,5.6704,Blois-sur-Seille,39210
+39,Jura,46.628,5.6959,Blye,39130
+39,Jura,46.536,6.1273,Bois-d'Amont,39220
+39,Jura,46.826,5.5005,Bois-de-Gand,39230
+39,Jura,46.580,5.7211,Boissia,39130
+39,Jura,46.420,5.5214,La Boissière,39240
+39,Jura,46.596,5.8566,Bonlieu,39130
+39,Jura,46.619,5.4304,Bonnaud,39190
+39,Jura,46.731,5.7470,Bonnefontaine,39800
+39,Jura,46.611,5.5532,Bornay,39570
+39,Jura,46.294,5.8045,Les Bouchoux,39370
+39,Jura,46.347,5.4032,Bourcia,39320
+39,Jura,46.729,5.9558,Bourg-de-Sirod,39300
+39,Jura,46.925,5.8675,Bracon,39110
+39,Jura,46.874,5.6278,Brainans,39800
+39,Jura,47.223,5.5735,Brans,39290
+39,Jura,46.784,5.5805,Bréry,39230
+39,Jura,47.129,5.6646,La Bretenière,39700
+39,Jura,46.919,5.5380,Bretenières,39120
+39,Jura,47.100,5.5228,Brevans,39100
+39,Jura,46.663,5.6255,Briod,39570
+39,Jura,46.356,5.4328,Broissia,39320
+39,Jura,46.870,5.7262,Buvilly,39800
+39,Jura,46.816,6.0776,Censeau,39250
+39,Jura,46.934,5.9394,Cernans,39110
+39,Jura,46.736,6.1257,Cerniébaud,39250
+39,Jura,46.412,5.6436,Cernon,39240
+39,Jura,46.412,5.6436,Cernon,39240
+39,Jura,46.622,5.4919,Cesancey,39570
+39,Jura,46.360,5.5753,Cézia,39240
+39,Jura,46.922,5.4346,Chaînée-des-Coupis,39120
+39,Jura,46.692,6.0260,Les Chalesmes,39150
+39,Jura,46.469,5.5703,Chambéria,39270
+39,Jura,46.991,5.7033,Chamblay,39380
+39,Jura,46.844,5.7387,Chamole,39800
+39,Jura,47.032,5.8065,Champagne-sur-Loue,39600
+39,Jura,47.259,5.5044,Champagney,39290
+39,Jura,46.744,5.8988,Champagnole,39300
+39,Jura,47.007,5.3901,Champdivers,39500
+39,Jura,46.878,5.5129,Champrougier,39230
+39,Jura,47.102,5.4204,Champvans,39100
+39,Jura,46.345,5.6424,Chancia,01590
+39,Jura,46.988,5.8579,La Chapelle-sur-Furieuse,39110
+39,Jura,46.800,5.3806,Chapelle-Voland,39140
+39,Jura,46.833,5.9659,Chapois,39300
+39,Jura,46.468,5.7154,Charchilla,39260
+39,Jura,46.629,5.7635,Charcier,39130
+39,Jura,46.766,5.9926,Charency,39250
+39,Jura,46.614,5.7272,Charézier,39130
+39,Jura,46.848,5.5467,La Charme,39230
+39,Jura,46.337,5.4936,Charnod,39240
+39,Jura,46.867,5.4546,La Chassagne,39230
+39,Jura,46.360,5.7849,Chassal,39360
+39,Jura,46.759,5.6481,Château-Chalon,39210
+39,Jura,46.507,5.9126,Château-des-Prés,39150
+39,Jura,46.858,5.8248,La Châtelaine,39600
+39,Jura,47.058,5.6976,Chatelay,39380
+39,Jura,46.529,5.8092,Châtel-de-Joux,39130
+39,Jura,46.879,5.5444,Le Chateley,39230
+39,Jura,46.666,5.9122,Châtelneuf,39300
+39,Jura,47.150,5.5463,Châtenois,39700
+39,Jura,46.662,5.7273,Châtillon,39130
+39,Jura,46.424,5.5461,Chatonnay,39240
+39,Jura,46.843,5.4746,Chaumergy,39230
+39,Jura,46.600,5.9439,La Chaumusse,39150
+39,Jura,46.824,5.7454,Chaussenans,39800
+39,Jura,46.973,5.4027,Chaussin,39120
+39,Jura,46.662,5.9567,Chaux-des-Crotenay,39150
+39,Jura,46.499,5.8576,Nanchez,39150
+39,Jura,46.499,5.8576,Nanchez,39150
+39,Jura,46.607,5.9065,La Chaux-du-Dombief,39150
+39,Jura,46.825,5.4765,La Chaux-en-Bresse,39230
+39,Jura,46.883,5.8794,Chaux-Champagny,39110
+39,Jura,46.883,5.8794,Chaux-Champagny,39110
+39,Jura,46.498,5.5573,Chavéria,39270
+39,Jura,46.859,5.5296,Chemenot,39230
+39,Jura,46.350,5.5583,Chemilla,39240
+39,Jura,46.976,5.3125,Chemin,39120
+39,Jura,46.917,5.4696,Chêne-Bernard,39120
+39,Jura,46.848,5.4438,Chêne-Sec,39230
+39,Jura,47.176,5.4741,Chevigny,39290
+39,Jura,46.501,5.4195,Chevreaux,39190
+39,Jura,46.652,5.8600,Chevrotaine,39130
+39,Jura,46.693,5.5723,Chille,39570
+39,Jura,46.659,5.4969,Chilly-le-Vignoble,39570
+39,Jura,46.869,5.8579,Chilly-sur-Salins,39110
+39,Jura,46.376,5.5669,Chisséria,39240
+39,Jura,47.060,5.7404,Chissey-sur-Loue,39380
+39,Jura,47.058,5.4505,Choisey,39100
+39,Jura,46.301,5.7700,Choux,39370
+39,Jura,46.719,5.9199,Cize,39300
+39,Jura,46.564,5.7547,Clairvaux-les-Lacs,39130
+39,Jura,46.946,5.9168,Clucy,39110
+39,Jura,46.586,5.7731,Cogna,39130
+39,Jura,46.338,5.8257,Coiserette,39200
+39,Jura,46.303,5.5820,Coisia,39240
+39,Jura,46.879,5.5710,Colonne,39800
+39,Jura,46.805,5.4371,Commenailles,39140
+39,Jura,46.649,5.4349,Condamine,39570
+39,Jura,46.330,5.6176,Condes,39240
+39,Jura,46.651,5.6110,Conliège,39570
+39,Jura,46.749,6.0077,Conte,39300
+39,Jura,46.307,5.5474,Cornod,39240
+39,Jura,46.746,5.3919,Cosges,39140
+39,Jura,46.597,5.5691,Courbette,39570
+39,Jura,46.653,5.5287,Courbouzon,39570
+39,Jura,46.675,5.4868,Courlans,39570
+39,Jura,46.675,5.4868,Courlans,39570
+39,Jura,46.669,5.4493,Courlaoux,39570
+39,Jura,47.132,5.7933,Courtefontaine,39700
+39,Jura,46.533,5.3774,Cousance,39190
+39,Jura,46.340,5.8450,Coyrière,39200
+39,Jura,46.512,5.6981,Coyron,39260
+39,Jura,47.007,5.7870,Cramans,39600
+39,Jura,46.688,5.6690,Hauteroche,39210
+39,Jura,46.688,5.6690,Hauteroche,39570
+39,Jura,46.688,5.6690,Hauteroche,39570
+39,Jura,46.695,5.9812,Crans,39300
+39,Jura,46.466,5.7416,Crenans,39260
+39,Jura,46.526,5.4838,Cressia,39270
+39,Jura,47.050,5.4781,Crissey,39100
+39,Jura,46.754,5.8137,Crotenay,39300
+39,Jura,46.463,5.8046,Les Crozets,39260
+39,Jura,46.546,5.4053,Cuisia,39190
+39,Jura,46.417,5.8194,Cuttura,39170
+39,Jura,46.839,6.0661,Cuvier,39250
+39,Jura,47.253,5.5539,Dammartin-Marpain,39290
+39,Jura,47.253,5.5539,Dammartin-Marpain,39290
+39,Jura,47.070,5.4071,Damparis,39500
+39,Jura,47.165,5.7422,Dampierre,39700
+39,Jura,47.165,5.7422,Dampierre,39700
+39,Jura,46.825,5.6075,Darbonnay,39230
+39,Jura,46.624,5.8005,Denezières,39130
+39,Jura,46.950,5.4987,Le Deschaux,39120
+39,Jura,46.768,5.4679,Desnes,39140
+39,Jura,46.384,5.5077,Dessia,39320
+39,Jura,46.885,5.4875,Les Deux-Fays,39230
+39,Jura,46.518,5.3856,Digna,39190
+39,Jura,47.075,5.5006,Dole,39100
+39,Jura,47.075,5.5006,Dole,39100
+39,Jura,47.075,5.5006,Dole,39100
+39,Jura,46.762,5.5900,Domblans,39210
+39,Jura,46.562,5.6127,Dompierre-sur-Mont,39270
+39,Jura,46.649,5.7779,Doucier,39130
+39,Jura,46.932,5.9706,Dournon,39110
+39,Jura,46.767,6.0140,Doye,39250
+39,Jura,46.404,5.5300,Dramelay,39240
+39,Jura,47.103,5.6121,Éclans-Nenon,39700
+39,Jura,47.103,5.6121,Éclans-Nenon,39700
+39,Jura,46.994,5.7368,Écleux,39600
+39,Jura,46.502,5.6338,Écrille,39270
+39,Jura,46.641,5.9633,Entre-deux-Monts,39150
+39,Jura,46.375,5.3906,Val-d'Épy,39160
+39,Jura,46.375,5.3906,Val-d'Épy,39160
+39,Jura,46.375,5.3906,Val-d'Épy,39160
+39,Jura,46.375,5.3906,Val-d'Épy,39160
+39,Jura,46.375,5.3906,Val-d'Épy,39160
+39,Jura,46.375,5.3906,Val-d'Épy,39320
+39,Jura,46.760,5.9409,Équevillon,39300
+39,Jura,46.903,5.4152,Les Essards-Taignevaux,39120
+39,Jura,46.830,6.0321,Esserval-Tartre,39250
+39,Jura,46.491,5.7938,Étival,39130
+39,Jura,46.491,5.7938,Étival,39130
+39,Jura,46.716,5.5339,L'Étoile,39570
+39,Jura,47.110,5.6819,Étrepigney,39700
+39,Jura,47.179,5.7648,Évans,39700
+39,Jura,47.081,5.5668,Falletans,39700
+39,Jura,46.748,6.0366,La Favière,39250
+39,Jura,46.753,5.7174,Fay-en-Montagne,39800
+39,Jura,46.940,5.6507,La Ferté,39600
+39,Jura,46.440,5.6016,Fétigny,39240
+39,Jura,46.774,5.7163,Le Fied,39800
+39,Jura,46.632,6.0304,Foncine-le-Bas,39520
+39,Jura,46.659,6.0615,Foncine-le-Haut,39460
+39,Jura,46.696,5.4373,Fontainebrux,39140
+39,Jura,46.671,5.8152,Fontenu,39130
+39,Jura,46.623,5.9819,Fort-du-Plasne,39150
+39,Jura,47.085,5.4443,Foucherans,39100
+39,Jura,46.860,5.4862,Foulenay,39230
+39,Jura,47.124,5.7566,Fraisans,39700
+39,Jura,46.836,5.5023,Francheville,39230
+39,Jura,46.728,6.0988,Fraroz,39250
+39,Jura,47.196,5.5034,Frasne-les-Meulières,39290
+39,Jura,46.561,5.8012,La Frasnée,39130
+39,Jura,46.636,5.8906,Le Frasnois,39130
+39,Jura,46.649,5.4846,Frébuans,39570
+39,Jura,46.788,5.6321,Frontenay,39210
+39,Jura,46.945,5.4561,Gatey,39120
+39,Jura,47.196,5.6847,Gendrey,39350
+39,Jura,46.357,5.5298,Genod,39240
+39,Jura,46.958,5.9551,Geraise,39110
+39,Jura,47.038,5.6861,Germigney,39380
+39,Jura,46.625,5.5307,Geruge,39570
+39,Jura,46.637,5.5093,Gevingey,39570
+39,Jura,47.032,5.4448,Gevry,39100
+39,Jura,46.454,5.4715,Gigny,39320
+39,Jura,46.730,6.0313,Gillois,39250
+39,Jura,46.527,5.4248,Gizia,39190
+39,Jura,46.534,5.9083,Grande-Rivière,39150
+39,Jura,46.534,5.9083,Grande-Rivière,39150
+39,Jura,46.997,5.8420,Grange-de-Vaivre,39600
+39,Jura,46.473,5.4489,Graye-et-Charnay,39320
+39,Jura,47.162,5.5177,Gredisans,39290
+39,Jura,46.889,5.6902,Grozon,39800
+39,Jura,46.595,5.4985,Grusse,39190
+39,Jura,46.561,5.7824,Hautecour,39130
+39,Jura,46.908,5.3908,Les Hays,39120
+39,Jura,46.898,5.8496,Ivory,39110
+39,Jura,46.989,5.8970,Ivrey,39110
+39,Jura,46.368,5.7047,Jeurre,39360
+39,Jura,47.139,5.4851,Jouhe,39100
+39,Jura,46.600,6.0100,Lac-des-Rouges-Truites,39150
+39,Jura,46.766,5.6830,Ladoye-sur-Seille,39210
+39,Jura,46.389,5.4884,Montlainsia,39320
+39,Jura,46.391,6.0089,Lajoux,01410
+39,Jura,46.391,6.0089,Lajoux,39310
+39,Jura,46.408,5.9834,Lamoura,39310
+39,Jura,46.818,5.9460,Le Larderet,39300
+39,Jura,46.556,5.6655,Largillay-Marsonnay,39130
+39,Jura,46.706,5.4578,Larnaud,39140
+39,Jura,46.338,5.7881,Larrivoire,39360
+39,Jura,46.803,5.9417,Le Latet,39300
+39,Jura,46.751,6.0957,La Latette,39250
+39,Jura,46.336,5.6849,Lavancia-Epercy,01590
+39,Jura,47.151,5.6080,Lavangeot,39700
+39,Jura,47.155,5.6342,Lavans-lès-Dole,39700
+39,Jura,46.390,5.7771,Lavans-lès-Saint-Claude,39170
+39,Jura,46.390,5.7771,Lavans-lès-Saint-Claude,39170
+39,Jura,46.390,5.7771,Lavans-lès-Saint-Claude,39170
+39,Jura,46.337,5.5723,Lavans-sur-Valouse,39240
+39,Jura,46.717,5.6051,Lavigny,39210
+39,Jura,46.717,5.6051,Lavigny,39210
+39,Jura,46.394,5.6725,Lect,39260
+39,Jura,46.394,5.6725,Lect,39260
+39,Jura,46.424,5.6069,Valzin en Petite Montagne,39240
+39,Jura,46.889,5.9824,Lemuy,39110
+39,Jura,46.751,5.9754,Lent,39300
+39,Jura,46.460,5.8296,Leschères,39170
+39,Jura,46.494,5.4623,Loisia,39320
+39,Jura,46.784,5.5062,Lombard,39230
+39,Jura,46.463,5.9633,Longchaumois,39400
+39,Jura,46.770,6.0749,Longcochon,39250
+39,Jura,46.965,5.3542,Longwy-sur-le-Doubs,39120
+39,Jura,46.674,5.5573,Lons-le-Saunier,39000
+39,Jura,46.705,5.8835,Loulle,39300
+39,Jura,47.189,5.7209,Louvatange,39350
+39,Jura,46.433,5.4778,Louvenne,39320
+39,Jura,46.732,5.5817,Le Louverot,39210
+39,Jura,47.030,5.5526,La Loye,39380
+39,Jura,46.641,5.5448,Macornay,39570
+39,Jura,46.479,5.6923,Maisod,39260
+39,Jura,47.183,5.6146,Malange,39700
+39,Jura,46.629,5.4474,Mallerey,39190
+39,Jura,46.794,5.5549,Mantry,39230
+39,Jura,46.446,5.5280,Marigna-sur-Valouse,39240
+39,Jura,46.679,5.7787,Marigny,39130
+39,Jura,46.575,5.6364,Marnézia,39270
+39,Jura,46.953,5.8360,Marnoz,39110
+39,Jura,46.733,5.7031,La Marre,39210
+39,Jura,46.389,5.7009,Martigna,39260
+39,Jura,46.929,5.6789,Mathenay,39600
+39,Jura,46.567,5.4124,Maynal,39190
+39,Jura,46.774,5.6348,Menétru-le-Vignoble,39210
+39,Jura,46.623,5.8380,Menétrux-en-Joux,39130
+39,Jura,47.167,5.5027,Menotey,39290
+39,Jura,46.553,5.6357,Mérona,39270
+39,Jura,46.899,5.8190,Mesnay,39600
+39,Jura,46.594,5.6772,Mesnois,39130
+39,Jura,46.663,5.5156,Messia-sur-Sorne,39570
+39,Jura,46.494,5.7394,Meussia,39260
+39,Jura,46.787,6.0419,Mièges,39250
+39,Jura,46.787,6.0419,Mièges,39250
+39,Jura,46.787,6.0419,Mièges,39250
+39,Jura,46.806,5.6661,Miéry,39800
+39,Jura,46.775,6.1439,Mignovillard,39250
+39,Jura,46.775,6.1439,Mignovillard,39250
+39,Jura,46.775,6.1439,Mignovillard,39250
+39,Jura,46.775,6.1439,Mignovillard,39250
+39,Jura,46.438,5.7379,Moirans-en-Montagne,39260
+39,Jura,46.635,5.5597,Moiron,39570
+39,Jura,47.188,5.5323,Moissey,39290
+39,Jura,46.825,5.8171,Molain,39800
+39,Jura,46.951,5.6805,Molamboz,39600
+39,Jura,47.015,5.4234,Molay,39500
+39,Jura,46.351,5.7635,Molinges,39360
+39,Jura,46.342,5.9319,Les Molunes,39310
+39,Jura,46.838,5.5950,Monay,39230
+39,Jura,46.457,5.5106,Monnetay,39320
+39,Jura,46.724,5.8158,Monnet-la-Ville,39300
+39,Jura,47.114,5.4604,Monnières,39100
+39,Jura,46.454,5.3910,Montagna-le-Reconduit,39160
+39,Jura,46.358,5.4628,Montagna-le-Templier,39320
+39,Jura,46.653,5.5733,Montaigu,39570
+39,Jura,46.720,5.5775,Montain,39210
+39,Jura,47.020,5.6374,Montbarrey,39380
+39,Jura,46.356,5.6645,Montcusel,39260
+39,Jura,47.158,5.7097,Monteplain,39700
+39,Jura,46.333,5.4458,Montfleur,39320
+39,Jura,46.894,5.6390,Montholier,39800
+39,Jura,46.937,5.7761,Montigny-lès-Arsures,39600
+39,Jura,46.705,5.7917,Montigny-sur-l'Ain,39300
+39,Jura,46.873,5.9662,Montmarlon,39110
+39,Jura,47.217,5.5165,Montmirey-la-Ville,39290
+39,Jura,47.229,5.5341,Montmirey-le-Château,39290
+39,Jura,46.686,5.5196,Montmorot,39570
+39,Jura,46.686,5.5196,Montmorot,39570
+39,Jura,46.426,5.4949,Montrevel,39320
+39,Jura,46.786,5.8438,Montrond,39300
+39,Jura,46.963,5.5944,Mont-sous-Vaudrey,39380
+39,Jura,46.703,5.8446,Mont-sur-Monnet,39300
+39,Jura,46.556,6.0161,Morbier,39400
+39,Jura,46.556,6.0161,Morbier,39400
+39,Jura,46.525,6.0332,Hauts de Bienne,39400
+39,Jura,46.525,6.0332,Hauts de Bienne,39400
+39,Jura,46.525,6.0332,Hauts de Bienne,39400
+39,Jura,46.977,5.7899,Mouchard,39330
+39,Jura,46.977,5.7899,Mouchard,39330
+39,Jura,46.776,5.9903,Mournans-Charbonny,39250
+39,Jura,46.326,5.8728,Les Moussières,39310
+39,Jura,46.530,5.5665,Moutonne,39270
+39,Jura,46.790,5.9435,Moutoux,39300
+39,Jura,47.282,5.5302,Mutigney,39290
+39,Jura,46.419,5.3491,Les Trois Châteaux,39160
+39,Jura,46.419,5.3491,Les Trois Châteaux,39160
+39,Jura,46.419,5.3491,Les Trois Châteaux,39160
+39,Jura,46.748,5.4226,Nance,39140
+39,Jura,46.473,5.5297,Nancuise,39270
+39,Jura,46.794,5.9735,Les Nans,39300
+39,Jura,46.904,5.3391,Neublans-Abergement,39120
+39,Jura,46.904,5.3391,Neublans-Abergement,39120
+39,Jura,46.893,5.5997,Neuvilley,39800
+39,Jura,47.002,5.5159,Nevy-lès-Dole,39380
+39,Jura,46.734,5.6453,Nevy-sur-Seille,39210
+39,Jura,46.733,5.8854,Ney,39300
+39,Jura,46.602,5.6426,Nogna,39570
+39,Jura,46.770,6.0361,Nozeroy,39250
+39,Jura,47.203,5.5600,Offlanges,39290
+39,Jura,46.802,6.0004,Onglières,39250
+39,Jura,46.448,5.6635,Onoz,39270
+39,Jura,46.582,5.4515,Orbagna,39190
+39,Jura,47.154,5.6677,Orchamps,39700
+39,Jura,46.506,5.6222,Orgelet,39270
+39,Jura,46.506,5.6222,Orgelet,39270
+39,Jura,47.240,5.6598,Ougney,39350
+39,Jura,46.990,5.6631,Ounans,39380
+39,Jura,47.107,5.6489,Our,39700
+39,Jura,46.914,5.5977,Oussières,39800
+39,Jura,47.250,5.6996,Pagney,39350
+39,Jura,46.974,5.8259,Pagnoz,39330
+39,Jura,46.698,5.5946,Pannessières,39570
+39,Jura,47.022,5.4795,Parcey,39100
+39,Jura,46.798,5.8970,Le Pasquier,39300
+39,Jura,46.804,5.6241,Passenans,39230
+39,Jura,46.587,5.7087,Patornay,39130
+39,Jura,47.198,5.4729,Peintre,39290
+39,Jura,46.676,5.5993,Perrigny,39570
+39,Jura,46.993,5.3664,Peseux,39120
+39,Jura,46.286,5.8523,La Pesse,39370
+39,Jura,47.196,5.7431,Le Petit-Mercey,39350
+39,Jura,46.932,5.3376,Petit-Noir,39120
+39,Jura,46.496,5.8247,Les Piards,39150
+39,Jura,46.754,5.7569,Picarreau,39800
+39,Jura,46.703,5.9080,Pillemoine,39300
+39,Jura,46.495,5.5010,Pimorin,39270
+39,Jura,46.708,5.5699,Le Pin,39210
+39,Jura,46.725,5.5559,Plainoiseau,39210
+39,Jura,46.524,5.6372,Plaisia,39270
+39,Jura,46.663,6.0006,Les Planches-en-Montagne,39150
+39,Jura,46.663,6.0006,Les Planches-en-Montagne,39150
+39,Jura,46.880,5.8084,Les Planches-près-Arbois,39600
+39,Jura,46.794,5.6904,Plasne,39210
+39,Jura,46.794,5.6904,Plasne,39800
+39,Jura,46.815,6.0199,Plénise,39250
+39,Jura,46.804,6.0156,Plénisette,39250
+39,Jura,46.915,5.4600,Pleure,39120
+39,Jura,47.110,5.7169,Plumont,39700
+39,Jura,46.594,5.6223,Poids-de-Fiole,39570
+39,Jura,47.221,5.4907,Pointre,39290
+39,Jura,46.822,5.7329,Poligny,39800
+39,Jura,46.571,5.6882,Pont-de-Poitte,39130
+39,Jura,46.876,5.8992,Pont-d'Héry,39110
+39,Jura,46.876,5.8992,Pont-d'Héry,39110
+39,Jura,46.876,5.8992,Pont-d'Héry,39110
+39,Jura,46.731,5.7896,Pont-du-Navoy,39300
+39,Jura,46.998,5.8191,Port-Lesney,39330
+39,Jura,46.998,5.8191,Port-Lesney,39600
+39,Jura,46.381,5.7511,Pratz,39170
+39,Jura,46.453,6.0349,Prémanon,39220
+39,Jura,46.453,6.0349,Prémanon,39400
+39,Jura,46.453,6.0349,Prémanon,39400
+39,Jura,46.557,5.5819,Présilly,39270
+39,Jura,46.931,5.8350,Pretin,39110
+39,Jura,46.629,5.6512,Publy,39570
+39,Jura,46.876,5.7523,Pupillin,39600
+39,Jura,46.734,5.5247,Quintigny,39570
+39,Jura,46.993,5.4738,Rahon,39120
+39,Jura,47.157,5.4729,Rainans,39290
+39,Jura,47.159,5.7191,Ranchot,39700
+39,Jura,47.137,5.7155,Rans,39700
+39,Jura,46.433,5.8003,Ravilloles,39170
+39,Jura,46.807,5.5067,Recanoz,39230
+39,Jura,46.560,5.5558,Reithouse,39270
+39,Jura,46.766,5.4380,Relans,39140
+39,Jura,46.685,5.4138,Les Repôts,39140
+39,Jura,46.627,5.6089,Revigny,39570
+39,Jura,46.468,5.8706,La Rixouse,39200
+39,Jura,46.762,6.0550,Rix,39250
+39,Jura,47.122,5.5563,Rochefort-sur-Nenon,39700
+39,Jura,46.327,5.7443,Rogna,39360
+39,Jura,47.207,5.7182,Romain,39350
+39,Jura,47.160,5.5942,Romange,39700
+39,Jura,46.534,5.4528,Rosay,39190
+39,Jura,46.583,5.4770,Rotalier,39190
+39,Jura,46.515,5.5276,Rothonay,39270
+39,Jura,47.226,5.7086,Rouffange,39350
+39,Jura,46.498,6.0700,Les Rousses,39220
+39,Jura,46.498,6.0700,Les Rousses,39220
+39,Jura,46.498,6.0700,Les Rousses,39400
+39,Jura,46.498,6.0700,Les Rousses,39400
+39,Jura,46.498,6.0700,Les Rousses,39400
+39,Jura,46.729,5.4958,Ruffey-sur-Seille,39140
+39,Jura,46.880,5.4259,Rye,39230
+39,Jura,46.669,5.8634,Saffloz,39130
+39,Jura,46.614,5.4748,Sainte-Agnès,39190
+39,Jura,46.437,5.3356,Saint-Amour,39160
+39,Jura,47.032,5.3336,Saint-Aubin,39410
+39,Jura,46.986,5.4342,Saint-Baraing,39120
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.408,5.8755,Saint-Claude,39200
+39,Jura,46.959,5.7230,Saint-Cyr-Montmalin,39600
+39,Jura,46.959,5.7230,Saint-Cyr-Montmalin,39600
+39,Jura,46.708,5.5127,Saint-Didier,39570
+39,Jura,46.779,5.9379,Saint-Germain-en-Montagne,39300
+39,Jura,46.360,5.5492,Saint-Hymetière,39240
+39,Jura,46.405,5.3610,Saint-Jean-d'Étreux,39160
+39,Jura,46.396,5.4577,Val Suran,39320
+39,Jura,46.804,5.5980,Saint-Lamain,39230
+39,Jura,46.569,5.9625,Saint-Laurent-en-Grandvaux,39150
+39,Jura,46.828,5.6394,Saint-Lothain,39230
+39,Jura,46.996,5.3053,Saint-Loup,39120
+39,Jura,46.409,5.7860,Coteaux du Lizon,39170
+39,Jura,46.606,5.5959,Saint-Maur,39570
+39,Jura,46.568,5.8338,Saint-Maurice-Crillat,39130
+39,Jura,46.568,5.8338,Saint-Maurice-Crillat,39130
+39,Jura,46.568,5.9030,Saint-Pierre,39150
+39,Jura,46.971,5.8808,Saint-Thiébaud,39110
+39,Jura,46.970,5.9337,Saizenay,39110
+39,Jura,47.159,5.7943,Salans,39700
+39,Jura,47.222,5.6368,Saligney,39350
+39,Jura,46.947,5.8976,Salins-les-Bains,39110
+39,Jura,47.127,5.4451,Sampans,39100
+39,Jura,47.041,5.6660,Santans,39380
+39,Jura,46.747,5.9464,Sapois,39300
+39,Jura,46.473,5.6176,Sarrogna,39270
+39,Jura,46.473,5.6176,Sarrogna,39270
+39,Jura,46.473,5.6176,Sarrogna,39270
+39,Jura,46.473,5.6176,Sarrogna,39270
+39,Jura,46.603,5.8242,Saugeot,39130
+39,Jura,46.437,5.5684,Savigna,39240
+39,Jura,46.944,5.5407,Séligney,39120
+39,Jura,46.825,5.5567,Sellières,39230
+39,Jura,46.373,5.9231,Septmoncel les Molunes,39310
+39,Jura,46.887,5.4625,Sergenaux,39230
+39,Jura,46.902,5.4666,Sergenon,39120
+39,Jura,47.197,5.6480,Sermange,39700
+39,Jura,47.205,5.6140,Serre-les-Moulières,39700
+39,Jura,46.723,5.9917,Sirod,39300
+39,Jura,46.723,5.9917,Sirod,39300
+39,Jura,46.646,5.8303,Songeson,39130
+39,Jura,46.540,5.7572,Soucia,39130
+39,Jura,46.979,5.5535,Souvans,39380
+39,Jura,46.854,5.9817,Supt,39300
+39,Jura,46.696,5.9514,Syam,39300
+39,Jura,46.923,5.5125,Tassenières,39120
+39,Jura,47.037,5.4031,Tavaux,39500
+39,Jura,47.221,5.6866,Taxenne,39350
+39,Jura,47.240,5.6092,Thervay,39290
+39,Jura,46.905,5.9289,Thésy,39110
+39,Jura,46.279,5.5240,Thoirette-Coisia,39240
+39,Jura,46.519,5.7462,Thoiria,39130
+39,Jura,46.426,5.3955,Thoissia,39160
+39,Jura,46.822,5.5830,Toulouse-le-Château,39230
+39,Jura,46.523,5.6632,La Tour-du-Meix,39270
+39,Jura,46.866,5.6663,Tourmont,39800
+39,Jura,46.639,5.4688,Trenal,39570
+39,Jura,46.602,5.7905,Uxelles,39130
+39,Jura,46.937,5.7059,Vadans,39600
+39,Jura,46.828,5.8742,Valempoulières,39300
+39,Jura,46.373,5.5222,Valfin-sur-Valouse,39240
+39,Jura,46.773,5.9119,Vannoz,39300
+39,Jura,46.688,5.9282,Le Vaudioux,39300
+39,Jura,46.966,5.6267,Vaudrey,39380
+39,Jura,46.354,5.7328,Vaux-lès-Saint-Claude,39360
+39,Jura,46.823,5.7276,Vaux-sur-Poligny,39800
+39,Jura,46.596,5.4542,Vercia,39190
+39,Jura,46.659,5.6847,Verges,39570
+39,Jura,46.457,5.4221,Véria,39160
+39,Jura,46.627,5.5779,Vernantois,39570
+39,Jura,46.732,5.5940,Le Vernois,39210
+39,Jura,46.822,5.9123,Vers-en-Montagne,39300
+39,Jura,46.824,5.5260,Vers-sous-Sellières,39230
+39,Jura,46.601,5.7478,Vertamboz,39130
+39,Jura,46.357,5.6110,Vescles,39240
+39,Jura,46.666,5.6635,Vevy,39570
+39,Jura,47.056,5.6313,La Vieille-Loye,39380
+39,Jura,46.362,5.8631,Villard-Saint-Sauveur,39200
+39,Jura,46.405,5.7358,Villards-d'Héria,39260
+39,Jura,46.485,5.8973,Villard-sur-Bienne,39150
+39,Jura,46.485,5.8973,Villard-sur-Bienne,39200
+39,Jura,46.376,5.4386,Villechantria,39320
+39,Jura,46.969,5.7478,Villeneuve-d'Aval,39600
+39,Jura,46.338,5.4769,Villeneuve-lès-Charnod,39240
+39,Jura,46.694,5.5527,Villeneuve-sous-Pymont,39570
+39,Jura,46.855,5.6394,Villerserine,39800
+39,Jura,46.993,5.7598,Villers-Farlay,39600
+39,Jura,46.925,5.5689,Villers-les-Bois,39120
+39,Jura,46.925,5.5689,Villers-les-Bois,39800
+39,Jura,46.967,5.5201,Villers-Robert,39120
+39,Jura,46.933,5.7436,Villette-lès-Arbois,39600
+39,Jura,47.044,5.4940,Villette-lès-Dole,39100
+39,Jura,46.727,5.4479,Villevieux,39140
+39,Jura,46.848,5.5074,Le Villey,39230
+39,Jura,46.606,5.4635,Val-Sonnette,39190
+39,Jura,46.787,5.4824,Vincent-Froideville,39230
+39,Jura,46.787,5.4824,Vincent-Froideville,39230
+39,Jura,46.297,5.7309,Viry,39360
+39,Jura,47.253,5.6756,Vitreux,39350
+39,Jura,46.743,5.6035,Voiteur,39210
+39,Jura,46.330,5.5216,Vosbles-Valfin,39240
+39,Jura,47.183,5.5840,Vriange,39700
+39,Jura,46.321,5.7853,Vulvoz,39360
+39,Jura,46.893,5.9198,Aresches,39110

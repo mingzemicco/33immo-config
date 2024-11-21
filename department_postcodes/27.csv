@@ -1,0 +1,707 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+27,Eure,49.165,0.6982,Aclou,27800
+27,Eure,48.769,1.1049,Acon,27570
+27,Eure,49.164,1.1765,Acquigny,27400
+27,Eure,49.164,1.1765,Acquigny,27400
+27,Eure,49.005,1.4258,Aigleville,27120
+27,Eure,49.157,1.2443,Ailly,27600
+27,Eure,49.430,0.6260,Aizier,27500
+27,Eure,49.321,1.1782,Alizay,27460
+27,Eure,48.840,0.7397,Ambenay,27250
+27,Eure,49.376,1.7332,Amécourt,27140
+27,Eure,49.213,0.9251,Amfreville-Saint-Amand,27370
+27,Eure,49.213,0.9251,Amfreville-Saint-Amand,27370
+27,Eure,49.312,1.3214,Amfreville-les-Champs,27380
+27,Eure,49.302,1.2663,Amfreville-sous-les-Monts,27380
+27,Eure,49.156,1.1464,Amfreville-sur-Iton,27400
+27,Eure,49.228,1.2453,Andé,27430
+27,Eure,49.245,1.4280,Les Andelys,27700
+27,Eure,48.988,1.1570,Angerville-la-Campagne,27930
+27,Eure,49.322,0.6510,Appeville-Annebault,27290
+27,Eure,48.680,0.8051,Armentières-sur-Avre,27820
+27,Eure,48.989,1.1036,Arnières-sur-Iton,27180
+27,Eure,49.204,0.4019,Asnières,27260
+27,Eure,49.175,1.3332,Le Val d'Hazey,27600
+27,Eure,49.175,1.3332,Le Val d'Hazey,27600
+27,Eure,49.175,1.3332,Le Val d'Hazey,27940
+27,Eure,48.993,1.0550,Aulnay-sur-Iton,27180
+27,Eure,49.100,1.2947,Autheuil-Authouillet,27490
+27,Eure,49.100,1.2947,Autheuil-Authouillet,27490
+27,Eure,49.219,1.6326,Authevernes,27420
+27,Eure,48.898,1.2343,Les Authieux,27220
+27,Eure,49.226,0.6967,Authou,27290
+27,Eure,49.056,1.1200,Aviron,27930
+27,Eure,48.928,1.1460,Chambois,27240
+27,Eure,48.928,1.1460,Chambois,27240
+27,Eure,48.928,1.1460,Chambois,27240
+27,Eure,49.090,1.0455,Bacquepuis,27930
+27,Eure,49.321,1.3665,Bacqueville,27440
+27,Eure,49.197,0.4313,Bailleul-la-Vallée,27260
+27,Eure,48.748,0.9775,Bâlines,27130
+27,Eure,49.079,0.8247,Barc,27170
+27,Eure,48.725,0.8185,Les Barils,27130
+27,Eure,49.384,0.8544,Barneville-sur-Seine,27310
+27,Eure,49.039,0.8546,Barquet,27170
+27,Eure,49.157,0.4850,Barville,27230
+27,Eure,48.866,0.8016,Les Baux-de-Breteuil,27160
+27,Eure,48.967,1.1066,Les Baux-Sainte-Croix,27180
+27,Eure,49.325,1.7576,Bazincourt-sur-Epte,27140
+27,Eure,49.170,0.5496,Bazoques,27230
+27,Eure,48.910,0.9009,Beaubray,27190
+27,Eure,49.404,1.5248,Beauficel-en-Lyons,27480
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27270
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27330
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.009,0.6964,Mesnil-en-Ouche,27410
+27,Eure,49.095,0.7808,Beaumontel,27170
+27,Eure,49.059,0.7548,Beaumont-le-Roger,27170
+27,Eure,49.224,0.7265,Le Bec-Hellouin,27800
+27,Eure,49.238,0.9757,Le Bec-Thomas,27370
+27,Eure,48.843,0.8484,Bémécourt,27160
+27,Eure,49.113,1.0584,Bérengeville-la-Campagne,27110
+27,Eure,49.092,0.5895,Bernay,27300
+27,Eure,49.074,1.0287,Bernienville,27180
+27,Eure,49.235,1.3466,Bernières-sur-Seine,27700
+27,Eure,49.289,1.6744,Bernouville,27660
+27,Eure,49.171,0.6228,Berthouville,27800
+27,Eure,49.294,0.8276,Les Monts du Roumois,27520
+27,Eure,49.026,0.8932,Berville-la-Campagne,27170
+27,Eure,49.430,0.3576,Berville-sur-Mer,27210
+27,Eure,49.338,0.3427,Beuzeville,27210
+27,Eure,49.395,1.6243,Bézu-la-Forêt,27480
+27,Eure,49.304,1.6830,Bézu-Saint-Éloi,27660
+27,Eure,48.926,0.6917,Bois-Anzeray,27330
+27,Eure,48.816,0.7482,Bois-Arnault,27250
+27,Eure,49.292,1.4901,Boisemont,27150
+27,Eure,49.275,0.3911,Le Bois-Hellain,27260
+27,Eure,49.102,1.5484,Bois-Jérôme-Saint-Ouen,27620
+27,Eure,48.861,1.3409,Bois-le-Roi,27220
+27,Eure,49.156,0.6496,Boisney,27800
+27,Eure,48.900,0.6937,Bois-Normand-près-Lyre,27330
+27,Eure,48.966,1.3327,Boisset-les-Prévanches,27120
+27,Eure,49.271,0.7814,Boissey-le-Châtel,27520
+27,Eure,48.951,1.3690,La Boissière,27220
+27,Eure,49.156,0.5784,Boissy-Lamberville,27300
+27,Eure,49.020,1.2971,Boncourt,27120
+27,Eure,48.997,1.0354,La Bonneville-sur-Iton,27190
+27,Eure,49.259,0.7515,Bonneville-Aptot,27290
+27,Eure,49.316,0.8071,Flancourt-Crescy-en-Roumois,27310
+27,Eure,49.316,0.8071,Flancourt-Crescy-en-Roumois,27310
+27,Eure,49.316,0.8071,Flancourt-Crescy-en-Roumois,27310
+27,Eure,49.298,0.7720,Thénouville,27520
+27,Eure,49.293,0.9223,Bosroumois,27670
+27,Eure,49.354,0.8462,Bosgouet,27310
+27,Eure,49.267,0.8440,Bosguérard-de-Marcouville,27520
+27,Eure,49.277,0.9094,Bosnormand,27670
+27,Eure,49.413,1.5886,Bosquentin,27480
+27,Eure,49.220,0.7656,Bosrobert,27800
+27,Eure,48.871,0.6765,Les Bottereaux,27250
+27,Eure,48.871,0.6765,Les Bottereaux,27250
+27,Eure,48.871,0.6765,Les Bottereaux,27250
+27,Eure,49.201,1.3867,Bouafles,27700
+27,Eure,49.398,1.7116,Bouchevilliers,27150
+27,Eure,49.076,1.1873,Le Boulay-Morin,27930
+27,Eure,49.370,0.3933,Boulleville,27210
+27,Eure,49.370,0.3933,Boulleville,27210
+27,Eure,49.399,0.4914,Bouquelon,27500
+27,Eure,49.361,0.7704,Bouquetot,27310
+27,Eure,49.345,0.8091,Bourg-Achard,27310
+27,Eure,49.384,1.3043,Bourg-Beaudouin,27380
+27,Eure,49.299,0.8765,Grand Bourgtheroulde,27520
+27,Eure,49.299,0.8765,Grand Bourgtheroulde,27520
+27,Eure,49.299,0.8765,Grand Bourgtheroulde,27520
+27,Eure,49.299,0.8765,Grand Bourgtheroulde,27520
+27,Eure,49.299,0.8765,Grand Bourgtheroulde,27520
+27,Eure,49.122,0.5009,Bournainville-Faverolles,27230
+27,Eure,49.122,0.5009,Bournainville-Faverolles,27230
+27,Eure,49.122,0.5009,Bournainville-Faverolles,27230
+27,Eure,49.391,0.6202,Bourneville-Sainte-Croix,27500
+27,Eure,49.391,0.6202,Bourneville-Sainte-Croix,27500
+27,Eure,48.763,0.8061,Bourth,27580
+27,Eure,49.104,0.8360,Bray,27170
+27,Eure,49.342,0.6805,Brestot,27350
+27,Eure,48.946,1.3412,Bretagnolles,27220
+27,Eure,48.852,0.8998,Breteuil,27160
+27,Eure,48.852,0.8998,Breteuil,27160
+27,Eure,48.852,0.8998,Breteuil,27160
+27,Eure,49.214,0.6625,Brétigny,27800
+27,Eure,48.964,1.4394,Breuilpont,27640
+27,Eure,48.767,1.0716,Breux-sur-Avre,27570
+27,Eure,49.187,0.7121,Brionne,27800
+27,Eure,49.003,0.5258,Broglie,27270
+27,Eure,49.109,1.1134,Brosville,27930
+27,Eure,48.934,1.4443,Bueil,27730
+27,Eure,48.992,0.9445,Burey,27190
+27,Eure,49.003,1.3163,Caillouet-Orgeville,27120
+27,Eure,49.119,1.2184,Cailly-sur-Eure,27490
+27,Eure,49.190,0.7558,Calleville,27800
+27,Eure,49.317,0.5615,Campigny,27500
+27,Eure,49.157,1.0893,Canappeville,27400
+27,Eure,49.078,0.5475,Caorches-Saint-Nicolas,27300
+27,Eure,49.078,0.5475,Caorches-Saint-Nicolas,27300
+27,Eure,49.048,0.4721,Capelle-les-Grands,27270
+27,Eure,49.141,0.6742,Carsix,27300
+27,Eure,49.024,1.0428,Caugé,27180
+27,Eure,49.366,0.9084,Caumont,27310
+27,Eure,49.355,0.6470,Cauverville-en-Roumois,27350
+27,Eure,49.179,0.9764,Cesseville,27110
+27,Eure,49.013,1.4516,Chaignes,27120
+27,Eure,48.755,0.7709,Chaise-Dieu-du-Theil,27580
+27,Eure,48.992,0.5625,Chamblac,27270
+27,Eure,48.992,0.5625,Chamblac,27270
+27,Eure,48.882,0.6209,Chambord,27250
+27,Eure,49.080,1.3194,Chambray,27120
+27,Eure,48.958,1.0080,Champ-Dolent,27190
+27,Eure,49.107,1.3280,Champenard,27600
+27,Eure,48.957,0.7608,Champignolles,27330
+27,Eure,48.869,1.3006,Champigny-la-Futelaye,27220
+27,Eure,49.280,0.4063,La Chapelle-Bayvel,27260
+27,Eure,49.108,1.1718,La Chapelle-du-Bois-des-Faulx,27930
+27,Eure,48.985,0.4639,La Chapelle-Gauthier,27270
+27,Eure,49.111,0.4171,La Chapelle-Hareng,27230
+27,Eure,49.094,1.3808,La Chapelle-Réanville,27950
+27,Eure,49.379,1.3896,Charleval,27380
+27,Eure,49.200,1.6587,Château-sur-Epte,27420
+27,Eure,49.280,1.6452,Chauvincourt-Provemont,27150
+27,Eure,49.280,1.6452,Chauvincourt-Provemont,27150
+27,Eure,48.880,1.1962,Chavigny-Bailleul,27220
+27,Eure,48.684,0.7745,Chennebrun,27820
+27,Eure,48.792,0.7606,Chéronvilliers,27250
+27,Eure,48.891,0.9359,Marbois,27160
+27,Eure,48.891,0.9359,Marbois,27160
+27,Eure,48.891,0.9359,Marbois,27240
+27,Eure,48.891,0.9359,Marbois,27240
+27,Eure,49.001,1.2660,Cierrey,27930
+27,Eure,49.048,1.0188,Claville,27180
+27,Eure,48.993,0.8627,Collandres-Quincarnon,27190
+27,Eure,49.349,0.6239,Colletot,27500
+27,Eure,49.096,0.8854,Combon,27170
+27,Eure,48.954,0.9319,Conches-en-Ouche,27190
+27,Eure,49.307,0.6084,Condé-sur-Risle,27290
+27,Eure,49.260,1.2761,Connelles,27430
+27,Eure,49.417,0.3912,Conteville,27210
+27,Eure,49.251,0.3845,Cormeilles,27260
+27,Eure,48.984,1.2968,Le Cormier,27120
+27,Eure,49.059,0.7030,Corneville-la-Fouquetière,27300
+27,Eure,49.340,0.5985,Corneville-sur-Risle,27500
+27,Eure,49.282,1.4574,Corny,27700
+27,Eure,49.343,1.4968,Coudray,27150
+27,Eure,48.863,1.2359,Coudres,27220
+27,Eure,49.129,0.5661,Courbépine,27300
+27,Eure,49.185,1.3661,Courcelles-sur-Seine,27940
+27,Eure,48.802,1.2766,Courdemanche,27320
+27,Eure,48.738,0.9999,Courteilles,27130
+27,Eure,48.902,1.3963,La Couture-Boussey,27750
+27,Eure,49.205,1.0719,Crasville,27400
+27,Eure,49.203,0.9695,Crestot,27110
+27,Eure,49.198,0.9975,Criquebeuf-la-Campagne,27110
+27,Eure,49.293,1.1015,Criquebeuf-sur-Seine,27340
+27,Eure,48.990,0.9756,La Croisille,27190
+27,Eure,49.026,1.3420,Croisy-sur-Eure,27120
+27,Eure,49.118,1.2484,Clef Vallée d'Eure,27490
+27,Eure,49.118,1.2484,Clef Vallée d'Eure,27490
+27,Eure,49.118,1.2484,Clef Vallée d'Eure,27490
+27,Eure,49.151,0.9315,Crosville-la-Vieille,27110
+27,Eure,48.850,1.3681,Croth,27530
+27,Eure,49.282,1.3703,Cuverville,27700
+27,Eure,49.294,1.1722,Les Damps,27340
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27160
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,48.864,1.0804,Mesnils-sur-Iton,27240
+27,Eure,49.261,1.6883,Dangu,27720
+27,Eure,49.083,1.2073,Dardez,27930
+27,Eure,49.189,1.0294,Daubeuf-la-Campagne,27110
+27,Eure,49.260,1.3108,Daubeuf-près-Vatteville,27430
+27,Eure,49.043,1.4312,Douains,27120
+27,Eure,49.322,1.5893,Doudeauville-en-Vexin,27150
+27,Eure,49.332,1.3075,Douville-sur-Andelle,27380
+27,Eure,48.797,1.1258,Droisy,27320
+27,Eure,48.797,1.1258,Droisy,27320
+27,Eure,49.116,0.4591,Drucourt,27230
+27,Eure,49.142,0.4997,Duranville,27230
+27,Eure,49.288,0.7169,Écaquelon,27290
+27,Eure,49.123,0.8347,Écardenville-la-Campagne,27170
+27,Eure,49.126,0.9915,Écauville,27110
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27420
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27420
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27510
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27510
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27510
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27510
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27510
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.151,1.5977,Vexin-sur-Epte,27630
+27,Eure,49.306,1.4299,Écouis,27440
+27,Eure,49.169,1.0130,Ecquetot,27110
+27,Eure,49.101,1.1570,Émalleville,27930
+27,Eure,49.058,0.9067,Émanville,27190
+27,Eure,49.273,0.4536,Épaignes,27260
+27,Eure,49.182,0.8749,Épégard,27110
+27,Eure,48.934,1.3957,Épieds,27730
+27,Eure,49.205,0.5384,Épreville-en-Lieuvin,27560
+27,Eure,49.129,0.8762,Épreville-près-le-Neubourg,27110
+27,Eure,49.311,1.6161,Étrépagny,27150
+27,Eure,49.379,0.6553,Étréville,27350
+27,Eure,49.369,0.6887,Éturqueraye,27350
+27,Eure,49.020,1.1416,Évreux,27000
+27,Eure,49.020,1.1416,Évreux,27000
+27,Eure,48.870,1.4126,Ézy-sur-Eure,27530
+27,Eure,48.996,1.3848,Fains,27120
+27,Eure,49.291,1.5282,Farceaux,27150
+27,Eure,49.413,0.3324,Fatouville-Grestain,27210
+27,Eure,49.024,1.1990,Fauville,27930
+27,Eure,49.020,0.9270,Faverolles-la-Campagne,27190
+27,Eure,49.183,0.5254,Le Favril,27230
+27,Eure,49.020,0.9874,Ferrières-Haut-Clocher,27190
+27,Eure,49.028,0.5701,Ferrières-Saint-Hilaire,27270
+27,Eure,48.977,0.7871,La Ferrière-sur-Risle,27760
+27,Eure,49.131,1.0338,Feuguerolles,27110
+27,Eure,48.943,0.8024,Le Fidelaire,27190
+27,Eure,49.398,0.3168,Fiquefleur-Équainville,27210
+27,Eure,49.426,1.5558,Fleury-la-Forêt,27480
+27,Eure,49.363,1.3518,Fleury-sur-Andelle,27380
+27,Eure,49.312,1.2841,Flipou,27380
+27,Eure,49.158,0.5248,Folleville,27230
+27,Eure,49.180,1.2530,Fontaine-Bellenger,27600
+27,Eure,49.088,0.6879,Fontaine-l'Abbé,27470
+27,Eure,49.158,0.4459,Fontaine-la-Louvet,27230
+27,Eure,49.145,0.7084,Fontaine-la-Soret,27550
+27,Eure,49.064,1.2805,Fontaine-sous-Jouy,27120
+27,Eure,48.927,1.2403,La Forêt-du-Parc,27220
+27,Eure,49.328,0.4017,Fort-Moville,27210
+27,Eure,48.927,1.3199,Foucrainville,27220
+27,Eure,49.394,0.4222,Foulbec,27210
+27,Eure,49.222,0.9634,Fouqueville,27370
+27,Eure,49.378,0.5740,Fourmetot,27500
+27,Eure,48.794,0.8389,Francheville,27160
+27,Eure,49.173,0.6858,Franqueville,27800
+27,Eure,49.246,0.6714,Freneuse-sur-Risle,27290
+27,Eure,48.956,0.9753,Le Fresne,27190
+27,Eure,49.201,0.4687,Fresne-Cauverville,27260
+27,Eure,49.288,1.4097,Fresne-l'Archevêque,27700
+27,Eure,48.947,1.3067,Fresney,27220
+27,Eure,48.984,1.4034,Gadencourt,27120
+27,Eure,49.339,1.3997,Gaillardbois-Cressenville,27440
+27,Eure,49.159,1.3470,Gaillon,27600
+27,Eure,49.266,1.6161,Gamaches-en-Vexin,27150
+27,Eure,48.949,1.2567,La Baronnie,27220
+27,Eure,48.949,1.2567,La Baronnie,27220
+27,Eure,48.909,1.4336,Garennes-sur-Eure,27780
+27,Eure,49.102,1.5997,Gasny,27620
+27,Eure,49.035,1.2470,Gauciel,27930
+27,Eure,48.960,1.0298,Gaudreville-la-Rivière,27190
+27,Eure,49.049,1.0835,Gauville-la-Campagne,27930
+27,Eure,49.278,1.7687,Gisors,27140
+27,Eure,49.081,1.5328,Giverny,27620
+27,Eure,49.191,0.5679,Giverville,27560
+27,Eure,48.987,1.0033,Glisolles,27190
+27,Eure,49.272,0.6845,Glos-sur-Risle,27290
+27,Eure,48.948,0.4323,La Goulafrière,27390
+27,Eure,49.121,0.7659,Goupil-Othon,27170
+27,Eure,48.716,0.7693,Gournay-le-Guérin,27580
+27,Eure,49.345,1.3678,Val d'Orger,27380
+27,Eure,49.044,0.5337,Grand-Camp,27270
+27,Eure,48.808,1.0757,Grandvilliers,27240
+27,Eure,48.808,1.0757,Grandvilliers,27240
+27,Eure,49.094,0.9663,Graveron-Sémerville,27110
+27,Eure,49.052,1.1605,Gravigny,27930
+27,Eure,49.044,0.8054,Grosley-sur-Risle,27170
+27,Eure,48.940,1.1864,Grossœuvre,27220
+27,Eure,49.228,0.8405,Le Bosc du Theil,27370
+27,Eure,49.228,0.8405,Le Bosc du Theil,27370
+27,Eure,49.224,1.6798,Guerny,27720
+27,Eure,48.980,1.1790,Guichainville,27930
+27,Eure,49.214,1.4784,Guiseniers,27700
+27,Eure,48.874,1.3477,L'Habit,27220
+27,Eure,49.281,1.5575,Hacqueville,27150
+27,Eure,49.165,0.7760,Harcourt,27800
+27,Eure,49.041,1.3160,Hardencourt-Cocherel,27120
+27,Eure,49.231,1.0011,La Harengère,27370
+27,Eure,49.249,1.4999,Harquency,27700
+27,Eure,49.397,0.7665,Hauville,27350
+27,Eure,49.394,0.6933,La Haye-Aubrée,27350
+27,Eure,49.187,0.7778,La Haye-de-Calleville,27800
+27,Eure,49.403,0.7280,La Haye-de-Routot,27350
+27,Eure,49.237,0.8753,La Haye-du-Theil,27370
+27,Eure,49.196,1.1341,La Haye-le-Comte,27400
+27,Eure,49.237,1.0662,La Haye-Malherbe,27400
+27,Eure,48.911,0.5935,La Haye-Saint-Sylvestre,27330
+27,Eure,49.357,1.7219,Hébécourt,27150
+27,Eure,49.172,0.6636,Hecmanville,27800
+27,Eure,48.988,1.4287,Hécourt,27120
+27,Eure,49.192,0.9443,Hectomare,27110
+27,Eure,49.190,1.4563,Hennezis,27700
+27,Eure,49.243,1.2734,Herqueville,27430
+27,Eure,49.130,1.5645,Heubécourt-Haricourt,27630
+27,Eure,49.130,1.5645,Heubécourt-Haricourt,27630
+27,Eure,49.130,1.5645,Heubécourt-Haricourt,27630
+27,Eure,49.192,1.2371,Heudebouville,27400
+27,Eure,49.192,1.2371,Heudebouville,27600
+27,Eure,49.334,1.6626,Heudicourt,27860
+27,Eure,49.193,0.5033,Heudreville-en-Lieuvin,27230
+27,Eure,49.132,1.1887,Heudreville-sur-Eure,27400
+27,Eure,49.064,1.4130,La Heunière,27950
+27,Eure,49.287,1.3207,Heuqueville,27700
+27,Eure,49.420,1.4079,Les Hogues,27910
+27,Eure,49.144,1.1162,Hondouville,27400
+27,Eure,49.378,0.8158,Honguemare-Guenouville,27310
+27,Eure,48.789,1.0314,L'Hosmes,27570
+27,Eure,49.129,1.0903,Houetteville,27400
+27,Eure,49.064,1.3612,Houlbec-Cocherel,27120
+27,Eure,49.251,0.8269,Houlbec-près-le-Gros-Theil,27370
+27,Eure,48.998,0.8004,La Houssaye,27410
+27,Eure,49.299,1.3575,Houville-en-Vexin,27440
+27,Eure,49.036,1.2078,Huest,27930
+27,Eure,49.322,1.1509,Igoville,27460
+27,Eure,49.319,0.7093,Illeville-sur-Montfort,27290
+27,Eure,48.824,1.2595,Illiers-l'Évêque,27770
+27,Eure,49.252,1.1523,Incarville,27400
+27,Eure,49.098,1.1996,Irreville,27930
+27,Eure,49.176,0.9263,Iville,27110
+27,Eure,48.886,1.4468,Ivry-la-Bataille,27540
+27,Eure,49.049,1.2918,Jouy-sur-Eure,27120
+27,Eure,48.847,0.6434,Juignettes,27250
+27,Eure,48.916,1.2119,Jumelles,27220
+27,Eure,49.297,0.3360,La Lande-Saint-Léger,27210
+27,Eure,49.297,0.3360,La Lande-Saint-Léger,27210
+27,Eure,49.406,0.8035,Le Landin,27350
+27,Eure,49.108,0.7372,Launay,27470
+27,Eure,49.287,1.1952,Léry,27690
+27,Eure,49.421,1.3270,Letteguives,27910
+27,Eure,49.233,0.5007,Lieurey,27560
+27,Eure,48.844,1.2733,Lignerolles,27220
+27,Eure,49.402,1.5667,Lilly,27480
+27,Eure,49.357,1.4732,Lisors,27440
+27,Eure,49.228,0.6547,Livet-sur-Authou,27800
+27,Eure,49.357,1.6211,Longchamps,27150
+27,Eure,49.421,1.5048,Lorleau,27480
+27,Eure,48.991,0.9161,Louversey,27190
+27,Eure,49.220,1.1534,Louviers,27400
+27,Eure,48.796,1.3191,Louye,27650
+27,Eure,49.393,1.4735,Lyons-la-Forêt,27480
+27,Eure,48.790,1.2180,La Madeleine-de-Nonancourt,27320
+27,Eure,49.374,1.6871,Mainneville,27150
+27,Eure,49.241,0.7459,Malleville-sur-le-Bec,27800
+27,Eure,49.127,0.5287,Malouy,27300
+27,Eure,49.215,1.0129,Mandeville,27370
+27,Eure,48.752,0.8512,Mandres,27130
+27,Eure,49.368,0.3276,Manneville-la-Raoult,27210
+27,Eure,49.361,0.5459,Manneville-sur-Risle,27500
+27,Eure,49.317,1.1994,Le Manoir,27460
+27,Eure,49.438,0.4643,Marais-Vernier,27680
+27,Eure,49.154,0.9628,Marbeuf,27110
+27,Eure,48.827,1.1874,Marcilly-la-Campagne,27320
+27,Eure,48.821,1.3328,Marcilly-sur-Eure,27810
+27,Eure,49.395,1.6577,Martagny,27150
+27,Eure,49.302,0.3861,Martainville,27210
+27,Eure,49.278,1.0710,Martot,27340
+27,Eure,48.912,0.5024,Mélicourt,27390
+27,Eure,49.357,1.4068,Ménesqueville,27850
+27,Eure,49.038,1.3704,Ménilles,27120
+27,Eure,49.101,0.6221,Menneval,27300
+27,Eure,49.082,1.3986,Mercey,27950
+27,Eure,48.958,1.3928,Merey,27640
+27,Eure,49.073,1.1139,Le Mesnil-Fuguet,27930
+27,Eure,48.934,0.9870,Le Mesnil-Hardray,27190
+27,Eure,49.181,1.1276,Le Mesnil-Jourdain,27400
+27,Eure,48.893,0.5572,Mesnil-Rousset,27390
+27,Eure,49.385,1.6675,Mesnil-sous-Vienne,27150
+27,Eure,48.776,1.2900,Mesnil-sur-l'Estrée,27650
+27,Eure,49.322,1.4654,Mesnil-Verclives,27440
+27,Eure,49.175,1.5031,Mézières-en-Vexin,27510
+27,Eure,49.019,1.2610,Miserey,27930
+27,Eure,48.848,1.1660,Moisville,27320
+27,Eure,49.229,1.0981,Terres de Bord,27400
+27,Eure,49.294,0.6705,Montfort-sur-Risle,27290
+27,Eure,48.939,0.4684,Montreuil-l'Argillé,27390
+27,Eure,48.939,0.4684,Montreuil-l'Argillé,27390
+27,Eure,49.222,0.4439,Morainville-Jouveaux,27260
+27,Eure,49.222,0.4439,Morainville-Jouveaux,27260
+27,Eure,48.842,1.1216,Buis-sur-Damville,27240
+27,Eure,48.842,1.1216,Buis-sur-Damville,27240
+27,Eure,48.842,1.1216,Buis-sur-Damville,27240
+27,Eure,49.377,1.5782,Morgny,27150
+27,Eure,49.179,0.5975,Morsan,27800
+27,Eure,48.888,1.3683,Mouettes,27220
+27,Eure,49.244,1.5553,Mouflaines,27420
+27,Eure,48.906,1.3384,Mousseaux-Neuville,27220
+27,Eure,49.226,1.2856,Muids,27430
+27,Eure,48.778,1.3256,Muzy,27650
+27,Eure,48.924,0.9405,Nagel-Séez-Mesnil,27190
+27,Eure,49.133,0.7393,Nassandres sur Risle,27550
+27,Eure,49.277,1.7263,Neaufles-Saint-Martin,27830
+27,Eure,48.874,0.7444,Neaufles-Auvergny,27250
+27,Eure,48.874,0.7444,Neaufles-Auvergny,27250
+27,Eure,48.874,0.7444,Neaufles-Auvergny,27250
+27,Eure,49.148,0.8971,Le Neubourg,27110
+27,Eure,48.929,1.4173,Neuilly,27730
+27,Eure,49.359,1.5584,La Neuve-Grange,27150
+27,Eure,48.902,0.7364,La Neuve-Lyre,27330
+27,Eure,49.194,0.8155,La Neuville-du-Bosc,27890
+27,Eure,49.204,0.6287,Neuville-sur-Authou,27800
+27,Eure,49.210,0.5097,Noards,27560
+27,Eure,49.270,0.5195,La Noë-Poulain,27560
+27,Eure,48.920,1.0045,Nogent-le-Sec,27190
+27,Eure,49.329,1.5562,Nojeon-en-Vexin,27150
+27,Eure,48.777,1.1793,Nonancourt,27320
+27,Eure,49.072,1.1619,Normanville,27930
+27,Eure,49.155,1.4475,Notre-Dame-de-l'Isle,27940
+27,Eure,49.194,0.5974,Notre-Dame-d'Épine,27800
+27,Eure,48.892,0.5098,Notre-Dame-du-Hamel,27390
+27,Eure,49.006,0.7615,Le Noyer-en-Ouche,27410
+27,Eure,49.245,1.6735,Noyers,27720
+27,Eure,49.056,0.9560,Ormes,27190
+27,Eure,48.941,1.0212,Le Val-Doré,27190
+27,Eure,49.022,1.3995,Pacy-sur-Eure,27120
+27,Eure,49.031,1.0922,Parville,27180
+27,Eure,49.146,0.7581,Perriers-la-Campagne,27170
+27,Eure,49.408,1.3633,Perriers-sur-Andelle,27910
+27,Eure,49.432,1.3615,Perruel,27910
+27,Eure,49.171,0.4076,Piencourt,27230
+27,Eure,49.191,1.1916,Pinterville,27400
+27,Eure,48.772,0.9657,Piseux,27130
+27,Eure,49.331,1.2179,Pîtres,27590
+27,Eure,49.153,0.4169,Les Places,27230
+27,Eure,49.078,0.4996,Plainville,27300
+27,Eure,49.094,0.4269,Le Planquay,27230
+27,Eure,49.137,0.6247,Plasnes,27300
+27,Eure,48.944,1.1332,Le Plessis-Grohan,27180
+27,Eure,48.981,1.3628,Le Plessis-Hébert,27120
+27,Eure,49.070,0.8559,Le Plessis-Sainte-Opportune,27170
+27,Eure,49.346,0.5338,Pont-Audemer,27500
+27,Eure,49.346,0.5338,Pont-Audemer,27500
+27,Eure,49.242,0.7022,Pont-Authou,27290
+27,Eure,49.290,1.1442,Pont-de-l'Arche,27340
+27,Eure,49.342,1.2875,Pont-Saint-Pierre,27360
+27,Eure,49.252,1.2512,Porte-de-Seine,27430
+27,Eure,49.025,0.9482,Portes,27190
+27,Eure,49.173,1.4105,Port-Mort,27940
+27,Eure,49.299,1.2407,Poses,27740
+27,Eure,49.252,0.5220,La Poterie-Mathieu,27560
+27,Eure,49.328,0.4805,Les Préaux,27500
+27,Eure,49.130,1.4651,Pressagny-l'Orgueilleux,27510
+27,Eure,48.957,1.2191,Prey,27220
+27,Eure,49.354,1.5261,Puchay,27150
+27,Eure,48.727,0.8640,Pullay,27130
+27,Eure,49.199,0.8971,La Pyle,27370
+27,Eure,49.184,1.0811,Quatremare,27400
+27,Eure,49.470,0.5017,Quillebeuf-sur-Seine,27680
+27,Eure,49.107,1.0053,Quittebeuf,27110
+27,Eure,49.353,1.3242,Radepont,27380
+27,Eure,49.396,1.3260,Renneville,27910
+27,Eure,49.072,1.2264,Reuilly,27930
+27,Eure,49.257,1.5378,Richeville,27420
+27,Eure,48.836,1.0458,Roman,27240
+27,Eure,49.013,0.8377,Romilly-la-Puthenaye,27170
+27,Eure,49.334,1.2541,Romilly-sur-Andelle,27610
+27,Eure,49.259,1.3433,La Roquette,27700
+27,Eure,49.374,1.4279,Rosay-sur-Lieure,27790
+27,Eure,49.357,0.7247,Rougemontiers,27350
+27,Eure,49.146,0.8331,Rouge-Perriers,27110
+27,Eure,49.385,0.7262,Routot,27350
+27,Eure,49.066,1.3396,Rouvray,27120
+27,Eure,48.815,0.6913,Rugles,27250
+27,Eure,49.081,1.0744,Sacquenville,27930
+27,Eure,48.950,0.5315,Saint-Agnan-de-Cernières,27390
+27,Eure,48.902,1.2783,Saint-André-de-l'Eure,27220
+27,Eure,48.829,0.6626,Saint-Antonin-de-Sommaire,27250
+27,Eure,49.009,1.3508,Saint-Aquilin-de-Pacy,27120
+27,Eure,49.143,0.9869,Saint-Aubin-d'Écrosville,27110
+27,Eure,49.177,0.4733,Saint-Aubin-de-Scellon,27230
+27,Eure,49.015,0.4943,Saint-Aubin-du-Thenney,27270
+27,Eure,49.059,0.6116,Saint-Aubin-le-Vertueux,27300
+27,Eure,49.132,1.3362,Saint-Aubin-sur-Gaillon,27600
+27,Eure,49.449,0.5249,Saint-Aubin-sur-Quillebeuf,27680
+27,Eure,49.226,0.6183,Saint-Benoît-des-Ombres,27450
+27,Eure,48.698,0.8051,Saint-Christophe-sur-Avre,27820
+27,Eure,49.285,0.6006,Saint-Christophe-sur-Condé,27450
+27,Eure,49.063,0.6628,Saint-Clair-d'Arcey,27300
+27,Eure,49.107,0.9356,Sainte-Colombe-la-Commanderie,27110
+27,Eure,49.094,1.3410,Sainte-Colombe-près-Vernon,27950
+27,Eure,49.185,0.6534,Saint-Cyr-de-Salerne,27800
+27,Eure,49.260,1.1989,Le Vaudreuil,27100
+27,Eure,49.250,1.0194,Saint-Cyr-la-Campagne,27370
+27,Eure,48.914,0.4714,Saint-Denis-d'Augerons,27390
+27,Eure,49.256,0.8065,Saint-Denis-des-Monts,27520
+27,Eure,49.321,1.7177,Saint-Denis-le-Ferment,27140
+27,Eure,49.321,1.7177,Saint-Denis-le-Ferment,27140
+27,Eure,49.242,1.0379,Saint-Didier-des-Bois,27370
+27,Eure,48.983,0.9613,Saint-Élier,27190
+27,Eure,49.235,0.8027,Saint-Éloi-de-Fourques,27800
+27,Eure,49.242,1.2154,Saint-Étienne-du-Vauvray,27430
+27,Eure,49.266,0.5574,Saint-Étienne-l'Allier,27450
+27,Eure,49.115,1.4053,Saint-Étienne-sous-Bailleul,27920
+27,Eure,49.082,1.5704,Sainte-Geneviève-lès-Gasny,27620
+27,Eure,49.210,0.5665,Saint-Georges-du-Mesnil,27560
+27,Eure,49.242,0.5797,Saint-Georges-du-Vièvre,27450
+27,Eure,48.792,1.3595,Saint-Georges-Motel,27710
+27,Eure,48.958,1.2873,Saint-Germain-de-Fresney,27220
+27,Eure,49.241,1.0024,Saint-Germain-de-Pasquier,27370
+27,Eure,49.088,1.1377,Saint-Germain-des-Angles,27930
+27,Eure,49.052,0.4128,Saint-Germain-la-Campagne,27230
+27,Eure,48.772,1.2627,Saint-Germain-sur-Avre,27320
+27,Eure,49.344,0.4987,Saint-Germain-Village,27500
+27,Eure,49.245,0.6259,Saint-Grégoire-du-Vièvre,27450
+27,Eure,49.225,0.5603,Saint-Jean-de-la-Léqueraye,27560
+27,Eure,49.015,0.4586,Saint-Jean-du-Thenney,27270
+27,Eure,49.140,1.2870,Saint-Julien-de-la-Liègue,27600
+27,Eure,49.106,1.4332,La Chapelle-Longueville,27950
+27,Eure,48.845,1.3191,Saint-Laurent-des-Bois,27220
+27,Eure,48.891,0.4605,Saint-Laurent-du-Tencement,27390
+27,Eure,49.112,0.6622,Saint-Léger-de-Rôtes,27300
+27,Eure,49.282,0.7522,Saint-Léger-du-Gennetey,27520
+27,Eure,48.973,1.2333,Saint-Luc,27930
+27,Eure,49.361,0.4136,Saint-Maclou,27210
+27,Eure,49.091,1.4392,Saint-Marcel,27950
+27,Eure,49.376,0.5085,Saint-Mards-de-Blacarville,27500
+27,Eure,49.080,0.4545,Saint-Mards-de-Fresne,27230
+27,Eure,48.911,0.8459,Le Lesme,27160
+27,Eure,48.911,0.8459,Le Lesme,27160
+27,Eure,49.272,1.5823,Sainte-Marie-de-Vatimesnil,27150
+27,Eure,48.957,0.8811,Sainte-Marthe,27190
+27,Eure,49.106,0.5265,Saint-Martin-du-Tilleul,27300
+27,Eure,49.065,1.0771,Saint-Martin-la-Campagne,27930
+27,Eure,49.293,0.5596,Saint-Martin-Saint-Firmin,27450
+27,Eure,49.215,0.8786,Saint-Meslin-du-Bosc,27370
+27,Eure,49.167,0.8403,Sainte-Opportune-du-Bosc,27110
+27,Eure,49.424,0.5336,Sainte-Opportune-la-Mare,27680
+27,Eure,48.795,0.9438,Sainte-Marie-d'Attez,27160
+27,Eure,48.795,0.9438,Sainte-Marie-d'Attez,27160
+27,Eure,48.795,0.9438,Sainte-Marie-d'Attez,27160
+27,Eure,49.234,0.9504,Saint-Ouen-de-Pontcheuil,27370
+27,Eure,49.349,0.8956,Saint-Ouen-de-Thouberville,27310
+27,Eure,49.398,0.5286,Saint-Ouen-des-Champs,27680
+27,Eure,49.300,0.9449,Saint-Ouen-du-Tilleul,27670
+27,Eure,49.217,0.7948,Saint-Paul-de-Fourques,27800
+27,Eure,49.257,0.7843,Saint-Philbert-sur-Boissey,27520
+27,Eure,49.277,0.6473,Saint-Philbert-sur-Risle,27290
+27,Eure,49.124,1.4275,Saint-Pierre-d'Autils,27950
+27,Eure,49.126,1.3835,Saint-Pierre-de-Bailleul,27920
+27,Eure,48.930,0.5195,Saint-Pierre-de-Cernières,27390
+27,Eure,49.238,0.3652,Saint-Pierre-de-Cormeilles,27260
+27,Eure,49.205,0.6674,Saint-Pierre-de-Salerne,27800
+27,Eure,49.249,0.9629,Saint-Pierre-des-Fleurs,27370
+27,Eure,49.265,0.6085,Saint-Pierre-des-Ifs,27450
+27,Eure,49.260,0.8898,Saint-Pierre-du-Bosguérard,27370
+27,Eure,49.390,0.3664,Saint-Pierre-du-Val,27210
+27,Eure,49.223,1.2184,Saint-Pierre-du-Vauvray,27430
+27,Eure,49.147,1.3912,Saint-Pierre-la-Garenne,27600
+27,Eure,49.050,0.5761,Saint-Quentin-des-Isles,27270
+27,Eure,49.425,0.4250,Saint-Samson-de-la-Roque,27680
+27,Eure,49.012,1.0743,Saint-Sébastien-de-Morsent,27180
+27,Eure,49.284,0.5168,Saint-Siméon,27560
+27,Eure,49.375,0.4487,Saint-Sulpice-de-Grimbouville,27210
+27,Eure,49.247,0.4208,Saint-Sylvestre-de-Cormeilles,27260
+27,Eure,49.310,0.4558,Saint-Symphorien,27500
+27,Eure,49.403,0.5505,Saint-Thurien,27680
+27,Eure,49.063,0.5134,Saint-Victor-de-Chrétienville,27300
+27,Eure,49.211,0.5989,Saint-Victor-d'Épine,27800
+27,Eure,48.696,0.8508,Saint-Victor-sur-Avre,27130
+27,Eure,49.075,1.2600,Saint-Vigor,27930
+27,Eure,49.060,1.3938,Saint-Vincent-des-Bois,27950
+27,Eure,49.100,0.4898,Saint-Vincent-du-Boulay,27230
+27,Eure,49.353,1.6760,Sancourt,27150
+27,Eure,49.050,1.2227,Sassey,27930
+27,Eure,49.254,0.9861,La Saussaye,27370
+27,Eure,49.318,1.5084,Saussay-la-Campagne,27150
+27,Eure,48.975,0.8313,Sébécourt,27190
+27,Eure,49.301,0.4888,Selles,27500
+27,Eure,48.933,1.3581,Serez,27220
+27,Eure,49.114,0.7075,Serquigny,27470
+27,Eure,49.198,1.0543,Surtauville,27400
+27,Eure,49.201,1.1024,Surville,27400
+27,Eure,49.270,1.5134,Suzay,27420
+27,Eure,49.288,0.7960,Theillement,27520
+27,Eure,49.152,0.5341,Le Theil-Nolent,27230
+27,Eure,49.132,0.4408,Thiberville,27230
+27,Eure,49.141,0.8035,Thibouville,27800
+27,Eure,49.263,0.7173,Thierville,27290
+27,Eure,49.307,1.5552,Le Thil,27150
+27,Eure,49.236,1.6050,Les Thilliers-en-Vexin,27420
+27,Eure,49.259,1.3672,Le Thuit,27700
+27,Eure,49.256,0.9391,Le Thuit de l'Oison,27370
+27,Eure,49.256,0.9391,Le Thuit de l'Oison,27370
+27,Eure,49.256,0.9391,Le Thuit de l'Oison,27370
+27,Eure,49.005,0.8910,Tilleul-Dame-Agnès,27170
+27,Eure,49.081,0.9311,Le Tilleul-Lambert,27110
+27,Eure,49.113,0.7959,Le Tilleul-Othon,27170
+27,Eure,48.761,1.0281,Tillières-sur-Avre,27570
+27,Eure,49.142,1.5287,Tilly,27510
+27,Eure,49.408,0.6134,Tocqueville,27500
+27,Eure,49.336,0.3807,Le Torpt,27210
+27,Eure,49.223,1.3634,Tosny,27700
+27,Eure,49.261,1.1151,Tostes,27340
+27,Eure,49.344,1.4360,Touffreville,27440
+27,Eure,49.073,0.9878,Tournedos-Bois-Hubert,27180
+27,Eure,49.276,1.2567,Tournedos-sur-Seine,27100
+27,Eure,49.094,1.1059,Tourneville,27930
+27,Eure,49.225,0.8992,Tourville-la-Campagne,27370
+27,Eure,49.321,0.5173,Tourville-sur-Pont-Audemer,27500
+27,Eure,49.356,0.4586,Toutainville,27500
+27,Eure,49.304,0.7523,Touville,27290
+27,Eure,49.120,0.9147,Le Tremblay-Omonville,27110
+27,Eure,48.986,1.2367,La Trinité,27930
+27,Eure,48.966,0.5106,La Trinité-de-Réville,27270
+27,Eure,49.364,0.8775,La Trinité-de-Thouberville,27310
+27,Eure,49.329,0.4373,Triqueville,27500
+27,Eure,49.192,0.9168,Le Troncq,27110
+27,Eure,49.437,1.4543,Le Tronquay,27480
+27,Eure,49.420,0.5799,Trouville-la-Haule,27680
+27,Eure,49.123,1.1365,La Vacherie,27400
+27,Eure,49.117,0.6170,Valailles,27300
+27,Eure,48.978,1.2630,Le Val-David,27120
+27,Eure,49.366,0.6121,Valletot,27350
+27,Eure,49.382,1.3515,Vandrimare,27380
+27,Eure,49.303,0.4282,Vannecrocq,27210
+27,Eure,49.445,1.3856,Vascœuil,27910
+27,Eure,49.280,1.2849,Vatteville,27430
+27,Eure,49.035,1.3338,Vaux-sur-Eure,27120
+27,Eure,49.201,1.2959,Les Trois Lacs,27940
+27,Eure,49.173,1.0516,Venon,27110
+27,Eure,48.955,1.0659,Les Ventes,27180
+27,Eure,48.737,0.9247,Verneuil d'Avre et d'Iton,27130
+27,Eure,48.909,0.4253,Verneusses,27390
+27,Eure,49.087,1.4850,Vernon,27200
+27,Eure,49.242,1.6415,Vesly,27870
+27,Eure,49.221,1.3986,Vézillon,27700
+27,Eure,49.003,1.2129,Le Vieil-Évreux,27930
+27,Eure,48.921,0.7500,La Vieille-Lyre,27330
+27,Eure,49.426,0.6083,Vieux-Port,27680
+27,Eure,48.998,1.4639,Villegats,27120
+27,Eure,49.249,1.5902,Villers-en-Vexin,27420
+27,Eure,49.191,1.3195,Villers-sur-le-Roule,27940
+27,Eure,49.154,1.0456,Villettes,27110
+27,Eure,48.902,1.1026,Sylvains-Lès-Moulins,27240
+27,Eure,48.902,1.1026,Sylvains-Lès-Moulins,27240
+27,Eure,48.902,1.1026,Sylvains-Lès-Moulins,27240
+27,Eure,49.107,1.3652,Villez-sous-Bailleul,27950
+27,Eure,49.147,0.8594,Villez-sur-le-Neubourg,27110
+27,Eure,48.957,1.4807,Villiers-en-Désœuvre,27640
+27,Eure,49.206,1.2196,Vironvay,27400
+27,Eure,49.167,0.8871,Vitot,27110
+27,Eure,49.280,0.7668,Voiscreville,27520
+27,Eure,49.217,1.0365,Vraiville,27370
+27,Eure,49.261,1.2114,Val-de-Reuil,27100

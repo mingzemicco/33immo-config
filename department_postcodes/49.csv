@@ -1,0 +1,386 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+49,Maine-et-Loire,47.314,-0.416,Les Alleuds,49320
+49,Maine-et-Loire,47.303,0.0111,Allonnes,49650
+49,Maine-et-Loire,47.257,-0.337,Tuffalun,49700
+49,Maine-et-Loire,47.257,-0.337,Tuffalun,49700
+49,Maine-et-Loire,47.257,-0.337,Tuffalun,49700
+49,Maine-et-Loire,47.476,-0.556,Angers,49000
+49,Maine-et-Loire,47.476,-0.556,Angers,49100
+49,Maine-et-Loire,47.577,-0.968,Angrie,49440
+49,Maine-et-Loire,47.078,-0.131,Antoigné,49260
+49,Maine-et-Loire,47.713,-1.137,Armaillé,49420
+49,Maine-et-Loire,47.201,-0.096,Artannes-sur-Thouet,49260
+49,Maine-et-Loire,47.212,-0.472,Aubigné-sur-Layon,49540
+49,Maine-et-Loire,47.500,0.0389,Auverse,49490
+49,Maine-et-Loire,47.711,-0.791,Aviré,49500
+49,Maine-et-Loire,47.505,-0.600,Avrillé,49240
+49,Maine-et-Loire,47.642,-0.357,Baracé,49430
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.546,-0.109,Baugé-en-Anjou,49150
+49,Maine-et-Loire,47.474,-0.634,Beaucouzé,49070
+49,Maine-et-Loire,47.436,-0.206,Beaufort-en-Anjou,49250
+49,Maine-et-Loire,47.436,-0.206,Beaufort-en-Anjou,49250
+49,Maine-et-Loire,47.318,-0.600,Beaulieu-sur-Layon,49750
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49110
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49450
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49510
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49510
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49510
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49600
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49600
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49600
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49600
+49,Maine-et-Loire,47.212,-0.983,Beaupréau-en-Mauges,49600
+49,Maine-et-Loire,47.499,-0.799,Bécon-les-Granits,49370
+49,Maine-et-Loire,47.133,-0.931,Bégrolles-en-Mauges,49122
+49,Maine-et-Loire,47.376,-0.653,Béhuard,49170
+49,Maine-et-Loire,47.390,-0.380,Blaison-Saint-Sulpice,49320
+49,Maine-et-Loire,47.390,-0.380,Blaison-Saint-Sulpice,49320
+49,Maine-et-Loire,47.390,-0.380,Blaison-Saint-Sulpice,49320
+49,Maine-et-Loire,47.363,-0.053,Blou,49160
+49,Maine-et-Loire,47.430,-0.627,Bouchemaine,49080
+49,Maine-et-Loire,47.738,-0.969,Bouillé-Ménard,49520
+49,Maine-et-Loire,47.670,-0.969,Le Bourg-d'Iré,49520
+49,Maine-et-Loire,47.732,-1.014,Bourg-l'Évêque,49520
+49,Maine-et-Loire,47.305,0.0710,Brain-sur-Allonnes,49650
+49,Maine-et-Loire,47.473,0.1675,Breil,49490
+49,Maine-et-Loire,47.351,0.0835,La Breille-les-Pins,49390
+49,Maine-et-Loire,47.165,-0.054,Brézé,49260
+49,Maine-et-Loire,47.244,-0.378,Brigné,49700
+49,Maine-et-Loire,47.576,-0.497,Briollay,49125
+49,Maine-et-Loire,47.341,-0.441,Brissac Loire Aubance,49320
+49,Maine-et-Loire,47.711,-0.463,Brissarthe,49330
+49,Maine-et-Loire,47.589,0.1974,Broc,49490
+49,Maine-et-Loire,47.168,-0.216,Brossay,49700
+49,Maine-et-Loire,47.558,-1.035,Candé,49440
+49,Maine-et-Loire,47.538,-0.566,Cantenay-Épinard,49460
+49,Maine-et-Loire,47.731,-1.226,Carbay,49420
+49,Maine-et-Loire,47.167,-0.482,Cernusson,49310
+49,Maine-et-Loire,47.005,-0.641,Les Cerqueux,49360
+49,Maine-et-Loire,47.206,-0.070,Chacé,49400
+49,Maine-et-Loire,47.631,-1.071,Challain-la-Potherie,49440
+49,Maine-et-Loire,47.557,0.1760,Chalonnes-sous-le-Lude,49490
+49,Maine-et-Loire,47.349,-0.772,Chalonnes-sur-Loire,49290
+49,Maine-et-Loire,47.688,-0.693,Chambellay,49220
+49,Maine-et-Loire,47.665,-0.570,Les Hauts d'Anjou,49330
+49,Maine-et-Loire,47.669,-0.654,Chenillé-Champteussé,49220
+49,Maine-et-Loire,47.669,-0.654,Chenillé-Champteussé,49220
+49,Maine-et-Loire,47.429,-0.874,Champtocé-sur-Loire,49123
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49270
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49530
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49530
+49,Maine-et-Loire,47.321,-1.260,Orée d'Anjou,49530
+49,Maine-et-Loire,47.084,-0.691,Chanteloup-les-Bois,49340
+49,Maine-et-Loire,47.757,-1.067,La Chapelle-Hullin,49420
+49,Maine-et-Loire,47.613,-0.298,La Chapelle-Saint-Laud,49140
+49,Maine-et-Loire,47.666,-0.829,La Chapelle-sur-Oudon,49500
+49,Maine-et-Loire,47.352,-0.403,Charcé-Saint-Ellier-sur-Aubance,49320
+49,Maine-et-Loire,47.352,-0.403,Charcé-Saint-Ellier-sur-Aubance,49320
+49,Maine-et-Loire,47.684,-0.495,Châteauneuf-sur-Sarthe,49330
+49,Maine-et-Loire,47.762,-0.934,Châtelais,49520
+49,Maine-et-Loire,47.325,-0.721,Chaudefonds-sur-Layon,49290
+49,Maine-et-Loire,47.274,-0.439,Terranjou,49380
+49,Maine-et-Loire,47.544,0.0423,Chavaignes,49490
+49,Maine-et-Loire,47.759,-1.111,Chazé-Henry,49420
+49,Maine-et-Loire,47.614,-0.897,Chazé-sur-Argos,49500
+49,Maine-et-Loire,47.625,-0.519,Cheffes,49125
+49,Maine-et-Loire,47.336,-0.358,Chemellier,49320
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49120
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49310
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49670
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49670
+49,Maine-et-Loire,47.227,-0.730,Chemillé-en-Anjou,49750
+49,Maine-et-Loire,47.708,-0.554,Cherré,49330
+49,Maine-et-Loire,47.576,0.1111,Chigné,49490
+49,Maine-et-Loire,47.045,-0.877,Cholet,49300
+49,Maine-et-Loire,47.045,-0.877,Cholet,49300
+49,Maine-et-Loire,47.182,-0.184,Cizay-la-Madeleine,49700
+49,Maine-et-Loire,47.085,-0.430,Cléré-sur-Layon,49560
+49,Maine-et-Loire,47.707,-1.020,Combrée,49520
+49,Maine-et-Loire,47.707,-1.020,Combrée,49520
+49,Maine-et-Loire,47.173,-0.350,Concourson-sur-Layon,49700
+49,Maine-et-Loire,47.726,-0.502,Contigné,49330
+49,Maine-et-Loire,47.492,-0.303,Cornillé-les-Caves,49140
+49,Maine-et-Loire,47.524,-0.995,La Cornuaille,49440
+49,Maine-et-Loire,47.120,-0.636,Coron,49690
+49,Maine-et-Loire,47.542,-0.369,Corzé,49140
+49,Maine-et-Loire,47.182,-0.129,Le Coudray-Macouard,49260
+49,Maine-et-Loire,47.197,-0.157,Courchamps,49260
+49,Maine-et-Loire,47.380,0.1469,Courléon,49390
+49,Maine-et-Loire,47.372,-0.352,Coutures,49320
+49,Maine-et-Loire,47.684,-0.362,Daumeray,49640
+49,Maine-et-Loire,47.377,-0.609,Denée,49190
+49,Maine-et-Loire,47.252,-0.259,Dénezé-sous-Doué,49700
+49,Maine-et-Loire,47.538,0.1231,Dénezé-sous-le-Lude,49490
+49,Maine-et-Loire,47.223,-0.123,Distré,49400
+49,Maine-et-Loire,47.191,-0.278,Doué-en-Anjou,49700
+49,Maine-et-Loire,47.678,-0.254,Durtal,49430
+49,Maine-et-Loire,47.528,-0.518,Écouflant,49000
+49,Maine-et-Loire,47.615,-0.560,Écuillé,49460
+49,Maine-et-Loire,47.134,-0.038,Épieds,49260
+49,Maine-et-Loire,47.659,-0.452,Étriché,49330
+49,Maine-et-Loire,47.584,-0.600,Feneu,49460
+49,Maine-et-Loire,47.736,-0.839,La Ferrière-de-Flée,49500
+49,Maine-et-Loire,47.482,-0.174,Les Bois d'Anjou,49250
+49,Maine-et-Loire,47.482,-0.174,Les Bois d'Anjou,49250
+49,Maine-et-Loire,47.482,-0.174,Les Bois d'Anjou,49250
+49,Maine-et-Loire,47.184,0.0338,Fontevraud-l'Abbaye,49590
+49,Maine-et-Loire,47.214,-0.237,Forges,49700
+49,Maine-et-Loire,47.536,-1.105,Freigné,49440
+49,Maine-et-Loire,47.314,-0.253,Gennes,49320
+49,Maine-et-Loire,47.314,-0.253,Gennes,49350
+49,Maine-et-Loire,47.314,-0.253,Gennes,49350
+49,Maine-et-Loire,47.314,-0.253,Gennes,49350
+49,Maine-et-Loire,47.314,-0.253,Gennes,49350
+49,Maine-et-Loire,47.314,-0.253,Gennes,49350
+49,Maine-et-Loire,47.583,0.0465,Genneteil,49490
+49,Maine-et-Loire,47.595,-0.695,Grez-Neuville,49220
+49,Maine-et-Loire,47.752,-1.026,Grugé-l'Hôpital,49520
+49,Maine-et-Loire,47.747,-0.892,L'Hôtellerie-de-Flée,49500
+49,Maine-et-Loire,47.655,-0.309,Huillé,49430
+49,Maine-et-Loire,47.415,-0.920,Ingrandes-Le Fresne sur Loire,49123
+49,Maine-et-Loire,47.415,-0.920,Ingrandes-Le Fresne sur Loire,49123
+49,Maine-et-Loire,47.726,-0.687,La Jaille-Yvon,49220
+49,Maine-et-Loire,47.557,-0.240,Jarzé Villages,49140
+49,Maine-et-Loire,47.557,-0.240,Jarzé Villages,49140
+49,Maine-et-Loire,47.557,-0.240,Jarzé Villages,49140
+49,Maine-et-Loire,47.557,-0.240,Jarzé Villages,49140
+49,Maine-et-Loire,47.400,-0.484,Les Garennes sur Loire,49610
+49,Maine-et-Loire,47.659,-0.514,Juvardeil,49330
+49,Maine-et-Loire,47.461,-0.067,La Lande-Chasles,49150
+49,Maine-et-Loire,47.544,0.0059,Lasse,49490
+49,Maine-et-Loire,47.636,-0.292,Lézigné,49430
+49,Maine-et-Loire,47.450,0.0666,Linières-Bouton,49490
+49,Maine-et-Loire,47.630,-0.749,Le Lion-d'Angers,49220
+49,Maine-et-Loire,47.630,-0.749,Le Lion-d'Angers,49220
+49,Maine-et-Loire,47.626,-0.964,Loiré,49440
+49,Maine-et-Loire,47.398,-0.107,Longué-Jumelles,49160
+49,Maine-et-Loire,47.398,-0.107,Longué-Jumelles,49160
+49,Maine-et-Loire,47.241,-0.307,Louresse-Rochemenier,49700
+49,Maine-et-Loire,47.519,-0.901,Val d'Erdre-Auxence,49370
+49,Maine-et-Loire,47.690,-0.802,Louvaines,49500
+49,Maine-et-Loire,47.285,-0.400,Luigné,49320
+49,Maine-et-Loire,47.641,-0.849,Marans,49500
+49,Maine-et-Loire,47.582,-0.300,Marcé,49140
+49,Maine-et-Loire,47.713,-0.623,Marigné,49330
+49,Maine-et-Loire,47.239,-0.437,Martigné-Briand,49540
+49,Maine-et-Loire,47.018,-0.768,Maulévrier,49360
+49,Maine-et-Loire,47.132,-0.875,Le May-sur-Èvre,49122
+49,Maine-et-Loire,47.460,-0.284,Mazé-Milon,49140
+49,Maine-et-Loire,47.460,-0.284,Mazé-Milon,49630
+49,Maine-et-Loire,47.059,-0.795,Mazières-en-Mauges,49280
+49,Maine-et-Loire,47.512,0.1880,Meigné-le-Vicomte,49490
+49,Maine-et-Loire,47.242,-0.215,Meigné,49700
+49,Maine-et-Loire,47.560,-0.683,Longuenée-en-Anjou,49220
+49,Maine-et-Loire,47.560,-0.683,Longuenée-en-Anjou,49770
+49,Maine-et-Loire,47.560,-0.683,Longuenée-en-Anjou,49770
+49,Maine-et-Loire,47.560,-0.683,Longuenée-en-Anjou,49770
+49,Maine-et-Loire,47.407,-0.256,La Ménitré,49250
+49,Maine-et-Loire,47.473,0.1135,Méon,49490
+49,Maine-et-Loire,47.762,-0.495,Miré,49330
+49,Maine-et-Loire,47.188,-0.215,Montfort,49700
+49,Maine-et-Loire,47.734,-0.754,Montguillon,49500
+49,Maine-et-Loire,47.625,-0.214,Montigné-lès-Rairies,49430
+49,Maine-et-Loire,47.187,-0.516,Montilliers,49310
+49,Maine-et-Loire,47.541,-0.616,Montreuil-Juigné,49460
+49,Maine-et-Loire,47.541,-0.616,Montreuil-Juigné,49460
+49,Maine-et-Loire,47.128,-0.125,Montreuil-Bellay,49260
+49,Maine-et-Loire,47.128,-0.125,Montreuil-Bellay,49260
+49,Maine-et-Loire,47.593,-0.391,Montreuil-sur-Loir,49140
+49,Maine-et-Loire,47.660,-0.711,Montreuil-sur-Maine,49220
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49110
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49270
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49600
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49600
+49,Maine-et-Loire,47.255,-1.051,Montrevault-sur-Èvre,49600
+49,Maine-et-Loire,47.213,0.0519,Montsoreau,49730
+49,Maine-et-Loire,47.725,-0.403,Morannes sur Sarthe-Daumeray,49640
+49,Maine-et-Loire,47.725,-0.403,Morannes sur Sarthe-Daumeray,49640
+49,Maine-et-Loire,47.453,0.0130,Mouliherne,49390
+49,Maine-et-Loire,47.358,-0.568,Mozé-sur-Louet,49610
+49,Maine-et-Loire,47.395,-0.553,Mûrs-Erigné,49610
+49,Maine-et-Loire,47.336,-0.018,Neuillé,49680
+49,Maine-et-Loire,47.693,-1.089,Noëllet,49520
+49,Maine-et-Loire,47.298,-0.466,Notre-Dame-d'Allençon,49380
+49,Maine-et-Loire,47.507,0.1097,Noyant-Villages,49490
+49,Maine-et-Loire,47.706,-0.959,Noyant-la-Gravoyère,49520
+49,Maine-et-Loire,47.086,-0.777,Nuaillé,49340
+49,Maine-et-Loire,47.710,-0.907,Nyoiseau,49500
+49,Maine-et-Loire,47.431,0.1444,Parçay-les-Pins,49390
+49,Maine-et-Loire,47.220,0.0040,Parnay,49730
+49,Maine-et-Loire,47.100,-0.383,Passavant-sur-Layon,49560
+49,Maine-et-Loire,47.459,0.1314,La Pellerine,49490
+49,Maine-et-Loire,47.067,-0.628,La Plaine,49360
+49,Maine-et-Loire,47.492,-0.436,Le Plessis-Grammoire,49124
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49110
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49290
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49290
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49410
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49570
+49,Maine-et-Loire,47.342,-0.869,Mauges-sur-Loire,49620
+49,Maine-et-Loire,47.427,-0.512,Les Ponts-de-Cé,49130
+49,Maine-et-Loire,47.427,-0.512,Les Ponts-de-Cé,49130
+49,Maine-et-Loire,47.381,-0.708,La Possonnière,49170
+49,Maine-et-Loire,47.762,-1.193,Ombrée d'Anjou,49420
+49,Maine-et-Loire,47.719,-1.178,La Prévière,49420
+49,Maine-et-Loire,47.114,-0.229,Le Puy-Notre-Dame,49260
+49,Maine-et-Loire,47.674,-0.613,Querré,49330
+49,Maine-et-Loire,47.651,-0.216,Les Rairies,49430
+49,Maine-et-Loire,47.350,-0.650,Rochefort-sur-Loire,49190
+49,Maine-et-Loire,47.054,-1.009,La Romagne,49740
+49,Maine-et-Loire,47.374,-0.222,Gennes-Val-de-Loire,49350
+49,Maine-et-Loire,47.244,-0.151,Rou-Marson,49400
+49,Maine-et-Loire,47.454,-0.800,Saint-Augustin-des-Bois,49170
+49,Maine-et-Loire,47.473,-0.485,Saint-Barthélemy-d'Anjou,49124
+49,Maine-et-Loire,47.029,-0.965,Saint-Christophe-du-Bois,49280
+49,Maine-et-Loire,47.526,-0.734,Saint-Clément-de-la-Place,49370
+49,Maine-et-Loire,47.344,-0.182,Saint-Clément-des-Levées,49350
+49,Maine-et-Loire,47.194,-0.050,Saint-Cyr-en-Bourg,49260
+49,Maine-et-Loire,47.666,-0.895,Sainte-Gemmes-d'Andigné,49500
+49,Maine-et-Loire,47.428,-0.575,Sainte-Gemmes-sur-Loire,49130
+49,Maine-et-Loire,47.195,-0.382,Saint-Georges-sur-Layon,49700
+49,Maine-et-Loire,47.402,-0.756,Saint-Georges-sur-Loire,49170
+49,Maine-et-Loire,47.410,-0.812,Saint-Germain-des-Prés,49170
+49,Maine-et-Loire,47.410,-0.588,Saint-Jean-de-la-Croix,49130
+49,Maine-et-Loire,47.458,-0.674,Saint-Jean-de-Linières,49070
+49,Maine-et-Loire,47.384,-0.460,Saint-Jean-des-Mauvrets,49320
+49,Maine-et-Loire,47.172,-0.099,Saint-Just-sur-Dive,49260
+49,Maine-et-Loire,47.300,-0.640,Val-du-Layon,49190
+49,Maine-et-Loire,47.300,-0.640,Val-du-Layon,49750
+49,Maine-et-Loire,47.486,-0.690,Saint-Lambert-la-Potherie,49070
+49,Maine-et-Loire,47.462,-0.727,Saint-Léger-des-Bois,49170
+49,Maine-et-Loire,47.102,-0.904,Saint-Léger-sous-Cholet,49280
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49230
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49230
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49230
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49230
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49230
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49450
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49450
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49450
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49450
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49660
+49,Maine-et-Loire,47.125,-0.998,Sèvremoine,49710
+49,Maine-et-Loire,47.113,-0.289,Saint-Macaire-du-Bois,49260
+49,Maine-et-Loire,47.318,-0.137,Saint-Martin-de-la-Place,49160
+49,Maine-et-Loire,47.698,-0.735,Saint-Martin-du-Bois,49500
+49,Maine-et-Loire,47.437,-0.708,Saint-Martin-du-Fouilloux,49170
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49140
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49250
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49630
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49800
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49800
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49800
+49,Maine-et-Loire,47.421,-0.319,Loire-Authion,49800
+49,Maine-et-Loire,47.381,-0.501,Saint-Melaine-sur-Aubance,49610
+49,Maine-et-Loire,47.672,-1.142,Saint-Michel-et-Chanveaux,49420
+49,Maine-et-Loire,47.089,-0.541,Saint-Paul-du-Bois,49310
+49,Maine-et-Loire,47.390,-0.043,Saint-Philbert-du-Peuple,49160
+49,Maine-et-Loire,47.387,-0.319,Saint-Rémy-la-Varenne,49250
+49,Maine-et-Loire,47.383,-0.429,Saint-Saturnin-sur-Loire,49320
+49,Maine-et-Loire,47.750,-0.807,Saint-Sauveur-de-Flée,49500
+49,Maine-et-Loire,47.451,-0.942,Saint-Sigismond,49123
+49,Maine-et-Loire,47.512,-0.475,Verrières-en-Anjou,49112
+49,Maine-et-Loire,47.512,-0.475,Verrières-en-Anjou,49480
+49,Maine-et-Loire,47.502,-0.385,Sarrigné,49800
+49,Maine-et-Loire,47.304,-0.379,Saulgé-l'Hôpital,49320
+49,Maine-et-Loire,47.267,-0.083,Saumur,49400
+49,Maine-et-Loire,47.267,-0.083,Saumur,49400
+49,Maine-et-Loire,47.267,-0.083,Saumur,49400
+49,Maine-et-Loire,47.267,-0.083,Saumur,49400
+49,Maine-et-Loire,47.267,-0.083,Saumur,49400
+49,Maine-et-Loire,47.405,-0.667,Savennières,49170
+49,Maine-et-Loire,47.405,-0.667,Savennières,49170
+49,Maine-et-Loire,47.631,-0.609,Sceaux-d'Anjou,49330
+49,Maine-et-Loire,47.701,-0.863,Segré-en-Anjou Bleu,49500
+49,Maine-et-Loire,47.080,-0.957,La Séguinière,49280
+49,Maine-et-Loire,47.603,-0.358,Seiches-sur-le-Loir,49140
+49,Maine-et-Loire,47.603,-0.358,Seiches-sur-le-Loir,49140
+49,Maine-et-Loire,47.522,-0.215,Sermaise,49140
+49,Maine-et-Loire,47.740,-0.570,Sœurdres,49330
+49,Maine-et-Loire,47.035,-0.595,Somloire,49360
+49,Maine-et-Loire,47.582,-0.425,Soucelles,49140
+49,Maine-et-Loire,47.359,-0.519,Soulaines-sur-Aubance,49610
+49,Maine-et-Loire,47.579,-0.542,Soulaire-et-Bourg,49460
+49,Maine-et-Loire,47.217,-0.020,Souzay-Champigny,49400
+49,Maine-et-Loire,47.008,-0.837,La Tessoualle,49280
+49,Maine-et-Loire,47.635,-0.663,Thorigné-d'Anjou,49220
+49,Maine-et-Loire,47.259,-0.517,Bellevigne-en-Layon,49380
+49,Maine-et-Loire,47.259,-0.517,Bellevigne-en-Layon,49380
+49,Maine-et-Loire,47.259,-0.517,Bellevigne-en-Layon,49380
+49,Maine-et-Loire,47.259,-0.517,Bellevigne-en-Layon,49380
+49,Maine-et-Loire,47.259,-0.517,Bellevigne-en-Layon,49750
+49,Maine-et-Loire,47.624,-0.443,Tiercé,49125
+49,Maine-et-Loire,47.057,-0.758,Toutlemonde,49360
+49,Maine-et-Loire,47.451,-0.473,Trélazé,49800
+49,Maine-et-Loire,47.670,-1.043,Le Tremblay,49520
+49,Maine-et-Loire,47.122,-0.801,Trémentines,49340
+49,Maine-et-Loire,47.211,0.0218,Turquant,49730
+49,Maine-et-Loire,47.223,-0.182,Les Ulmes,49700
+49,Maine-et-Loire,47.247,0.0416,Varennes-sur-Loire,49730
+49,Maine-et-Loire,47.227,-0.066,Varrains,49400
+49,Maine-et-Loire,47.338,-0.485,Vauchrétien,49320
+49,Maine-et-Loire,47.141,-0.212,Vaudelnay,49260
+49,Maine-et-Loire,47.146,-0.302,Les Verchers-sur-Layon,49700
+49,Maine-et-Loire,47.725,-1.078,Vergonnes,49420
+49,Maine-et-Loire,47.588,-0.849,Erdre-en-Anjou,49220
+49,Maine-et-Loire,47.588,-0.849,Erdre-en-Anjou,49220
+49,Maine-et-Loire,47.588,-0.849,Erdre-en-Anjou,49220
+49,Maine-et-Loire,47.588,-0.849,Erdre-en-Anjou,49370
+49,Maine-et-Loire,47.394,0.0285,Vernantes,49390
+49,Maine-et-Loire,47.396,0.0973,Vernoil-le-Fourrier,49390
+49,Maine-et-Loire,47.268,-0.186,Verrie,49400
+49,Maine-et-Loire,47.115,-0.721,Vezins,49340
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49310
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49540
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49540
+49,Maine-et-Loire,47.137,-0.559,Lys-Haut-Layon,49560
+49,Maine-et-Loire,47.262,-0.020,Villebernier,49400
+49,Maine-et-Loire,47.471,-0.890,Villemoisan,49370
+49,Maine-et-Loire,47.548,-0.446,Villevêque,49140
+49,Maine-et-Loire,47.322,-0.066,Vivy,49680
+49,Maine-et-Loire,47.034,-0.696,Yzernay,49360

@@ -1,0 +1,384 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+72,Sarthe,48.067,0.1055,Aigné,72650
+72,Sarthe,48.399,0.3212,Aillières-Beauvoir,72600
+72,Sarthe,47.958,0.1437,Allonnes,72700
+72,Sarthe,48.040,-0.043,Amné,72540
+72,Sarthe,48.360,0.1738,Ancinnes,72610
+72,Sarthe,48.395,0.0811,Arçonnay,72610
+72,Sarthe,47.993,0.4280,Ardenay-sur-Mérize,72370
+72,Sarthe,47.929,0.1913,Arnage,72230
+72,Sarthe,47.789,-0.110,Arthezé,72270
+72,Sarthe,47.886,-0.226,Asnières-sur-Vègre,72430
+72,Sarthe,48.321,-0.003,Assé-le-Boisne,72130
+72,Sarthe,48.203,0.0786,Assé-le-Riboul,72170
+72,Sarthe,47.683,0.2504,Aubigné-Racan,72800
+72,Sarthe,48.438,0.3431,Les Aulneaux,72600
+72,Sarthe,47.903,-0.345,Auvers-le-Hamon,72300
+72,Sarthe,48.001,-0.074,Auvers-sous-Montfaucon,72540
+72,Sarthe,48.266,0.3586,Avesnes-en-Saosnois,72260
+72,Sarthe,47.957,-0.267,Avessé,72350
+72,Sarthe,48.234,0.6724,Avezé,72400
+72,Sarthe,47.859,-0.193,Avoise,72430
+72,Sarthe,47.772,-0.179,Le Bailleul,72200
+72,Sarthe,48.171,0.2265,Ballon-Saint Mars,72290
+72,Sarthe,48.171,0.2265,Ballon-Saint Mars,72290
+72,Sarthe,48.102,0.1442,La Bazoge,72650
+72,Sarthe,47.685,-0.172,Bazouges Cré sur Loir,72200
+72,Sarthe,48.142,0.3422,Beaufay,72110
+72,Sarthe,47.687,0.5795,Beaumont-sur-Dême,72340
+72,Sarthe,47.757,0.3835,Beaumont-Pied-de-Bœuf,72500
+72,Sarthe,48.224,0.1124,Beaumont-sur-Sarthe,72170
+72,Sarthe,48.083,0.5091,Beillé,72160
+72,Sarthe,48.002,0.7500,Berfay,72320
+72,Sarthe,48.071,-0.056,Bernay-en-Champagne,72240
+72,Sarthe,48.374,0.0675,Bérus,72610
+72,Sarthe,47.824,0.7221,Bessé-sur-Braye,72310
+72,Sarthe,48.365,0.0923,Béthon,72610
+72,Sarthe,48.449,0.3355,Blèves,72600
+72,Sarthe,48.135,0.5580,Boëssé-le-Sec,72400
+72,Sarthe,48.184,0.4524,Bonnétable,72110
+72,Sarthe,48.163,0.5465,La Bosse,72400
+72,Sarthe,48.076,0.6338,Bouër,72390
+72,Sarthe,47.967,0.5509,Bouloire,72440
+72,Sarthe,48.346,0.1320,Bourg-le-Roi,72610
+72,Sarthe,47.760,-0.062,Bousse,72270
+72,Sarthe,48.009,-0.026,Brains-sur-Gée,72550
+72,Sarthe,47.995,0.4994,Le Breil-sur-Mérize,72370
+72,Sarthe,47.910,0.3267,Brette-les-Pins,72250
+72,Sarthe,48.174,0.3928,Briosne-lès-Sables,72110
+72,Sarthe,47.651,0.3567,La Bruère-sur-Loir,72500
+72,Sarthe,47.980,-0.230,Brûlon,72350
+72,Sarthe,47.833,0.0696,Cérans-Foulletourte,72330
+72,Sarthe,47.752,0.5137,Chahaignes,72340
+72,Sarthe,47.934,0.4289,Challes,72250
+72,Sarthe,48.016,0.3339,Champagné,72470
+72,Sarthe,48.384,0.1253,Champfleur,72610
+72,Sarthe,48.082,0.7472,Champrond,72320
+72,Sarthe,47.978,0.2970,Changé,72560
+72,Sarthe,47.919,-0.154,Chantenay-Villedieu,72430
+72,Sarthe,47.627,0.2299,La Chapelle-aux-Choux,72800
+72,Sarthe,47.735,-0.239,La Chapelle-d'Aligné,72300
+72,Sarthe,48.227,0.5834,La Chapelle-du-Bois,72400
+72,Sarthe,47.809,0.6742,La Chapelle-Gaugain,72310
+72,Sarthe,47.855,0.7189,La Chapelle-Huon,72310
+72,Sarthe,48.035,0.1566,La Chapelle-Saint-Aubin,72650
+72,Sarthe,48.108,0.0912,La Chapelle-Saint-Fray,72240
+72,Sarthe,48.103,0.4650,La Chapelle-Saint-Rémy,72160
+72,Sarthe,47.730,0.5820,La Chartre-sur-le-Loir,72340
+72,Sarthe,48.021,-0.127,Chassillé,72540
+72,Sarthe,47.702,0.4306,Montval-sur-Loir,72500
+72,Sarthe,47.802,0.1991,Château-l'Hermitage,72510
+72,Sarthe,48.018,0.0629,Chaufour-Notre-Dame,72550
+72,Sarthe,48.053,-0.202,Chemiré-en-Charnie,72540
+72,Sarthe,47.928,-0.012,Chemiré-le-Gaudin,72210
+72,Sarthe,48.448,0.1602,Chenay,72610
+72,Sarthe,47.603,0.3554,Chenu,72500
+72,Sarthe,48.281,0.1756,Chérancé,72170
+72,Sarthe,48.350,0.1145,Chérisay,72610
+72,Sarthe,48.154,0.6573,Cherré,72400
+72,Sarthe,48.196,0.6874,Cherreau,72400
+72,Sarthe,48.425,0.1405,Le Chevain,72610
+72,Sarthe,47.942,-0.218,Chevillé,72350
+72,Sarthe,47.732,-0.024,Clermont-Créans,72200
+72,Sarthe,47.861,0.6540,Cogners,72310
+72,Sarthe,48.314,0.3543,Commerveil,72600
+72,Sarthe,47.972,0.7268,Conflans-sur-Anille,72120
+72,Sarthe,48.209,0.2547,Congé-sur-Orne,72290
+72,Sarthe,48.122,-0.012,Conlie,72240
+72,Sarthe,48.050,0.4679,Connerré,72160
+72,Sarthe,48.413,0.3587,Contilly,72600
+72,Sarthe,48.167,0.7089,Cormes,72400
+72,Sarthe,47.985,0.6259,Coudrecieux,72440
+72,Sarthe,48.033,0.2113,Coulaines,72190
+72,Sarthe,48.022,0.0172,Coulans-sur-Gée,72550
+72,Sarthe,48.294,0.1268,Coulombiers,72130
+72,Sarthe,47.692,0.1945,Coulongé,72800
+72,Sarthe,48.126,0.2820,Courcebœufs,72290
+72,Sarthe,47.794,-0.024,Courcelles-la-Forêt,72270
+72,Sarthe,48.177,0.3435,Courcemont,72110
+72,Sarthe,48.235,0.3916,Courcival,72110
+72,Sarthe,47.816,0.5551,Courdemanche,72150
+72,Sarthe,47.816,0.5551,Courdemanche,72150
+72,Sarthe,48.290,0.2766,Courgains,72260
+72,Sarthe,48.157,0.7398,Courgenard,72320
+72,Sarthe,47.805,-0.315,Courtillers,72300
+72,Sarthe,47.979,-0.036,Crannes-en-Champagne,72540
+72,Sarthe,47.657,-0.139,Cré-sur-Loir,72200
+72,Sarthe,48.180,-0.064,Crissé,72140
+72,Sarthe,47.736,-0.154,Crosmières,72200
+72,Sarthe,48.084,0.0166,Cures,72240
+72,Sarthe,48.249,0.2609,Dangeul,72260
+72,Sarthe,48.052,0.0735,Degré,72550
+72,Sarthe,48.208,0.5760,Dehault,72400
+72,Sarthe,47.666,0.4845,Dissay-sous-Courcillon,72500
+72,Sarthe,48.233,0.2980,Dissé-sous-Ballon,72260
+72,Sarthe,47.610,0.1509,Dissé-sous-le-Lude,72800
+72,Sarthe,48.036,0.5935,Dollon,72390
+72,Sarthe,48.109,0.0450,Domfront-en-Champagne,72240
+72,Sarthe,48.256,0.1836,Doucelles,72170
+72,Sarthe,48.276,-0.050,Douillet,72130
+72,Sarthe,48.067,0.5348,Duneau,72160
+72,Sarthe,47.829,-0.134,Dureil,72270
+72,Sarthe,47.824,0.2849,Écommoy,72220
+72,Sarthe,47.937,0.6373,Écorpain,72120
+72,Sarthe,48.040,-0.132,Épineu-le-Chevreuil,72540
+72,Sarthe,47.963,0.0772,Étival-lès-le-Mans,72700
+72,Sarthe,47.900,0.6269,Évaillé,72120
+72,Sarthe,48.046,0.3347,Fatines,72470
+72,Sarthe,48.000,0.0719,Fay,72550
+72,Sarthe,47.897,-0.035,Fercé-sur-Sarthe,72430
+72,Sarthe,48.184,0.6346,La Ferté-Bernard,72400
+72,Sarthe,47.902,0.1152,Fillé,72210
+72,Sarthe,47.731,0.4573,Flée,72500
+72,Sarthe,47.793,0.0473,La Fontaine-Saint-Martin,72330
+72,Sarthe,47.907,-0.214,Fontenay-sur-Vègre,72350
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72600
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72600
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72600
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72600
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72610
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72610
+72,Sarthe,48.438,0.2368,Villeneuve-en-Perseigne,72610
+72,Sarthe,48.281,0.0228,Fresnay-sur-Sarthe,72130
+72,Sarthe,48.323,0.0816,Fyé,72610
+72,Sarthe,48.357,0.0296,Gesnes-le-Gandelin,72130
+72,Sarthe,48.306,0.1813,Grandchamp,72610
+72,Sarthe,47.867,0.4631,Le Grand-Lucé,72150
+72,Sarthe,48.136,0.8238,Gréez-sur-Roc,72320
+72,Sarthe,48.189,-0.155,Le Grez,72140
+72,Sarthe,47.884,0.1420,Guécélard,72230
+72,Sarthe,48.118,0.2010,La Guierche,72380
+72,Sarthe,48.211,0.3824,Jauzé,72110
+72,Sarthe,48.015,-0.194,Joué-en-Charnie,72540
+72,Sarthe,48.107,0.2298,Joué-l'Abbé,72380
+72,Sarthe,47.868,-0.291,Juigné-sur-Sarthe,72300
+72,Sarthe,48.245,0.1258,Juillé,72170
+72,Sarthe,47.791,0.4103,Jupilles,72500
+72,Sarthe,47.689,-0.064,La Flèche,72200
+72,Sarthe,47.868,0.2337,Laigné-en-Belin,72220
+72,Sarthe,48.105,0.7095,Lamnay,72320
+72,Sarthe,48.083,0.0628,Lavardin,72240
+72,Sarthe,48.058,0.6571,Lavaré,72390
+72,Sarthe,47.783,0.6879,Lavenay,72310
+72,Sarthe,47.783,0.6879,Lavenay,72310
+72,Sarthe,47.718,0.3462,Lavernat,72500
+72,Sarthe,47.760,0.5636,Lhomme,72340
+72,Sarthe,47.769,-0.013,Ligron,72270
+72,Sarthe,48.356,0.2110,Livet-en-Saosnois,72610
+72,Sarthe,48.086,0.4126,Lombron,72450
+72,Sarthe,48.021,-0.084,Longnes,72540
+72,Sarthe,47.783,-0.239,Louailles,72300
+72,Sarthe,47.997,-0.138,Loué,72540
+72,Sarthe,47.941,0.0485,Louplande,72210
+72,Sarthe,48.336,0.2007,Louvigny,72600
+72,Sarthe,48.427,0.2934,Louzes,72600
+72,Sarthe,48.080,0.5969,Le Luart,72390
+72,Sarthe,47.717,0.3914,Luceau,72500
+72,Sarthe,48.211,0.2125,Lucé-sous-Ballon,72290
+72,Sarthe,47.703,0.0953,Luché-Pringé,72800
+72,Sarthe,47.654,0.1501,Le Lude,72800
+72,Sarthe,47.938,-0.054,Maigné,72210
+72,Sarthe,47.937,0.5771,Maisoncelles,72440
+72,Sarthe,47.812,-0.087,Malicorne-sur-Sarthe,72270
+72,Sarthe,48.354,0.3707,Mamers,72600
+72,Sarthe,47.988,0.2000,Le Mans,72000
+72,Sarthe,47.988,0.2000,Le Mans,72100
+72,Sarthe,47.741,0.1336,Mansigné,72510
+72,Sarthe,47.705,0.5266,Marçon,72340
+72,Sarthe,47.980,-0.178,Mareil-en-Champagne,72540
+72,Sarthe,47.720,0.0078,Mareil-sur-Loir,72200
+72,Sarthe,48.205,0.1494,Maresché,72170
+72,Sarthe,47.818,0.3521,Marigné-Laillé,72220
+72,Sarthe,48.376,0.3630,Marollette,72600
+72,Sarthe,48.253,0.3201,Marolles-les-Braults,72260
+72,Sarthe,47.917,0.7933,Marolles-lès-Saint-Calais,72120
+72,Sarthe,47.764,0.2798,Mayet,72360
+72,Sarthe,48.313,0.2343,Les Mées,72260
+72,Sarthe,48.094,0.8135,Melleray,72320
+72,Sarthe,48.237,0.2017,Meurcé,72170
+72,Sarthe,47.829,-0.015,Mézeray,72270
+72,Sarthe,48.202,0.2979,Mézières-sur-Ponthouin,72290
+72,Sarthe,48.156,0.0477,Mézières-sous-Lavardin,72240
+72,Sarthe,48.066,0.1359,La Milesse,72650
+72,Sarthe,48.247,0.0603,Moitron-sur-Sarthe,72170
+72,Sarthe,48.247,0.0603,Moitron-sur-Sarthe,72170
+72,Sarthe,47.898,0.1963,Moncé-en-Belin,72230
+72,Sarthe,48.273,0.3886,Moncé-en-Saosnois,72260
+72,Sarthe,48.287,0.3261,Monhoudou,72260
+72,Sarthe,47.679,0.3934,Montabon,72500
+72,Sarthe,47.954,0.6859,Montaillé,72120
+72,Sarthe,48.153,0.1823,Montbizot,72380
+72,Sarthe,48.107,0.7713,Montmirail,72320
+72,Sarthe,48.241,-0.038,Montreuil-le-Chétif,72130
+72,Sarthe,47.861,0.5716,Montreuil-le-Henri,72150
+72,Sarthe,48.243,-0.113,Mont-Saint-Jean,72140
+72,Sarthe,48.373,-0.013,Moulins-le-Carbonnel,72130
+72,Sarthe,47.918,0.2441,Mulsanne,72230
+72,Sarthe,48.254,0.3933,Nauvay,72260
+72,Sarthe,48.387,0.2451,Neufchâtel-en-Saosnois,72600
+72,Sarthe,48.154,-0.007,Neuvillalais,72240
+72,Sarthe,48.075,0.2144,Neuville-sur-Sarthe,72190
+72,Sarthe,48.087,-0.207,Neuvillette-en-Charnie,72140
+72,Sarthe,48.079,-0.021,Neuvy-en-Champagne,72240
+72,Sarthe,48.239,0.5034,Nogent-le-Bernard,72110
+72,Sarthe,47.656,0.3980,Nogent-sur-Loir,72500
+72,Sarthe,48.237,0.2283,Nouans,72260
+72,Sarthe,47.858,-0.100,Noyen-sur-Sarthe,72430
+72,Sarthe,48.020,0.4858,Nuillé-le-Jalais,72370
+72,Sarthe,48.348,0.0741,Oisseau-le-Petit,72610
+72,Sarthe,47.802,0.1096,Oizé,72330
+72,Sarthe,48.339,0.3002,Panon,72600
+72,Sarthe,47.821,-0.193,Parcé-sur-Sarthe,72300
+72,Sarthe,48.117,-0.185,Parennes,72140
+72,Sarthe,47.856,0.1244,Parigné-le-Pôlin,72330
+72,Sarthe,47.931,0.3717,Parigné-l'Évêque,72250
+72,Sarthe,47.725,-0.337,Notre-Dame-du-Pé,72300
+72,Sarthe,48.250,0.3707,Peray,72260
+72,Sarthe,48.202,-0.042,Pezé-le-Robert,72140
+72,Sarthe,48.266,0.1141,Piacé,72170
+72,Sarthe,47.797,-0.367,Pincé,72300
+72,Sarthe,47.910,-0.089,Pirmil,72430
+72,Sarthe,48.323,0.3336,Pizieux,72600
+72,Sarthe,47.916,-0.271,Poillé-sur-Vègre,72350
+72,Sarthe,47.773,0.6570,Poncé-sur-le-Loir,72340
+72,Sarthe,48.057,0.4021,Montfort-le-Gesnois,72450
+72,Sarthe,47.759,0.1993,Pontvallain,72510
+72,Sarthe,47.764,-0.318,Précigné,72300
+72,Sarthe,48.226,0.6199,Préval,72400
+72,Sarthe,48.154,0.4746,Prévelles,72110
+72,Sarthe,47.992,0.1055,Pruillé-le-Chétif,72700
+72,Sarthe,47.838,0.4217,Pruillé-l'Éguillé,72150
+72,Sarthe,48.051,0.0420,La Quinte,72550
+72,Sarthe,47.957,0.8114,Rahay,72120
+72,Sarthe,48.276,0.2172,René,72260
+72,Sarthe,47.786,0.1576,Requeil,72510
+72,Sarthe,47.893,0.0716,Roézé-sur-Sarthe,72210
+72,Sarthe,48.318,0.1479,Rouessé-Fontaine,72610
+72,Sarthe,48.155,-0.199,Rouessé-Vassé,72140
+72,Sarthe,48.137,-0.119,Rouez,72140
+72,Sarthe,48.000,0.1422,Rouillon,72700
+72,Sarthe,48.229,0.4385,Rouperroux-le-Coquet,72110
+72,Sarthe,47.943,0.2660,Ruaudin,72230
+72,Sarthe,48.056,-0.115,Ruillé-en-Champagne,72240
+72,Sarthe,47.785,0.6183,Loir en Vallée,72340
+72,Sarthe,47.837,-0.354,Sablé-sur-Sarthe,72300
+72,Sarthe,48.217,0.3464,Saint-Aignan,72110
+72,Sarthe,48.258,0.0091,Saint-Aubin-de-Locquenay,72130
+72,Sarthe,48.178,0.5790,Saint-Aubin-des-Coudrais,72400
+72,Sarthe,47.818,0.2374,Saint-Biez-en-Belin,72220
+72,Sarthe,47.925,0.7476,Saint-Calais,72120
+72,Sarthe,48.307,0.3110,Saint-Calez-en-Saosnois,72600
+72,Sarthe,48.125,0.4335,Saint-Célerin,72110
+72,Sarthe,47.901,0.6828,Sainte-Cérotte,72120
+72,Sarthe,48.234,0.0606,Saint-Christophe-du-Jambet,72170
+72,Sarthe,47.963,-0.137,Saint-Christophe-en-Champagne,72540
+72,Sarthe,48.077,0.3421,Saint-Corneille,72460
+72,Sarthe,48.274,0.4579,Saint-Cosme-en-Vairais,72110
+72,Sarthe,48.162,0.5068,Saint-Denis-des-Coudrais,72110
+72,Sarthe,48.031,-0.275,Saint-Denis-d'Orques,72350
+72,Sarthe,47.825,0.5912,Saint-Georges-de-la-Couée,72150
+72,Sarthe,47.972,0.1012,Saint-Georges-du-Bois,72700
+72,Sarthe,48.199,0.5232,Saint-Georges-du-Rosay,72110
+72,Sarthe,48.295,-0.110,Saint-Georges-le-Gaultier,72130
+72,Sarthe,47.627,0.2860,Saint-Germain-d'Arcé,72800
+72,Sarthe,48.279,0.0781,Saint-Germain-sur-Sarthe,72130
+72,Sarthe,48.279,0.0781,Saint-Germain-sur-Sarthe,72130
+72,Sarthe,47.882,0.7331,Saint-Gervais-de-Vic,72120
+72,Sarthe,47.870,0.2003,Saint-Gervais-en-Belin,72220
+72,Sarthe,48.138,0.1584,Sainte-Jamme-sur-Sarthe,72380
+72,Sarthe,48.138,0.1584,Sainte-Jamme-sur-Sarthe,72380
+72,Sarthe,48.158,0.1214,Saint-Jean-d'Assé,72380
+72,Sarthe,47.758,0.0554,Saint-Jean-de-la-Motte,72510
+72,Sarthe,48.130,0.7332,Saint-Jean-des-Échelles,72320
+72,Sarthe,47.864,-0.033,Saint-Jean-du-Bois,72430
+72,Sarthe,48.354,-0.086,Saint-Léonard-des-Bois,72130
+72,Sarthe,48.353,0.3369,Saint-Longis,72600
+72,Sarthe,48.109,0.6523,Saint-Maixent,72320
+72,Sarthe,48.182,0.1221,Saint-Marceau,72170
+72,Sarthe,47.931,0.5060,Saint-Mars-de-Locquenay,72440
+72,Sarthe,47.869,0.3426,Saint-Mars-d'Outillé,72220
+72,Sarthe,48.017,0.3787,Saint-Mars-la-Brière,72470
+72,Sarthe,48.151,0.5979,Saint-Martin-des-Monts,72400
+72,Sarthe,48.009,0.5734,Saint-Michel-de-Chavaignes,72440
+72,Sarthe,47.872,0.6102,Sainte-Osmane,72120
+72,Sarthe,48.291,0.0512,Saint-Ouen-de-Mimbré,72130
+72,Sarthe,47.835,0.2122,Saint-Ouen-en-Belin,72220
+72,Sarthe,47.957,-0.178,Saint-Ouen-en-Champagne,72350
+72,Sarthe,48.413,0.1149,Saint-Paterne - Le Chevain,72610
+72,Sarthe,48.325,-0.117,Saint-Paul-le-Gaultier,72130
+72,Sarthe,48.041,0.1948,Saint-Pavace,72190
+72,Sarthe,47.635,0.4340,Saint-Pierre-de-Chevillé,72500
+72,Sarthe,47.941,-0.135,Saint-Pierre-des-Bois,72430
+72,Sarthe,48.293,0.4204,Saint-Pierre-des-Ormes,72600
+72,Sarthe,47.796,0.5083,Saint-Pierre-du-Lorouër,72150
+72,Sarthe,48.181,-0.102,Saint-Rémy-de-Sillé,72140
+72,Sarthe,48.321,0.3829,Saint-Rémy-des-Monts,72600
+72,Sarthe,48.348,0.2510,Saint-Rémy-du-Val,72600
+72,Sarthe,48.135,0.0899,Sainte-Sabine-sur-Longève,72380
+72,Sarthe,48.059,0.1728,Saint-Saturnin,72650
+72,Sarthe,48.078,-0.140,Saint-Symphorien,72240
+72,Sarthe,48.156,0.8401,Saint-Ulphace,72320
+72,Sarthe,48.316,0.0374,Saint-Victeur,72130
+72,Sarthe,48.295,0.3732,Saint-Vincent-des-Prés,72600
+72,Sarthe,47.821,0.4807,Saint-Vincent-du-Lorouër,72150
+72,Sarthe,48.325,0.2884,Saosnes,72600
+72,Sarthe,47.722,0.2287,Sarcé,72360
+72,Sarthe,48.041,0.2472,Sargé-lès-le-Mans,72190
+72,Sarthe,48.083,0.2878,Savigné-l'Évêque,72460
+72,Sarthe,47.629,0.0724,Savigné-sous-le-Lude,72800
+72,Sarthe,48.101,0.5807,Sceaux-sur-Huisne,72160
+72,Sarthe,48.211,0.0166,Ségrie,72170
+72,Sarthe,48.021,0.6723,Semur-en-Vallon,72390
+72,Sarthe,48.186,-0.132,Sillé-le-Guillaume,72140
+72,Sarthe,48.106,0.3490,Sillé-le-Philippe,72460
+72,Sarthe,47.844,-0.280,Solesmes,72300
+72,Sarthe,48.314,-0.044,Sougé-le-Ganelon,72130
+72,Sarthe,48.120,0.1733,Souillé,72380
+72,Sarthe,47.967,0.0141,Souligné-Flacé,72210
+72,Sarthe,48.136,0.2380,Souligné-sous-Ballon,72290
+72,Sarthe,48.022,0.4413,Soulitré,72370
+72,Sarthe,48.217,0.6488,Souvigné-sur-Même,72400
+72,Sarthe,47.824,-0.411,Souvigné-sur-Sarthe,72300
+72,Sarthe,47.925,0.1510,Spay,72700
+72,Sarthe,47.979,0.4625,Surfonds,72370
+72,Sarthe,47.877,0.0251,La Suze-sur-Sarthe,72210
+72,Sarthe,47.888,-0.149,Tassé,72430
+72,Sarthe,47.988,-0.094,Tassillé,72540
+72,Sarthe,48.184,0.1884,Teillé,72290
+72,Sarthe,47.890,0.2784,Teloché,72220
+72,Sarthe,48.109,-0.086,Tennie,72240
+72,Sarthe,48.204,0.4063,Terrehault,72110
+72,Sarthe,48.171,0.7856,Théligny,72320
+72,Sarthe,48.285,0.2501,Thoigné,72260
+72,Sarthe,48.312,0.2054,Thoiré-sous-Contensor,72610
+72,Sarthe,47.764,0.4620,Thoiré-sur-Dinan,72500
+72,Sarthe,47.666,0.0339,Thorée-les-Pins,72800
+72,Sarthe,48.029,0.5198,Thorigné-sur-Dué,72160
+72,Sarthe,48.132,0.3919,Torcé-en-Vallée,72110
+72,Sarthe,48.029,0.1157,Trangé,72650
+72,Sarthe,47.903,0.5563,Tresson,72440
+72,Sarthe,48.180,0.0814,Le Tronchet,72170
+72,Sarthe,48.120,0.5083,Tuffé Val de la Chéronne,72160
+72,Sarthe,48.120,0.5083,Tuffé Val de la Chéronne,72160
+72,Sarthe,47.672,0.3153,Vaas,72500
+72,Sarthe,48.005,0.8048,Valennes,72320
+72,Sarthe,47.959,-0.084,Vallon-sur-Gée,72540
+72,Sarthe,47.834,0.6595,Vancé,72310
+72,Sarthe,47.719,0.2985,Verneil-le-Chétif,72360
+72,Sarthe,48.182,0.0183,Vernie,72170
+72,Sarthe,48.353,0.2948,Vezot,72600
+72,Sarthe,48.048,0.7397,Vibraye,72320
+72,Sarthe,48.387,0.2948,Villaines-la-Carelle,72600
+72,Sarthe,48.133,0.6084,Villaines-la-Gonais,72400
+72,Sarthe,47.880,0.5020,Villaines-sous-Lucé,72150
+72,Sarthe,47.757,-0.104,Villaines-sous-Malicorne,72270
+72,Sarthe,47.814,-0.264,Vion,72300
+72,Sarthe,47.987,-0.291,Viré-en-Champagne,72350
+72,Sarthe,48.240,0.1622,Vivoin,72170
+72,Sarthe,47.927,0.0845,Voivres-lès-le-Mans,72210
+72,Sarthe,47.951,0.4702,Volnay,72440
+72,Sarthe,48.085,0.5535,Vouvray-sur-Huisne,72160
+72,Sarthe,47.693,0.4584,Vouvray-sur-Loir,72500
+72,Sarthe,47.693,0.4584,Vouvray-sur-Loir,72500
+72,Sarthe,47.834,0.1595,Yvré-le-Pôlin,72330
+72,Sarthe,48.023,0.2821,Yvré-l'Évêque,72530

@@ -1,0 +1,574 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+24,Dordogne,45.581,0.7599,Abjat-sur-Bandiat,24300
+24,Dordogne,45.281,0.7453,Agonac,24460
+24,Dordogne,45.161,1.0276,Ajat,24210
+24,Dordogne,44.861,0.8746,Alles-sur-Dordogne,24480
+24,Dordogne,44.828,1.0737,Allas-les-Mines,24220
+24,Dordogne,45.288,0.3052,Allemans,24600
+24,Dordogne,45.429,1.1505,Angoisse,24270
+24,Dordogne,45.321,1.1208,Anlhiac,24160
+24,Dordogne,45.182,0.5953,Annesse-et-Beaulieu,24430
+24,Dordogne,45.230,0.8316,Antonne-et-Trigonant,24420
+24,Dordogne,45.015,1.2916,Archignac,24590
+24,Dordogne,45.079,1.1980,Aubas,24290
+24,Dordogne,44.883,0.9484,Audrix,24260
+24,Dordogne,45.583,0.7023,Augignac,24300
+24,Dordogne,45.112,1.1272,Auriac-du-Périgord,24290
+24,Dordogne,45.159,1.1063,Azerat,24210
+24,Dordogne,45.133,1.1637,La Bachellerie,24210
+24,Dordogne,45.228,1.2037,Badefols-d'Ans,24390
+24,Dordogne,44.839,0.8005,Badefols-sur-Dordogne,24150
+24,Dordogne,44.852,0.6934,Baneuil,24150
+24,Dordogne,44.740,0.6860,Bardou,24560
+24,Dordogne,45.094,1.0507,Bars,24210
+24,Dordogne,45.178,0.8209,Bassillac et Auberoche,24330
+24,Dordogne,44.804,0.7227,Bayac,24150
+24,Dordogne,44.773,0.7540,Beaumontois en Périgord,24440
+24,Dordogne,44.773,0.7540,Beaumontois en Périgord,24440
+24,Dordogne,44.773,0.7540,Beaumontois en Périgord,24440
+24,Dordogne,44.773,0.7540,Beaumontois en Périgord,24440
+24,Dordogne,44.773,0.7540,Beaumontois en Périgord,24440
+24,Dordogne,44.996,0.2852,Beaupouyet,24400
+24,Dordogne,45.155,1.2286,Beauregard-de-Terrasson,24120
+24,Dordogne,44.993,0.6326,Beauregard-et-Bassac,24140
+24,Dordogne,45.100,0.3631,Beauronne,24400
+24,Dordogne,45.509,0.4820,Beaussac,24340
+24,Dordogne,44.986,0.4913,Beleymas,24140
+24,Dordogne,44.746,0.9804,Pays de Belvès,24170
+24,Dordogne,44.746,0.9804,Pays de Belvès,24170
+24,Dordogne,44.746,0.9804,Pays de Belvès,24170
+24,Dordogne,44.839,1.0451,Berbiguières,24220
+24,Dordogne,44.854,0.4865,Bergerac,24100
+24,Dordogne,45.309,0.3545,Bertric-Burée,24320
+24,Dordogne,44.664,1.1131,Besse,24550
+24,Dordogne,44.857,1.1322,Beynac-et-Cazenac,24220
+24,Dordogne,44.847,1.0863,Bézenac,24220
+24,Dordogne,45.286,0.6389,Biras,24310
+24,Dordogne,44.622,0.8741,Biron,24540
+24,Dordogne,45.169,0.9081,Blis-et-Born,24330
+24,Dordogne,44.716,0.6565,Boisse,24560
+24,Dordogne,45.281,1.1780,Boisseuilh,24390
+24,Dordogne,45.232,0.9737,La Boissière-d'Ans,24640
+24,Dordogne,44.883,0.0812,Bonneville-et-Saint-Avit-de-Fumadières,24230
+24,Dordogne,44.974,1.3910,Borrèze,24590
+24,Dordogne,44.951,0.3622,Bosset,24130
+24,Dordogne,44.765,0.9204,Bouillac,24480
+24,Dordogne,45.173,0.7693,Boulazac Isle Manoire,24330
+24,Dordogne,45.173,0.7693,Boulazac Isle Manoire,24750
+24,Dordogne,45.173,0.7693,Boulazac Isle Manoire,24750
+24,Dordogne,44.756,0.5279,Bouniagues,24560
+24,Dordogne,45.318,0.5811,Bourdeilles,24310
+24,Dordogne,45.579,0.6355,Le Bourdeix,24300
+24,Dordogne,45.337,0.4344,Bourg-des-Maisons,24320
+24,Dordogne,45.267,0.2632,Bourg-du-Bost,24600
+24,Dordogne,45.017,0.3979,Bourgnac,24400
+24,Dordogne,44.808,0.7704,Bourniquel,24150
+24,Dordogne,45.048,0.6042,Bourrou,24110
+24,Dordogne,45.348,0.2893,Bouteilles-Saint-Sébastien,24320
+24,Dordogne,44.721,1.2171,Bouzic,24250
+24,Dordogne,45.360,0.6559,Brantôme en Périgord,24310
+24,Dordogne,45.360,0.6559,Brantôme en Périgord,24310
+24,Dordogne,45.057,0.7529,Breuilh,24380
+24,Dordogne,45.204,0.9971,Brouchaud,24210
+24,Dordogne,44.926,0.9246,Le Bugue,24260
+24,Dordogne,44.820,0.8900,Le Buisson-de-Cadouin,24480
+24,Dordogne,44.820,0.8900,Le Buisson-de-Cadouin,24480
+24,Dordogne,44.820,0.8900,Le Buisson-de-Cadouin,24480
+24,Dordogne,45.266,0.6027,Bussac,24350
+24,Dordogne,45.671,0.6461,Busserolles,24360
+24,Dordogne,45.644,0.6018,Bussière-Badil,24360
+24,Dordogne,44.863,0.8150,Calès,24150
+24,Dordogne,44.861,1.3221,Calviac-en-Périgord,24370
+24,Dordogne,44.695,1.1751,Campagnac-lès-Quercy,24550
+24,Dordogne,44.897,0.9775,Campagne,24260
+24,Dordogne,44.942,0.5676,Campsegret,24140
+24,Dordogne,45.400,0.6436,Cantillac,24530
+24,Dordogne,44.678,0.9451,Capdrot,24540
+24,Dordogne,44.886,1.3598,Carlux,24370
+24,Dordogne,44.850,1.2742,Carsac-Aillac,24200
+24,Dordogne,44.940,0.0946,Carsac-de-Gurson,24610
+24,Dordogne,44.785,1.0605,Carves,24170
+24,Dordogne,45.056,1.3064,La Cassagne,24120
+24,Dordogne,44.801,1.1305,Castelnaud-la-Chapelle,24250
+24,Dordogne,44.801,1.1305,Castelnaud-la-Chapelle,24250
+24,Dordogne,44.870,1.0803,Castels et Bézenac,24220
+24,Dordogne,44.873,0.6727,Cause-de-Clérans,24150
+24,Dordogne,44.882,1.4289,Cazoulès,24370
+24,Dordogne,45.292,0.4124,Celles,24600
+24,Dordogne,44.786,1.2034,Cénac-et-Saint-Julien,24250
+24,Dordogne,44.999,0.8269,Cendrieux,24380
+24,Dordogne,45.367,0.4695,Cercles,24320
+24,Dordogne,45.092,0.6807,Chalagnac,24380
+24,Dordogne,45.503,0.9403,Chalais,24800
+24,Dordogne,45.400,0.6950,Champagnac-de-Belair,24530
+24,Dordogne,45.429,0.3362,Champagne-et-Fontaine,24320
+24,Dordogne,45.221,0.7250,Champcevinel,24750
+24,Dordogne,45.468,0.5810,Champeaux-et-la-Chapelle-Pommier,24340
+24,Dordogne,45.671,0.7212,Champniers-et-Reilhac,24360
+24,Dordogne,45.540,0.7715,Champs-Romain,24470
+24,Dordogne,45.210,0.6552,Chancelade,24650
+24,Dordogne,45.201,0.8912,Le Change,24640
+24,Dordogne,45.167,0.4381,Chantérac,24190
+24,Dordogne,45.342,0.4668,Chapdeuil,24320
+24,Dordogne,45.010,1.1894,La Chapelle-Aubareil,24290
+24,Dordogne,45.374,0.7617,La Chapelle-Faucher,24530
+24,Dordogne,45.230,0.6190,La Chapelle-Gonaguet,24350
+24,Dordogne,45.389,0.3393,La Chapelle-Grésignac,24320
+24,Dordogne,45.394,0.4576,La Chapelle-Montabourlet,24320
+24,Dordogne,45.449,0.6442,La Chapelle-Montmoreau,24300
+24,Dordogne,45.195,1.1643,La Chapelle-Saint-Jean,24390
+24,Dordogne,45.254,0.2498,Chassaignes,24600
+24,Dordogne,45.258,0.6864,Château-l'Évêque,24460
+24,Dordogne,45.187,1.1947,Châtres,24120
+24,Dordogne,45.087,1.3700,Les Coteaux Périgourdins,24120
+24,Dordogne,45.387,0.3849,Cherval,24320
+24,Dordogne,45.287,1.1111,Cherveix-Cubas,24390
+24,Dordogne,45.234,1.0535,Chourgnac,24640
+24,Dordogne,44.808,1.0741,Cladech,24170
+24,Dordogne,44.949,0.6477,Clermont-de-Beauregard,24140
+24,Dordogne,45.364,1.0471,Clermont-d'Excideuil,24160
+24,Dordogne,44.782,0.5179,Colombier,24560
+24,Dordogne,45.086,1.2650,Coly,24120
+24,Dordogne,45.276,0.2800,Comberanche-et-Épeluche,24600
+24,Dordogne,45.367,0.7158,Condat-sur-Trincou,24530
+24,Dordogne,45.106,1.2290,Condat-sur-Vézère,24570
+24,Dordogne,45.515,0.5303,Connezac,24300
+24,Dordogne,44.781,0.5533,Conne-de-Labarde,24560
+24,Dordogne,45.544,0.9656,La Coquille,24450
+24,Dordogne,45.373,0.9446,Corgnac-sur-l'Isle,24800
+24,Dordogne,45.245,0.7790,Cornille,24750
+24,Dordogne,45.241,1.2535,Coubjours,24390
+24,Dordogne,45.300,0.9738,Coulaures,24420
+24,Dordogne,45.165,0.6875,Coulounieix-Chamiers,24660
+24,Dordogne,45.127,0.6428,Coursac,24430
+24,Dordogne,44.836,0.5576,Cours-de-Pile,24520
+24,Dordogne,45.327,0.3954,Coutures,24320
+24,Dordogne,44.848,0.9678,Coux et Bigaroque-Mouzens,24220
+24,Dordogne,44.848,0.9678,Coux et Bigaroque-Mouzens,24220
+24,Dordogne,44.825,0.7221,Couze-et-Saint-Front,24150
+24,Dordogne,45.312,0.5498,Creyssac,24350
+24,Dordogne,44.864,0.5489,Creysse,24100
+24,Dordogne,45.070,0.6680,Creyssensac-et-Pissot,24380
+24,Dordogne,45.225,0.9390,Cubjac-Auvézère-Val d'Ans,24640
+24,Dordogne,44.779,0.3740,Cunèges,24240
+24,Dordogne,44.748,1.1872,Daglan,24250
+24,Dordogne,44.721,1.0856,Doissat,24170
+24,Dordogne,44.803,1.2443,Domme,24250
+24,Dordogne,45.073,1.3432,La Dornac,24120
+24,Dordogne,45.232,0.4456,Douchapt,24350
+24,Dordogne,45.001,0.5951,Douville,24140
+24,Dordogne,45.068,0.8623,La Douze,24330
+24,Dordogne,45.090,0.4077,Douzillac,24190
+24,Dordogne,45.395,1.0731,Dussac,24270
+24,Dordogne,45.129,0.2230,Échourgnac,24410
+24,Dordogne,45.088,0.7326,Église-Neuve-de-Vergt,24380
+24,Dordogne,44.981,0.4278,Église-Neuve-d'Issac,24400
+24,Dordogne,45.207,0.8514,Escoire,24420
+24,Dordogne,45.608,0.6157,Étouars,24360
+24,Dordogne,45.329,1.0621,Excideuil,24160
+24,Dordogne,45.078,0.1212,Eygurande-et-Gardedeuil,24700
+24,Dordogne,45.155,0.8557,Eyliac,24330
+24,Dordogne,44.673,0.3946,Eymet,24500
+24,Dordogne,44.698,0.5555,Plaisance,24560
+24,Dordogne,44.698,0.5555,Plaisance,24560
+24,Dordogne,44.698,0.5555,Plaisance,24560
+24,Dordogne,45.328,0.7380,Eyvirat,24460
+24,Dordogne,45.387,0.9025,Eyzerac,24800
+24,Dordogne,44.935,1.0403,Les Eyzies-de-Tayac-Sireuil,24620
+24,Dordogne,44.935,1.0403,Les Eyzies-de-Tayac-Sireuil,24620
+24,Dordogne,45.069,1.0930,Fanlac,24290
+24,Dordogne,45.114,1.1931,Les Farges,24290
+24,Dordogne,44.702,0.6870,Faurilles,24560
+24,Dordogne,44.785,0.6463,Faux,24560
+24,Dordogne,45.217,0.2422,Festalemps,24410
+24,Dordogne,45.115,1.3975,La Feuillade,24120
+24,Dordogne,45.592,0.9420,Firbeix,24450
+24,Dordogne,44.754,0.4408,Flaugeac,24240
+24,Dordogne,44.880,0.2625,Le Fleix,24130
+24,Dordogne,44.997,1.0048,Fleurac,24580
+24,Dordogne,44.708,1.2386,Florimont-Gaumier,24250
+24,Dordogne,44.704,0.4098,Fonroque,24500
+24,Dordogne,45.118,0.9881,Fossemagne,24210
+24,Dordogne,44.868,0.1887,Fougueyrolles,33220
+24,Dordogne,44.975,0.6736,Fouleix,24380
+24,Dordogne,44.933,0.3033,Fraisse,24130
+24,Dordogne,45.205,1.0322,Gabillou,24210
+24,Dordogne,44.803,0.3576,Gageac-et-Rouillac,24240
+24,Dordogne,44.831,0.3309,Gardonne,24680
+24,Dordogne,44.666,0.8790,Gaugeac,24540
+24,Dordogne,45.330,1.1636,Génis,24160
+24,Dordogne,44.904,0.4376,Ginestet,24130
+24,Dordogne,45.381,0.5844,La Gonterie-Boulouneix,24310
+24,Dordogne,45.416,0.4055,Gout-Rossignol,24320
+24,Dordogne,45.300,0.4857,Grand-Brassac,24350
+24,Dordogne,45.210,1.1163,Granges-d'Ans,24390
+24,Dordogne,45.501,0.4449,Les Graulges,24340
+24,Dordogne,45.108,1.3610,Grèzes,24120
+24,Dordogne,45.084,0.5397,Grignols,24110
+24,Dordogne,44.762,1.0776,Grives,24170
+24,Dordogne,44.809,1.2926,Groléjac,24250
+24,Dordogne,45.046,0.6420,Grun-Bordas,24380
+24,Dordogne,45.536,0.5082,Hautefaye,24300
+24,Dordogne,45.258,1.1354,Hautefort,24390
+24,Dordogne,45.015,0.4517,Issac,24400
+24,Dordogne,44.727,0.6054,Issigeac,24560
+24,Dordogne,45.054,0.5570,Jaure,24140
+24,Dordogne,45.561,0.5504,Javerlhac-et-la-Chapelle-Saint-Robert,24300
+24,Dordogne,45.029,1.3515,Jayac,24590
+24,Dordogne,45.160,0.2625,La Jemaye-Ponteyraud,24410
+24,Dordogne,44.965,0.8857,Journiac,24260
+24,Dordogne,45.505,1.0806,Jumilhac-le-Grand,24630
+24,Dordogne,45.048,0.8312,Lacropte,24380
+24,Dordogne,45.490,0.5330,Rudeau-Ladosse,24340
+24,Dordogne,44.878,0.3595,La Force,24130
+24,Dordogne,44.855,0.7415,Lalinde,24150
+24,Dordogne,44.901,0.5883,Lamonzie-Montastruc,24520
+24,Dordogne,44.833,0.3877,Lamonzie-Saint-Martin,24680
+24,Dordogne,44.852,0.0166,Lamothe-Montravel,24230
+24,Dordogne,45.377,1.1320,Lanouaille,24270
+24,Dordogne,44.814,0.6689,Lanquais,24150
+24,Dordogne,45.136,1.2324,Le Lardin-Saint-Lazare,24570
+24,Dordogne,44.739,1.0000,Larzac,24170
+24,Dordogne,44.694,0.8603,Lavalade,24540
+24,Dordogne,44.624,1.0245,Lavaur,24550
+24,Dordogne,44.935,0.4392,Laveyssière,24130
+24,Dordogne,44.981,0.3866,Les Lèches,24400
+24,Dordogne,45.387,0.5192,Léguillac-de-Cercles,24340
+24,Dordogne,45.187,0.5530,Léguillac-de-l'Auche,24110
+24,Dordogne,44.892,0.5214,Lembras,24100
+24,Dordogne,45.354,0.8237,Lempzours,24800
+24,Dordogne,44.896,0.8959,Limeuil,24510
+24,Dordogne,45.165,0.9773,Limeyrat,24210
+24,Dordogne,44.895,0.6415,Liorac-sur-Louyre,24520
+24,Dordogne,45.271,0.5572,Lisle,24350
+24,Dordogne,44.710,0.8462,Lolme,24540
+24,Dordogne,44.604,1.0745,Loubejac,24550
+24,Dordogne,44.924,0.3990,Lunas,24130
+24,Dordogne,45.325,0.3154,Lusignac,24320
+24,Dordogne,45.520,0.5805,Lussas-et-Nontronneau,24300
+24,Dordogne,44.962,0.9882,Manaurie,24620
+24,Dordogne,45.084,0.5904,Manzac-sur-Vern,24110
+24,Dordogne,44.955,1.1998,Marcillac-Saint-Quentin,24200
+24,Dordogne,45.440,0.4479,Mareuil en Périgord,24340
+24,Dordogne,44.829,1.0287,Marnac,24220
+24,Dordogne,44.941,1.1283,Marquay,24620
+24,Dordogne,45.182,0.6514,Marsac-sur-l'Isle,24430
+24,Dordogne,44.699,0.8906,Marsalès,24540
+24,Dordogne,45.090,0.7790,Marsaneix,24750
+24,Dordogne,44.926,0.4822,Maurens,24140
+24,Dordogne,44.882,0.7803,Mauzac-et-Grand-Castang,24150
+24,Dordogne,44.882,0.7803,Mauzac-et-Grand-Castang,24150
+24,Dordogne,44.990,0.9291,Mauzens-et-Miremont,24260
+24,Dordogne,45.279,0.9515,Mayac,24420
+24,Dordogne,44.673,1.0075,Mazeyrolles,24550
+24,Dordogne,45.003,0.1054,Ménesplet,24700
+24,Dordogne,45.221,0.5588,Mensignac,24350
+24,Dordogne,44.741,0.4257,Mescoules,24240
+24,Dordogne,44.907,1.0703,Meyrals,24220
+24,Dordogne,45.568,0.8978,Mialet,24450
+24,Dordogne,45.113,0.9332,Milhac-d'Auberoche,24330
+24,Dordogne,45.472,0.7914,Milhac-de-Nontron,24470
+24,Dordogne,44.961,0.0299,Minzac,24610
+24,Dordogne,44.811,0.8247,Molières,24480
+24,Dordogne,44.794,0.4809,Monbazillac,24240
+24,Dordogne,44.776,0.3152,Monestier,24240
+24,Dordogne,44.914,0.2556,Monfaucon,24130
+24,Dordogne,44.768,0.6175,Monmadalès,24560
+24,Dordogne,44.705,0.6113,Monmarvès,24560
+24,Dordogne,44.680,0.8940,Monpazier,24540
+24,Dordogne,44.779,0.6925,Monsac,24440
+24,Dordogne,44.738,0.5714,Monsaguel,24560
+24,Dordogne,45.424,0.5438,Monsec,24340
+24,Dordogne,45.187,0.9538,Montagnac-d'Auberoche,24210
+24,Dordogne,44.978,0.5429,Montagnac-la-Crempse,24140
+24,Dordogne,45.271,0.4861,Montagrier,24350
+24,Dordogne,44.750,0.6461,Montaut,24560
+24,Dordogne,44.902,0.1308,Montazeau,24230
+24,Dordogne,44.861,0.0660,Montcaret,24230
+24,Dordogne,44.758,0.8749,Montferrand-du-Périgord,24440
+24,Dordogne,45.062,1.1542,Montignac,24290
+24,Dordogne,44.915,0.0627,Montpeyroux,24610
+24,Dordogne,44.793,0.9951,Monplaisant,24170
+24,Dordogne,45.019,0.1555,Montpon-Ménestérol,24700
+24,Dordogne,45.131,0.5809,Montrem,24110
+24,Dordogne,44.859,0.6172,Mouleydier,24520
+24,Dordogne,45.000,0.0583,Moulin-Neuf,24700
+24,Dordogne,45.029,0.3647,Mussidan,24400
+24,Dordogne,44.765,1.2907,Nabirat,24250
+24,Dordogne,45.031,1.4003,Nadaillac,24590
+24,Dordogne,45.223,1.1548,Nailhac,24390
+24,Dordogne,45.380,0.2876,Nanteuil-Auriac-de-Bourzac,24320
+24,Dordogne,45.380,0.2876,Nanteuil-Auriac-de-Bourzac,24320
+24,Dordogne,45.426,0.9562,Nantheuil,24800
+24,Dordogne,45.408,0.9850,Nanthiat,24800
+24,Dordogne,44.872,0.1500,Nastringues,24230
+24,Dordogne,44.750,0.7187,Naussannes,24440
+24,Dordogne,45.340,0.8786,Négrondes,24460
+24,Dordogne,45.089,0.4661,Neuvic,24190
+24,Dordogne,45.530,0.6839,Nontron,24300
+24,Dordogne,45.127,0.7127,Sanilhac,24660
+24,Dordogne,44.713,1.0617,Orliac,24170
+24,Dordogne,44.910,1.3815,Orliaguet,24370
+24,Dordogne,45.191,0.0356,Parcoul-Chenaud,24410
+24,Dordogne,45.191,0.0356,Parcoul-Chenaud,24410
+24,Dordogne,44.995,1.3341,Paulin,24590
+24,Dordogne,44.902,0.8545,Paunat,24510
+24,Dordogne,45.346,0.5395,Paussac-et-Saint-Vivien,24310
+24,Dordogne,45.421,1.2266,Payzac,24270
+24,Dordogne,45.124,1.3751,Pazayac,24120
+24,Dordogne,45.191,0.7118,Périgueux,24000
+24,Dordogne,45.269,0.2272,Petit-Bersac,24600
+24,Dordogne,45.158,1.1956,Peyrignac,24210
+24,Dordogne,44.891,1.4075,Peyrillac-et-Millac,24370
+24,Dordogne,44.982,1.0799,Peyzac-le-Moustier,24620
+24,Dordogne,44.909,0.8050,Pezuls,24510
+24,Dordogne,45.631,0.6999,Piégut-Pluviers,24360
+24,Dordogne,45.036,0.0721,Le Pizou,24700
+24,Dordogne,45.043,1.0381,Plazac,24580
+24,Dordogne,44.795,0.4129,Pomport,24240
+24,Dordogne,45.188,0.2399,Ponteyraud,24410
+24,Dordogne,44.827,0.7719,Pontours,24150
+24,Dordogne,44.862,0.2088,Port-Sainte-Foy-et-Ponchapt,33220
+24,Dordogne,44.891,1.3087,Prats-de-Carlux,24370
+24,Dordogne,44.685,1.0671,Prats-du-Périgord,24550
+24,Dordogne,44.893,0.7276,Pressignac-Vicq,24150
+24,Dordogne,45.341,1.1072,Preyssac-d'Excideuil,24160
+24,Dordogne,44.869,0.4098,Prigonrieux,24130
+24,Dordogne,44.931,1.2443,Proissans,24200
+24,Dordogne,45.481,0.4713,Puyrenier,24340
+24,Dordogne,44.915,0.5323,Queyssac,24140
+24,Dordogne,45.436,0.7013,Quinsac,24530
+24,Dordogne,44.703,0.8007,Rampieux,24440
+24,Dordogne,44.697,0.4573,Razac-d'Eymet,24500
+24,Dordogne,44.813,0.2901,Razac-de-Saussignac,24240
+24,Dordogne,45.160,0.6158,Razac-sur-l'Isle,24430
+24,Dordogne,44.757,0.4855,Ribagnac,24240
+24,Dordogne,45.245,0.3347,Ribérac,24600
+24,Dordogne,45.466,0.3826,La Rochebeaucourt-et-Argentine,24340
+24,Dordogne,45.135,0.0550,La Roche-Chalais,24490
+24,Dordogne,45.135,0.0550,La Roche-Chalais,24490
+24,Dordogne,45.135,0.0550,La Roche-Chalais,24490
+24,Dordogne,44.817,1.1986,La Roque-Gageac,24250
+24,Dordogne,45.051,0.9662,Rouffignac-Saint-Cernin-de-Reilhac,24580
+24,Dordogne,45.051,0.9662,Rouffignac-Saint-Cernin-de-Reilhac,24580
+24,Dordogne,44.779,0.4443,Rouffignac-de-Sigoulès,24240
+24,Dordogne,44.729,0.4903,Sadillac,24500
+24,Dordogne,44.784,1.0230,Sagelat,24170
+24,Dordogne,44.835,0.6236,Saint-Agne,24520
+24,Dordogne,44.947,0.8104,Val de Louyre et Caudeau,24510
+24,Dordogne,44.947,0.8104,Val de Louyre et Caudeau,24510
+24,Dordogne,45.052,1.2465,Saint-Amand-de-Coly,24290
+24,Dordogne,44.993,0.6957,Saint-Amand-de-Vergt,24380
+24,Dordogne,44.891,1.1476,Saint-André-d'Allas,24200
+24,Dordogne,45.140,0.3253,Saint-André-de-Double,24190
+24,Dordogne,45.246,0.2019,Saint-Antoine-Cumond,24410
+24,Dordogne,45.140,0.9421,Saint-Antoine-d'Auberoche,24330
+24,Dordogne,44.841,0.1447,Saint-Antoine-de-Breuilh,24230
+24,Dordogne,45.191,0.4887,Saint-Aquilin,24110
+24,Dordogne,45.148,0.5196,Saint-Astier,24110
+24,Dordogne,44.685,0.4920,Saint-Aubin-de-Cadelech,24500
+24,Dordogne,44.796,0.6021,Saint-Aubin-de-Lanquais,24560
+24,Dordogne,44.731,1.2843,Saint-Aubin-de-Nabirat,24250
+24,Dordogne,45.182,0.1363,Saint Aulaye-Puymangou,24410
+24,Dordogne,45.182,0.1363,Saint Aulaye-Puymangou,24410
+24,Dordogne,44.945,0.8621,Saint-Avit-de-Vialard,24260
+24,Dordogne,44.740,0.9065,Saint-Avit-Rivière,24540
+24,Dordogne,44.775,0.8242,Saint-Avit-Sénieur,24440
+24,Dordogne,45.080,0.1931,Saint-Barthélemy-de-Bellegarde,24700
+24,Dordogne,45.641,0.7470,Saint-Barthélemy-de-Bussière,24360
+24,Dordogne,44.846,0.6552,Saint-Capraise-de-Lalinde,24150
+24,Dordogne,44.711,0.5105,Saint-Capraise-d'Eymet,24500
+24,Dordogne,44.679,0.8453,Saint-Cassien,24540
+24,Dordogne,44.763,0.5846,Saint-Cernin-de-Labarde,24560
+24,Dordogne,44.654,1.0458,Saint-Cernin-de-l'Herm,24550
+24,Dordogne,44.872,0.9212,Saint-Chamassy,24260
+24,Dordogne,44.936,0.9679,Saint-Cirq,24260
+24,Dordogne,45.117,0.8959,Saint-Crépin-d'Auberoche,24330
+24,Dordogne,45.422,0.6087,Saint-Crépin-de-Richemont,24310
+24,Dordogne,44.956,1.2761,Saint-Crépin-et-Carlucet,24590
+24,Dordogne,44.732,0.8285,Sainte-Croix,24440
+24,Dordogne,45.465,0.4228,Sainte-Croix-de-Mareuil,24340
+24,Dordogne,44.780,1.1587,Saint-Cybranet,24250
+24,Dordogne,44.882,1.0253,Saint-Cyprien,24220
+24,Dordogne,45.372,1.2910,Saint-Cyr-les-Champagnes,24270
+24,Dordogne,45.609,0.6579,Saint-Estèphe,24360
+24,Dordogne,45.092,0.3234,Saint-Étienne-de-Puycorbier,24400
+24,Dordogne,45.249,1.0214,Sainte-Eulalie-d'Ans,24640
+24,Dordogne,44.709,0.3593,Sainte-Eulalie-d'Eymet,24500
+24,Dordogne,45.407,0.5655,Saint-Félix-de-Bourdeilles,24340
+24,Dordogne,45.014,0.8915,Saint-Félix-de-Reillac-et-Mortemart,24260
+24,Dordogne,44.931,0.6772,Saint-Félix-de-Villadeix,24510
+24,Dordogne,44.731,1.0329,Sainte-Foy-de-Belvès,24170
+24,Dordogne,44.928,0.7556,Sainte-Foy-de-Longas,24510
+24,Dordogne,45.324,0.7897,Saint-Front-d'Alemps,24460
+24,Dordogne,45.059,0.3601,Saint-Front-de-Pradoux,24400
+24,Dordogne,45.465,0.7196,Saint-Front-la-Rivière,24300
+24,Dordogne,45.477,0.6273,Saint-Front-sur-Nizonne,24300
+24,Dordogne,44.995,1.2443,Saint-Geniès,24590
+24,Dordogne,44.917,0.3562,Saint-Georges-Blancaneix,24130
+24,Dordogne,44.933,0.6108,Saint-Georges-de-Montclard,24140
+24,Dordogne,44.947,0.2393,Saint-Géraud-de-Corps,24700
+24,Dordogne,44.806,1.0360,Saint-Germain-de-Belvès,24170
+24,Dordogne,45.345,1.0001,Saint-Germain-des-Prés,24160
+24,Dordogne,45.127,0.4377,Saint-Germain-du-Salembre,24190
+24,Dordogne,44.828,0.5912,Saint-Germain-et-Mons,24520
+24,Dordogne,44.976,0.3260,Saint-Géry,24400
+24,Dordogne,45.074,0.9070,Saint-Geyrac,24330
+24,Dordogne,45.014,0.5053,Saint-Hilaire-d'Estissac,24140
+24,Dordogne,44.724,0.3942,Sainte-Innocence,24500
+24,Dordogne,45.134,0.3943,Saint-Jean-d'Ataux,24190
+24,Dordogne,45.413,0.8353,Saint-Jean-de-Côle,24800
+24,Dordogne,45.037,0.5048,Saint-Jean-d'Estissac,24140
+24,Dordogne,44.955,0.4549,Saint-Jean-d'Eyraud,24140
+24,Dordogne,45.489,0.8970,Saint-Jory-de-Chalais,24800
+24,Dordogne,45.342,0.9470,Saint-Jory-las-Bloux,24160
+24,Dordogne,44.949,0.5219,Saint-Julien-de-Crempse,24140
+24,Dordogne,44.861,1.3818,Saint-Julien-de-Lampon,24370
+24,Dordogne,44.721,0.4346,Saint-Julien-d'Eymet,24500
+24,Dordogne,45.335,0.4984,Saint-Just,24320
+24,Dordogne,45.044,0.2532,Saint-Laurent-des-Hommes,24400
+24,Dordogne,44.823,0.4459,Saint-Laurent-des-Vignes,24100
+24,Dordogne,44.751,1.1156,Saint-Laurent-la-Vallée,24170
+24,Dordogne,44.721,0.6993,Saint-Léon-d'Issigeac,24560
+24,Dordogne,45.116,0.4995,Saint-Léon-sur-l'Isle,24110
+24,Dordogne,45.018,1.0803,Saint-Léon-sur-Vézère,24290
+24,Dordogne,45.062,0.3885,Saint-Louis-en-l'Isle,24400
+24,Dordogne,44.916,0.7034,Saint-Marcel-du-Périgord,24510
+24,Dordogne,44.722,0.9279,Saint-Marcory,24540
+24,Dordogne,45.115,0.8255,Sainte-Marie-de-Chignac,24330
+24,Dordogne,45.321,1.0371,Saint-Martial-d'Albarède,24160
+24,Dordogne,45.001,0.2170,Saint-Martial-d'Artenset,24700
+24,Dordogne,44.747,1.2478,Saint-Martial-de-Nabirat,24250
+24,Dordogne,45.512,0.6335,Saint-Martial-de-Valette,24300
+24,Dordogne,45.360,0.3364,Saint-Martial-Viveyrol,24320
+24,Dordogne,45.453,0.8417,Saint-Martin-de-Fressengeas,24800
+24,Dordogne,44.961,0.1162,Saint-Martin-de-Gurson,24610
+24,Dordogne,45.220,0.3618,Saint-Martin-de-Ribérac,24600
+24,Dordogne,44.964,0.6209,Saint-Martin-des-Combes,24140
+24,Dordogne,45.058,0.3232,Saint-Martin-l'Astier,24400
+24,Dordogne,45.552,0.6258,Saint-Martin-le-Pin,24300
+24,Dordogne,45.019,0.6548,Saint-Maime-de-Péreyrol,24380
+24,Dordogne,45.250,0.4099,Saint-Méard-de-Drône,24600
+24,Dordogne,44.911,0.1779,Saint-Méard-de-Gurçon,24610
+24,Dordogne,45.022,0.3318,Saint-Médard-de-Mussidan,24400
+24,Dordogne,45.347,1.0861,Saint-Médard-d'Excideuil,24160
+24,Dordogne,45.346,1.2364,Saint-Mesmin,24270
+24,Dordogne,45.091,0.2749,Saint-Michel-de-Double,24400
+24,Dordogne,44.879,0.0249,Saint-Michel-de-Montaigne,24230
+24,Dordogne,44.992,0.7314,Saint-Michel-de-Villadeix,24380
+24,Dordogne,44.835,1.3467,Sainte-Mondane,24370
+24,Dordogne,44.913,1.2809,Sainte-Nathalène,24200
+24,Dordogne,44.806,0.5503,Saint-Nexans,24520
+24,Dordogne,45.205,1.0731,Sainte-Orse,24210
+24,Dordogne,45.423,0.6653,Saint-Pancrace,24530
+24,Dordogne,45.244,0.9939,Saint-Pantaly-d'Ans,24640
+24,Dordogne,45.312,1.0114,Saint-Pantaly-d'Excideuil,24160
+24,Dordogne,45.223,0.4190,Saint-Pardoux-de-Drône,24600
+24,Dordogne,44.770,0.9609,Saint-Pardoux-et-Vielvic,24170
+24,Dordogne,45.503,0.7480,Saint-Pardoux-la-Rivière,24470
+24,Dordogne,45.080,0.6339,Saint-Paul-de-Serre,24380
+24,Dordogne,45.483,0.9894,Saint-Paul-la-Roche,24800
+24,Dordogne,45.316,0.2832,Saint-Paul-Lizonne,24320
+24,Dordogne,44.736,0.5299,Saint-Perdoux,24560
+24,Dordogne,45.110,0.8632,Saint-Pierre-de-Chignac,24330
+24,Dordogne,45.380,0.8076,Saint-Pierre-de-Côle,24800
+24,Dordogne,45.584,1.0063,Saint-Pierre-de-Frugie,24450
+24,Dordogne,44.873,0.3221,Saint-Pierre-d'Eyraud,24130
+24,Dordogne,44.714,1.1358,Saint-Pompont,24170
+24,Dordogne,45.541,1.0243,Saint-Priest-les-Fougères,24450
+24,Dordogne,45.218,0.1922,Saint Privat en Périgord,24410
+24,Dordogne,45.174,1.1455,Saint-Rabier,24210
+24,Dordogne,44.684,0.6776,Sainte-Radegonde,24560
+24,Dordogne,45.304,1.0731,Saint-Raphaël,24160
+24,Dordogne,44.955,0.1794,Saint-Rémy,24700
+24,Dordogne,44.719,0.8820,Saint-Romain-de-Monpazier,24540
+24,Dordogne,45.424,0.8720,Saint-Romain-et-Saint-Clément,24800
+24,Dordogne,45.536,0.8396,Saint-Saud-Lacoussière,24470
+24,Dordogne,44.873,0.5839,Saint-Sauveur,24520
+24,Dordogne,44.977,0.2526,Saint-Sauveur-Lalande,24700
+24,Dordogne,44.832,0.0683,Saint-Seurin-de-Prats,24230
+24,Dordogne,45.050,0.4734,Saint-Séverin-d'Estissac,24190
+24,Dordogne,45.466,0.5217,Saint-Sulpice-de-Mareuil,24340
+24,Dordogne,45.199,0.3963,Saint-Sulpice-de-Roumagnac,24600
+24,Dordogne,45.395,1.0172,Saint-Sulpice-d'Excideuil,24800
+24,Dordogne,45.293,1.2124,Sainte-Trie,24160
+24,Dordogne,45.262,0.4426,Saint-Victor,24350
+24,Dordogne,45.165,0.3922,Saint-Vincent-de-Connezac,24190
+24,Dordogne,44.839,1.1095,Saint-Vincent-de-Cosse,24220
+24,Dordogne,45.184,0.1936,Saint-Vincent-Jalmoutiers,24410
+24,Dordogne,44.883,1.2754,Saint-Vincent-le-Paluel,24200
+24,Dordogne,45.241,0.8997,Saint-Vincent-sur-l'Isle,24420
+24,Dordogne,44.893,0.1032,Saint-Vivien,24230
+24,Dordogne,45.315,1.2118,Salagnac,24160
+24,Dordogne,45.315,1.2118,Salagnac,24160
+24,Dordogne,44.945,1.3594,Salignac-Eyvigues,24590
+24,Dordogne,44.716,0.9989,Salles-de-Belvès,24170
+24,Dordogne,45.028,0.7748,Salon,24380
+24,Dordogne,45.450,1.1155,Sarlande,24270
+24,Dordogne,44.898,1.2066,Sarlat-la-Canéda,24200
+24,Dordogne,45.239,0.8663,Sarliac-sur-l'Isle,24420
+24,Dordogne,45.437,1.0348,Sarrazac,24800
+24,Dordogne,44.802,0.3203,Saussignac,24240
+24,Dordogne,44.964,0.9466,Savignac-de-Miremont,24260
+24,Dordogne,45.547,0.7182,Savignac-de-Nontron,24300
+24,Dordogne,45.381,1.1986,Savignac-Lédrier,24270
+24,Dordogne,45.275,0.9117,Savignac-les-Églises,24420
+24,Dordogne,45.483,0.6739,Sceau-Saint-Angel,24300
+24,Dordogne,45.201,0.4389,Segonzac,24600
+24,Dordogne,45.315,0.6816,Sencenac-Puy-de-Fourches,24310
+24,Dordogne,44.998,1.1154,Sergeac,24290
+24,Dordogne,44.675,0.4442,Serres-et-Montguyard,24500
+24,Dordogne,45.133,0.1647,Servanches,24410
+24,Dordogne,44.757,0.3989,Sigoulès,24240
+24,Dordogne,44.914,1.3387,Simeyrols,24370
+24,Dordogne,44.734,0.4624,Singleyrac,24500
+24,Dordogne,45.183,0.3463,Siorac-de-Ribérac,24600
+24,Dordogne,44.816,0.9793,Siorac-en-Périgord,24170
+24,Dordogne,45.291,0.8499,Sorges et Ligueux en Périgord,24420
+24,Dordogne,45.291,0.8499,Sorges et Ligueux en Périgord,24460
+24,Dordogne,45.621,0.5679,Soudat,24360
+24,Dordogne,44.641,0.9148,Soulaures,24540
+24,Dordogne,45.049,0.4154,Sourzac,24400
+24,Dordogne,44.976,1.1496,Tamniès,24620
+24,Dordogne,45.259,1.2194,Teillots,24390
+24,Dordogne,45.231,1.0972,Temple-Laguyon,24390
+24,Dordogne,45.118,1.2991,Terrasson-Lavilledieu,24120
+24,Dordogne,45.590,0.5795,Teyjat,24300
+24,Dordogne,44.745,0.3548,Thénac,24240
+24,Dordogne,44.745,0.3548,Thénac,24240
+24,Dordogne,44.745,0.3548,Thénac,24240
+24,Dordogne,45.132,1.0636,Thenon,24210
+24,Dordogne,45.428,0.9121,Thiviers,24800
+24,Dordogne,45.037,1.1056,Thonac,24290
+24,Dordogne,45.237,0.4969,Tocane-Saint-Apre,24350
+24,Dordogne,45.367,0.4269,La Tour-Blanche-Cercles,24320
+24,Dordogne,45.272,1.0555,Tourtoirac,24390
+24,Dordogne,45.209,0.7784,Trélissac,24750
+24,Dordogne,44.874,0.8339,Trémolat,24510
+24,Dordogne,44.972,1.0423,Tursac,24620
+24,Dordogne,44.799,0.9408,Urval,24480
+24,Dordogne,45.327,0.6280,Valeuil,24310
+24,Dordogne,45.071,0.4995,Vallereuil,24190
+24,Dordogne,45.016,1.1478,Valojoulx,24290
+24,Dordogne,45.212,0.2897,Vanxains,24600
+24,Dordogne,45.610,0.5303,Varaignes,24360
+24,Dordogne,44.834,0.6681,Varennes,24150
+24,Dordogne,45.369,0.8676,Vaunac,24800
+24,Dordogne,44.856,0.1121,Vélines,24230
+24,Dordogne,45.412,0.2888,Vendoire,24320
+24,Dordogne,44.814,0.6304,Verdon,24520
+24,Dordogne,45.041,0.7103,Vergt,24380
+24,Dordogne,44.636,0.8494,Vergt-de-Biron,24540
+24,Dordogne,45.349,0.3760,Verteillac,24320
+24,Dordogne,44.822,1.3254,Veyrignac,24370
+24,Dordogne,44.800,1.1057,Veyrines-de-Domme,24250
+24,Dordogne,44.990,0.7732,Veyrines-de-Vergt,24380
+24,Dordogne,44.840,1.1729,Vézac,24220
+24,Dordogne,45.433,0.5014,Vieux-Mareuil,24340
+24,Dordogne,45.184,1.2482,Villac,24120
+24,Dordogne,45.027,0.5579,Villamblard,24140
+24,Dordogne,45.422,0.7665,Villars,24530
+24,Dordogne,44.955,0.0588,Villefranche-de-Lonchat,24610
+24,Dordogne,44.633,1.1074,Villefranche-du-Périgord,24550
+24,Dordogne,45.272,0.3590,Villetoureix,24600
+24,Dordogne,44.839,1.2244,Vitrac,24200

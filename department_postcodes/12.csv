@@ -1,0 +1,328 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+12,Aveyron,44.351,2.6933,Agen-d'Aveyron,12630
+12,Aveyron,44.161,3.0689,Aguessac,12520
+12,Aveyron,44.540,2.1802,Les Albres,12220
+12,Aveyron,44.600,2.3109,Almont-les-Junies,12300
+12,Aveyron,44.135,2.6756,Alrance,12430
+12,Aveyron,44.494,1.9357,Ambeyrac,12260
+12,Aveyron,44.416,2.2384,Anglars-Saint-Félix,12390
+12,Aveyron,43.718,2.9459,Arnac-sur-Dourdou,12360
+12,Aveyron,44.322,2.8040,Arques,12290
+12,Aveyron,44.190,2.6672,Arvieu,12120
+12,Aveyron,44.555,2.1384,Asprières,12700
+12,Aveyron,44.531,2.2559,Aubin,12110
+12,Aveyron,44.531,2.2559,Aubin,12110
+12,Aveyron,44.531,2.2559,Aubin,12110
+12,Aveyron,44.144,2.5965,Auriac-Lagast,12120
+12,Aveyron,44.499,2.3216,Auzits,12390
+12,Aveyron,44.092,2.7657,Ayssènes,12430
+12,Aveyron,44.518,1.9771,Balaguier-d'Olt,12260
+12,Aveyron,43.895,2.5767,Balaguier-sur-Rance,12380
+12,Aveyron,44.400,2.4556,Balsac,12510
+12,Aveyron,44.338,2.1434,Le Bas Ségala,12200
+12,Aveyron,44.338,2.1434,Le Bas Ségala,12200
+12,Aveyron,44.338,2.1434,Le Bas Ségala,12240
+12,Aveyron,44.010,3.0563,La Bastide-Pradines,12490
+12,Aveyron,43.949,2.5248,La Bastide-Solages,12550
+12,Aveyron,44.394,2.3316,Belcastel,12390
+12,Aveyron,43.824,2.7511,Belmont-sur-Rance,12370
+12,Aveyron,44.395,2.7834,Bertholène,12310
+12,Aveyron,44.519,2.7166,Bessuéjouls,12500
+12,Aveyron,44.580,2.2114,Boisse-Penchot,12300
+12,Aveyron,44.200,2.0859,Bor-et-Bar,12270
+12,Aveyron,44.573,2.1743,Bouillac,12300
+12,Aveyron,44.460,2.3027,Bournazel,12390
+12,Aveyron,44.295,2.3775,Boussac,12160
+12,Aveyron,44.467,2.7079,Bozouls,12340
+12,Aveyron,44.382,2.1374,Brandonnet,12350
+12,Aveyron,43.979,2.5729,Brasc,12550
+12,Aveyron,44.828,2.7047,Brommat,12600
+12,Aveyron,44.017,2.7062,Broquiès,12480
+12,Aveyron,44.006,2.6378,Brousse-le-Château,12480
+12,Aveyron,43.764,2.9483,Brusque,12360
+12,Aveyron,44.191,2.2920,Cabanès,12800
+12,Aveyron,43.955,2.7584,Calmels-et-le-Viala,12400
+12,Aveyron,44.259,2.5242,Calmont,12450
+12,Aveyron,44.259,2.5242,Calmont,12450
+12,Aveyron,43.818,2.8852,Camarès,12360
+12,Aveyron,44.222,2.4471,Camboulazet,12160
+12,Aveyron,44.179,2.3951,Camjac,12800
+12,Aveyron,44.401,3.0879,Campagnac,12560
+12,Aveyron,44.680,2.6093,Campouriez,12140
+12,Aveyron,44.680,2.6093,Campouriez,12140
+12,Aveyron,44.680,2.6093,Campouriez,12460
+12,Aveyron,44.566,2.5847,Campuac,12580
+12,Aveyron,44.232,2.7377,Canet-de-Salars,12290
+12,Aveyron,44.838,2.8248,Cantoin,12420
+12,Aveyron,44.559,2.0686,Capdenac-Gare,12700
+12,Aveyron,44.439,1.9259,La Capelle-Balaguier,12260
+12,Aveyron,44.303,2.1792,La Capelle-Bleys,12240
+12,Aveyron,44.451,3.0265,La Capelle-Bonance,12130
+12,Aveyron,44.281,2.4496,Baraqueville,12160
+12,Aveyron,44.281,2.4496,Baraqueville,12160
+12,Aveyron,44.178,2.5146,Cassagnes-Bégonhès,12120
+12,Aveyron,44.722,2.8111,Cassuéjouls,12210
+12,Aveyron,44.293,2.3083,Castanet,12240
+12,Aveyron,44.172,2.2444,Castelmary,12800
+12,Aveyron,44.531,2.8874,Castelnau-de-Mandailles,12500
+12,Aveyron,44.140,2.9277,Castelnau-Pégayrols,12620
+12,Aveyron,44.011,3.1838,La Cavalerie,12230
+12,Aveyron,44.585,2.7839,Le Cayrol,12500
+12,Aveyron,44.167,2.4408,Centrès,12120
+12,Aveyron,44.406,2.4087,Clairvaux-d'Aveyron,12330
+12,Aveyron,43.828,3.1739,Le Clapier,12540
+12,Aveyron,44.343,2.3278,Colombiès,12240
+12,Aveyron,43.840,2.6848,Combret,12370
+12,Aveyron,44.175,3.1027,Compeyre,12520
+12,Aveyron,44.379,2.1863,Compolibat,12350
+12,Aveyron,44.096,2.9796,Comprégnac,12100
+12,Aveyron,44.224,2.5691,Comps-la-Grand-Ville,12120
+12,Aveyron,44.605,2.8807,Condom-d'Aubrac,12470
+12,Aveyron,44.020,2.5945,Connac,12170
+12,Aveyron,44.595,2.4201,Conques-en-Rouergue,12320
+12,Aveyron,44.595,2.4201,Conques-en-Rouergue,12320
+12,Aveyron,44.595,2.4201,Conques-en-Rouergue,12320
+12,Aveyron,44.595,2.4201,Conques-en-Rouergue,12320
+12,Aveyron,43.892,3.2007,Cornus,12540
+12,Aveyron,44.016,2.8000,Les Costes-Gozon,12400
+12,Aveyron,44.575,2.7323,Coubisou,12190
+12,Aveyron,43.947,2.5931,Coupiac,12550
+12,Aveyron,43.929,3.2889,La Couvertoirade,12230
+12,Aveyron,44.518,2.2878,Cransac,12110
+12,Aveyron,44.064,3.0596,Creissels,12100
+12,Aveyron,44.153,2.2567,Crespin,12800
+12,Aveyron,44.167,3.1567,La Cresse,12640
+12,Aveyron,44.649,2.8917,Curières,12210
+12,Aveyron,44.567,2.2524,Decazeville,12300
+12,Aveyron,44.360,2.4767,Druelle Balsac,12000
+12,Aveyron,44.360,2.4767,Druelle Balsac,12000
+12,Aveyron,44.360,2.4767,Druelle Balsac,12510
+12,Aveyron,44.455,2.1348,Drulhe,12350
+12,Aveyron,44.100,2.6217,Durenque,12170
+12,Aveyron,44.669,2.5177,Le Fel,12140
+12,Aveyron,44.654,2.5784,Entraygues-sur-Truyère,12140
+12,Aveyron,44.471,2.3498,Escandolières,12390
+12,Aveyron,44.518,2.7642,Espalion,12500
+12,Aveyron,44.619,2.5194,Espeyrac,12140
+12,Aveyron,44.569,2.6875,Estaing,12190
+12,Aveyron,43.803,2.9774,Fayet,12360
+12,Aveyron,44.547,2.3250,Firmi,12300
+12,Aveyron,44.593,2.2651,Flagnac,12300
+12,Aveyron,44.288,2.6217,Flavin,12450
+12,Aveyron,44.638,2.6443,Florentin-la-Capelle,12140
+12,Aveyron,44.506,2.0076,Foissac,12260
+12,Aveyron,44.234,2.0478,La Fouillade,12270
+12,Aveyron,44.461,2.8047,Gabriac,12340
+12,Aveyron,44.361,2.9027,Gaillac-d'Aveyron,12310
+12,Aveyron,44.503,2.1799,Galgan,12220
+12,Aveyron,43.868,2.9064,Gissac,12360
+12,Aveyron,44.595,2.5864,Golinhac,12140
+12,Aveyron,44.438,2.3663,Goutrens,12390
+12,Aveyron,44.263,2.3681,Gramond,12160
+12,Aveyron,43.973,3.2083,L'Hospitalet-du-Larzac,12230
+12,Aveyron,44.711,2.7535,Huparlac,12460
+12,Aveyron,44.774,2.6424,Lacroix-Barrez,12600
+12,Aveyron,44.694,2.8671,Laguiole,12210
+12,Aveyron,44.364,2.8180,Laissac-Sévérac l'Église,12310
+12,Aveyron,44.364,2.8180,Laissac-Sévérac l'Église,12310
+12,Aveyron,44.423,2.1610,Lanuéjouls,12350
+12,Aveyron,44.006,3.0963,Lapanouse-de-Cernon,12230
+12,Aveyron,44.486,2.8545,Lassouts,12500
+12,Aveyron,43.812,2.6351,Laval-Roquecezière,12380
+12,Aveyron,44.080,2.4399,Lédergues,12170
+12,Aveyron,44.225,2.1468,Lescure-Jaoul,12440
+12,Aveyron,44.054,2.6477,Lestrade-et-Thouels,12430
+12,Aveyron,44.597,2.2162,Livinhac-le-Haut,12300
+12,Aveyron,44.390,2.6506,La Loubière,12740
+12,Aveyron,44.305,2.5364,Luc-la-Primaube,12450
+12,Aveyron,44.305,2.5364,Luc-la-Primaube,12450
+12,Aveyron,44.483,2.2558,Lugan,12220
+12,Aveyron,44.240,2.1003,Lunac,12270
+12,Aveyron,44.399,2.1036,Maleville,12350
+12,Aveyron,44.260,2.4781,Manhac,12160
+12,Aveyron,44.477,2.4648,Marcillac-Vallon,12330
+12,Aveyron,43.879,3.0416,Marnhagues-et-Latour,12540
+12,Aveyron,44.381,1.9129,Martiel,12200
+12,Aveyron,43.928,2.6339,Martrin,12550
+12,Aveyron,44.389,2.3719,Mayran,12390
+12,Aveyron,43.728,3.0170,Mélagues,12360
+12,Aveyron,44.133,2.4338,Meljac,12120
+12,Aveyron,44.097,3.1170,Millau,12100
+12,Aveyron,44.331,2.5872,Le Monastère,12000
+12,Aveyron,43.831,3.0246,Montagnol,12360
+12,Aveyron,43.831,3.0246,Montagnol,12360
+12,Aveyron,44.476,2.2128,Montbazens,12220
+12,Aveyron,43.979,2.6309,Montclar,12550
+12,Aveyron,44.265,1.9876,Monteils,12200
+12,Aveyron,44.716,2.6408,Montézic,12460
+12,Aveyron,43.840,2.5798,Montfranc,12380
+12,Aveyron,44.100,2.9041,Montjaux,12490
+12,Aveyron,43.865,2.8336,Montlaur,12400
+12,Aveyron,43.861,3.1146,Fondamente,12540
+12,Aveyron,44.634,2.7824,Montpeyroux,12210
+12,Aveyron,44.394,2.7212,Montrozier,12630
+12,Aveyron,44.394,2.7212,Montrozier,12630
+12,Aveyron,44.485,1.9761,Montsalès,12260
+12,Aveyron,44.321,2.0818,Morlhon-le-Haut,12200
+12,Aveyron,44.225,3.1827,Mostuéjouls,12720
+12,Aveyron,44.514,2.5210,Mouret,12330
+12,Aveyron,44.327,2.4273,Moyrazès,12160
+12,Aveyron,43.761,2.7618,Murasson,12370
+12,Aveyron,44.875,2.6805,Mur-de-Barrez,12600
+12,Aveyron,44.495,2.5714,Muret-le-Château,12330
+12,Aveyron,44.760,2.5775,Murols,12600
+12,Aveyron,44.211,1.9630,Najac,12270
+12,Aveyron,44.020,3.2856,Nant,12230
+12,Aveyron,44.189,2.3436,Naucelle,12800
+12,Aveyron,44.507,2.0974,Naussac,12700
+12,Aveyron,44.513,2.4327,Nauviale,12330
+12,Aveyron,44.605,2.6695,Le Nayrac,12190
+12,Aveyron,44.338,2.5477,Olemps,12510
+12,Aveyron,44.461,1.9469,Ols-et-Rinhodes,12260
+12,Aveyron,44.382,2.5600,Onet-le-Château,12000
+12,Aveyron,44.382,2.5600,Onet-le-Château,12850
+12,Aveyron,44.382,2.5600,Onet-le-Château,12850
+12,Aveyron,44.400,2.8422,Palmas d'Aveyron,12310
+12,Aveyron,44.400,2.8422,Palmas d'Aveyron,12310
+12,Aveyron,44.400,2.8422,Palmas d'Aveyron,12340
+12,Aveyron,44.148,3.1114,Paulhe,12520
+12,Aveyron,43.763,2.8805,Peux-et-Couffouleux,12360
+12,Aveyron,44.175,3.2049,Peyreleau,12720
+12,Aveyron,44.502,2.1343,Peyrusse-le-Roc,12220
+12,Aveyron,44.433,2.9216,Pierrefiche,12130
+12,Aveyron,43.929,2.5626,Plaisance,12550
+12,Aveyron,44.486,3.0586,Pomayrols,12130
+12,Aveyron,44.277,2.7093,Pont-de-Salars,12290
+12,Aveyron,43.856,2.5984,Pousthomy,12380
+12,Aveyron,44.541,2.9703,Prades-d'Aubrac,12470
+12,Aveyron,44.249,2.7929,Prades-Salars,12290
+12,Aveyron,44.247,2.2686,Pradinas,12240
+12,Aveyron,44.365,2.2443,Prévinquières,12350
+12,Aveyron,44.410,2.1945,Privezac,12350
+12,Aveyron,43.798,2.8191,Mounes-Prohencoux,12370
+12,Aveyron,44.534,2.4875,Pruines,12320
+12,Aveyron,44.229,2.3785,Quins,12800
+12,Aveyron,44.229,2.3785,Quins,12800
+12,Aveyron,43.885,2.7566,Rebourguil,12400
+12,Aveyron,44.031,2.5489,Réquista,12170
+12,Aveyron,44.308,2.2294,Rieupeyroux,12240
+12,Aveyron,44.403,2.2922,Rignac,12390
+12,Aveyron,44.210,3.1275,Rivière-sur-Tarn,12640
+12,Aveyron,44.210,3.1275,Rivière-sur-Tarn,12640
+12,Aveyron,44.481,2.6223,Rodelle,12340
+12,Aveyron,44.358,2.5672,Rodez,12000
+12,Aveyron,43.970,2.9817,Roquefort-sur-Soulzon,12250
+12,Aveyron,44.109,3.2420,La Roque-Sainte-Marguerite,12100
+12,Aveyron,44.309,1.9747,La Rouquette,12200
+12,Aveyron,44.447,2.2541,Roussennac,12220
+12,Aveyron,44.119,2.4769,Rullac-Saint-Cirq,12120
+12,Aveyron,43.965,2.8665,Saint-Affrique,12400
+12,Aveyron,44.686,2.6913,Saint-Amans-des-Cots,12460
+12,Aveyron,44.179,2.0210,Saint-André-de-Najac,12270
+12,Aveyron,44.147,3.2712,Saint-André-de-Vézines,12720
+12,Aveyron,43.906,3.1000,Saint-Beaulize,12540
+12,Aveyron,44.169,2.9666,Saint-Beauzély,12620
+12,Aveyron,44.591,2.9467,Saint-Chély-d'Aubrac,12470
+12,Aveyron,44.591,2.9467,Saint-Chély-d'Aubrac,12470
+12,Aveyron,44.479,2.3966,Saint-Christophe-Vallon,12330
+12,Aveyron,44.531,2.8219,Saint-Côme-d'Olt,12500
+12,Aveyron,44.414,1.9680,Sainte-Croix,12260
+12,Aveyron,44.466,2.9195,Sainte-Eulalie-d'Olt,12130
+12,Aveyron,43.960,3.1388,Sainte-Eulalie-de-Cernon,12230
+12,Aveyron,44.564,2.5136,Saint-Félix-de-Lunel,12320
+12,Aveyron,43.882,2.9866,Saint-Félix-de-Sorgues,12400
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12210
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12210
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12210
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12420
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12420
+12,Aveyron,44.800,2.7434,Argences en Aubrac,12420
+12,Aveyron,44.473,2.9815,Saint Geniez d'Olt et d'Aubrac,12130
+12,Aveyron,44.473,2.9815,Saint Geniez d'Olt et d'Aubrac,12130
+12,Aveyron,44.056,2.9871,Saint-Georges-de-Luzençon,12100
+12,Aveyron,44.725,2.5841,Saint-Hippolyte,12140
+12,Aveyron,44.725,2.5841,Saint-Hippolyte,12140
+12,Aveyron,44.445,2.0913,Saint-Igest,12260
+12,Aveyron,43.970,2.7033,Saint-Izaire,12480
+12,Aveyron,43.948,2.9670,Saint-Jean-d'Alcapiès,12250
+12,Aveyron,44.041,2.4924,Saint-Jean-Delnous,12170
+12,Aveyron,44.026,3.3822,Saint-Jean-du-Bruel,12230
+12,Aveyron,43.928,3.0292,Saint-Jean-et-Saint-Paul,12250
+12,Aveyron,43.924,2.6962,Saint-Juéry,12550
+12,Aveyron,44.218,2.5011,Sainte-Juliette-sur-Viaur,12120
+12,Aveyron,44.120,2.3784,Saint-Just-sur-Viaur,12170
+12,Aveyron,44.120,2.3784,Saint-Just-sur-Viaur,12800
+12,Aveyron,44.208,2.9383,Saint-Laurent-de-Lévézou,12620
+12,Aveyron,44.448,3.1014,Saint-Laurent-d'Olt,12560
+12,Aveyron,44.223,2.9820,Saint-Léons,12780
+12,Aveyron,44.424,2.9654,Saint-Martin-de-Lenne,12130
+12,Aveyron,44.632,2.2915,Saint-Parthem,12300
+12,Aveyron,44.331,2.6327,Sainte-Radegonde,12850
+12,Aveyron,44.395,2.0417,Saint-Rémy,12200
+12,Aveyron,44.009,2.9836,Saint-Rome-de-Cernon,12490
+12,Aveyron,44.032,2.8904,Saint-Rome-de-Tarn,12490
+12,Aveyron,44.643,2.2578,Saint-Santin,12300
+12,Aveyron,44.409,3.0221,Saint-Saturnin-de-Lenne,12560
+12,Aveyron,43.878,2.6231,Saint-Sernin-sur-Rance,12380
+12,Aveyron,43.772,2.6927,Saint-Sever-du-Moustier,12370
+12,Aveyron,44.740,2.7082,Saint-Symphorien-de-Thénières,12460
+12,Aveyron,44.740,2.7082,Saint-Symphorien-de-Thénières,12460
+12,Aveyron,44.050,2.8102,Saint-Victor-et-Melvieu,12400
+12,Aveyron,44.050,2.8102,Saint-Victor-et-Melvieu,12400
+12,Aveyron,44.481,2.0851,Salles-Courbatiès,12260
+12,Aveyron,44.159,2.7862,Salles-Curan,12410
+12,Aveyron,44.443,2.5250,Salles-la-Source,12330
+12,Aveyron,44.193,2.5871,Salmiech,12120
+12,Aveyron,44.454,1.8723,Salvagnac-Cajarc,12260
+12,Aveyron,44.528,2.0348,Causse-et-Diège,12700
+12,Aveyron,44.528,2.0348,Causse-et-Diège,12700
+12,Aveyron,44.528,2.0348,Causse-et-Diège,12700
+12,Aveyron,44.221,2.1967,La Salvetat-Peyralès,12440
+12,Aveyron,44.284,2.0405,Sanvensa,12200
+12,Aveyron,43.979,3.3751,Sauclières,12230
+12,Aveyron,44.477,1.9017,Saujac,12260
+12,Aveyron,44.247,2.3150,Sauveterre-de-Rouergue,12800
+12,Aveyron,44.359,1.9585,Savignac,12200
+12,Aveyron,44.423,2.6111,Sébazac-Concourès,12740
+12,Aveyron,44.537,2.6549,Sébrazac,12190
+12,Aveyron,44.290,2.8437,Ségur,12290
+12,Aveyron,44.106,2.5363,La Selve,12170
+12,Aveyron,44.606,2.4631,Sénergues,12320
+12,Aveyron,43.893,2.6555,La Serre,12380
+12,Aveyron,44.300,3.0891,Sévérac d'Aveyron,12150
+12,Aveyron,44.300,3.0891,Sévérac d'Aveyron,12150
+12,Aveyron,44.300,3.0891,Sévérac d'Aveyron,12150
+12,Aveyron,44.300,3.0891,Sévérac d'Aveyron,12150
+12,Aveyron,44.300,3.0891,Sévérac d'Aveyron,12150
+12,Aveyron,44.538,2.1145,Sonnac,12700
+12,Aveyron,44.677,2.7744,Soulages-Bonneval,12210
+12,Aveyron,43.825,2.9528,Sylvanès,12360
+12,Aveyron,43.776,3.0307,Tauriac-de-Camarès,12360
+12,Aveyron,44.145,2.3232,Tauriac-de-Naucelle,12800
+12,Aveyron,44.824,2.6358,Taussac,12600
+12,Aveyron,44.203,2.2434,Tayrac,12440
+12,Aveyron,44.894,2.7419,Thérondels,12600
+12,Aveyron,44.380,1.9986,Toulonjac,12200
+12,Aveyron,43.968,3.0268,Tournemire,12250
+12,Aveyron,44.239,2.6378,Trémouilles,12290
+12,Aveyron,44.053,2.7475,Le Truel,12430
+12,Aveyron,43.921,2.8197,Vabres-l'Abbaye,12400
+12,Aveyron,44.308,1.9093,Vailhourles,12200
+12,Aveyron,44.447,2.4425,Valady,12330
+12,Aveyron,44.447,2.4425,Valady,12330
+12,Aveyron,44.505,2.2214,Valzergues,12220
+12,Aveyron,44.453,2.1864,Vaureilles,12220
+12,Aveyron,44.216,3.0509,Verrières,12520
+12,Aveyron,43.899,2.9358,Versols-et-Lapeyre,12400
+12,Aveyron,44.181,3.3071,Veyreau,12720
+12,Aveyron,44.267,2.9257,Vézins-de-Lévézou,12780
+12,Aveyron,43.959,3.0676,Viala-du-Pas-de-Jaux,12250
+12,Aveyron,44.085,2.8390,Viala-du-Tarn,12490
+12,Aveyron,44.321,2.7414,Le Vibal,12290
+12,Aveyron,44.543,2.5754,Villecomtal,12580
+12,Aveyron,44.097,2.7152,Villefranche-de-Panat,12430
+12,Aveyron,44.349,2.0310,Villefranche-de-Rouergue,12200
+12,Aveyron,44.447,2.0285,Villeneuve,12260
+12,Aveyron,44.400,2.9295,Vimenet,12310
+12,Aveyron,44.556,2.2204,Viviez,12110
+12,Aveyron,44.197,2.8538,Curan,12410

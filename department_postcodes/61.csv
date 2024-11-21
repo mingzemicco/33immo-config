@@ -1,0 +1,507 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+61,Orne,48.431,0.0915,Alençon,61000
+61,Orne,48.698,0.1256,Almenêches,61570
+61,Orne,48.340,0.5647,Appenai-sous-Bellême,61130
+61,Orne,48.732,-0.013,Argentan,61200
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61100
+61,Orne,48.795,-0.509,Athis-Val de Rouvre,61430
+61,Orne,48.731,0.5456,Aube,61270
+61,Orne,48.794,0.0713,Aubry-en-Exmes,61160
+61,Orne,48.854,0.2277,Aubry-le-Panthou,61120
+61,Orne,48.779,-0.553,Aubusson,61100
+61,Orne,48.698,0.5515,Auguaise,61270
+61,Orne,48.546,0.2933,Aunay-les-Bois,61500
+61,Orne,48.719,0.0553,Aunou-le-Faucon,61200
+61,Orne,48.605,0.2382,Aunou-sur-Orne,61500
+61,Orne,48.704,0.3293,Les Authieux-du-Puits,61240
+61,Orne,48.937,0.3135,Avernes-Saint-Gourgon,61470
+61,Orne,48.788,0.2010,Avernes-sous-Exmes,61310
+61,Orne,48.671,-0.099,Avoine,61150
+61,Orne,48.537,-0.617,Avrilly,61700
+61,Orne,48.810,-0.023,Bailleul,61160
+61,Orne,48.663,-0.556,Banvou,61450
+61,Orne,48.472,0.3465,Barville,61170
+61,Orne,48.828,-0.263,Bazoches-au-Houlme,61210
+61,Orne,48.551,0.4703,Bazoches-sur-Hoëne,61560
+61,Orne,48.784,-0.598,La Bazoque,61100
+61,Orne,48.755,0.5110,Beaufai,61270
+61,Orne,48.680,0.7361,Beaulieu,61190
+61,Orne,48.620,-0.302,Beauvain,61600
+61,Orne,48.610,0.1071,Belfonds,61500
+61,Orne,48.417,0.4906,Bellavilliers,61360
+61,Orne,48.373,0.5634,Bellême,61130
+61,Orne,48.621,-0.017,La Bellière,61570
+61,Orne,48.691,-0.444,Bellou-en-Houlme,61220
+61,Orne,48.264,0.5532,Bellou-le-Trichard,61130
+61,Orne,48.350,0.7395,Berd'huis,61340
+61,Orne,48.848,-0.478,Berjou,61430
+61,Orne,48.492,0.7506,Bizou,61290
+61,Orne,48.514,0.4545,Boëcé,61560
+61,Orne,48.688,0.0605,Boissei-la-Lande,61570
+61,Orne,48.464,0.7300,Cour-Maugis sur Huisne,61110
+61,Orne,48.464,0.7300,Cour-Maugis sur Huisne,61110
+61,Orne,48.464,0.7300,Cour-Maugis sur Huisne,61110
+61,Orne,48.464,0.7300,Cour-Maugis sur Huisne,61340
+61,Orne,48.569,0.2654,Boitron,61500
+61,Orne,48.676,0.5622,Bonnefoi,61270
+61,Orne,48.658,0.5416,Bonsmoulins,61380
+61,Orne,48.915,0.3095,Le Bosc-Renoult,61470
+61,Orne,48.632,-0.095,Boucé,61570
+61,Orne,48.558,0.0985,Le Bouillon,61500
+61,Orne,48.771,0.1050,Le Bourg-Saint-Léonard,61310
+61,Orne,48.715,0.5428,Brethel,61270
+61,Orne,48.435,0.9007,Bretoncelles,61110
+61,Orne,48.833,-0.079,Brieux,61160
+61,Orne,48.711,-0.377,Briouze,61220
+61,Orne,48.659,0.3242,Brullemail,61390
+61,Orne,48.505,0.4043,Buré,61170
+61,Orne,48.557,0.4013,Bures,61170
+61,Orne,48.541,0.2037,Bursard,61500
+61,Orne,48.859,-0.446,Cahan,61430
+61,Orne,48.807,-0.603,Caligny,61100
+61,Orne,48.891,0.1718,Camembert,61120
+61,Orne,48.948,0.2562,Canapville,61120
+61,Orne,48.569,-0.160,Carrouges,61320
+61,Orne,48.493,-0.634,Ceaucé,61330
+61,Orne,48.593,0.0100,Le Cercueil,61500
+61,Orne,48.444,0.1314,Cerisé,61000
+61,Orne,48.783,-0.623,Cerisy-Belle-Étoile,61100
+61,Orne,48.224,0.7585,Ceton,61260
+61,Orne,48.561,-0.116,Chahains,61320
+61,Orne,48.656,0.1965,Chailloué,61240
+61,Orne,48.656,0.1965,Chailloué,61500
+61,Orne,48.656,0.1965,Chailloué,61500
+61,Orne,48.592,0.3122,Le Chalange,61390
+61,Orne,48.815,0.1125,Chambois,61160
+61,Orne,48.797,-0.228,Champcerie,61210
+61,Orne,48.604,-0.205,Le Champ-de-la-Pierre,61320
+61,Orne,48.888,0.1342,Les Champeaux,61120
+61,Orne,48.577,0.4393,Champeaux-sur-Sarthe,61560
+61,Orne,48.726,0.3252,Champ-Haut,61240
+61,Orne,48.863,0.1670,Champosoult,61120
+61,Orne,48.605,-0.525,Champsecret,61700
+61,Orne,48.741,0.7444,Chandai,61300
+61,Orne,48.722,-0.672,Chanu,61800
+61,Orne,48.703,-0.592,La Chapelle-au-Moine,61100
+61,Orne,48.712,-0.622,La Chapelle-Biche,61100
+61,Orne,48.543,-0.466,Rives d'Andaine,61140
+61,Orne,48.543,-0.466,Rives d'Andaine,61140
+61,Orne,48.543,-0.466,Rives d'Andaine,61410
+61,Orne,48.543,-0.466,Rives d'Andaine,61410
+61,Orne,48.485,0.6595,La Chapelle-Montligeon,61400
+61,Orne,48.566,0.1538,La Chapelle-près-Sées,61500
+61,Orne,48.317,0.5884,La Chapelle-Souëf,61130
+61,Orne,48.709,0.6122,La Chapelle-Viel,61270
+61,Orne,48.672,0.1306,Le Château-d'Almenêches,61570
+61,Orne,48.677,-0.583,Le Châtellier,61450
+61,Orne,48.844,0.3382,Chaumont,61230
+61,Orne,48.602,-0.267,La Chaux,61600
+61,Orne,48.360,0.4519,Chemilli,61360
+61,Orne,48.507,-0.132,Ciral,61320
+61,Orne,48.776,0.3577,Cisai-Saint-Aubin,61230
+61,Orne,48.722,0.1551,La Cochère,61310
+61,Orne,48.475,0.0509,Colombiers,61250
+61,Orne,48.460,0.5861,Comblot,61400
+61,Orne,48.788,-0.098,Commeaux,61200
+61,Orne,48.379,0.8647,Sablons sur Huisne,61110
+61,Orne,48.379,0.8647,Sablons sur Huisne,61110
+61,Orne,48.379,0.8647,Sablons sur Huisne,61110
+61,Orne,48.433,0.0335,Condé-sur-Sarthe,61250
+61,Orne,48.460,0.6426,Corbon,61400
+61,Orne,48.849,0.1373,Coudehard,61160
+61,Orne,48.479,0.4612,Coulimer,61360
+61,Orne,48.766,0.3032,Coulmer,61230
+61,Orne,48.832,0.0154,Coulonces,61160
+61,Orne,48.637,-0.466,La Coulonche,61220
+61,Orne,48.529,0.3950,Coulonges-sur-Sarthe,61170
+61,Orne,48.479,0.6105,Courgeon,61400
+61,Orne,48.508,0.4902,Courgeoût,61560
+61,Orne,48.771,0.2287,Courménil,61310
+61,Orne,48.625,0.3484,Courtomer,61390
+61,Orne,48.745,-0.372,Craménil,61220
+61,Orne,48.762,0.2671,Croisilles,61230
+61,Orne,48.922,0.1365,Crouttes,61120
+61,Orne,48.695,0.6591,Crulai,61300
+61,Orne,48.472,0.0024,Cuissai,61250
+61,Orne,48.354,0.6181,Dame-Marie,61130
+61,Orne,48.450,0.0721,Damigny,61250
+61,Orne,48.582,-0.613,Domfront en Poiraie,61700
+61,Orne,48.582,-0.613,Domfront en Poiraie,61700
+61,Orne,48.582,-0.613,Domfront en Poiraie,61700
+61,Orne,48.636,-0.552,Dompierre,61700
+61,Orne,48.740,-0.441,Durcet,61100
+61,Orne,48.722,-0.492,Échalou,61440
+61,Orne,48.732,0.3950,Échauffour,61370
+61,Orne,48.719,0.5756,Écorcei,61270
+61,Orne,48.873,0.0860,Écorches,61160
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.715,-0.110,Écouché-les-Vallées,61150
+61,Orne,48.415,0.5466,Eperrais,61400
+61,Orne,48.540,0.2422,Essay,61500
+61,Orne,48.756,0.1805,Exmes,61310
+61,Orne,48.669,-0.289,Faverolles,61600
+61,Orne,48.661,0.4075,Fay,61390
+61,Orne,48.543,0.6490,Feings,61400
+61,Orne,48.793,0.1119,Fel,61160
+61,Orne,48.679,0.5061,La Ferrière-au-Doyen,61380
+61,Orne,48.651,-0.508,La Ferrière-aux-Étangs,61450
+61,Orne,48.575,0.0709,La Ferrière-Béchet,61500
+61,Orne,48.416,-0.036,La Ferrière-Bochard,61420
+61,Orne,48.652,0.3768,Ferrières-la-Verrerie,61390
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61470
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61470
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.836,0.5085,La Ferté-en-Ouche,61550
+61,Orne,48.581,-0.366,La Ferté Macé,61410
+61,Orne,48.581,-0.366,La Ferté Macé,61600
+61,Orne,48.739,-0.562,Flers,61100
+61,Orne,48.683,-0.050,Fleuré,61200
+61,Orne,48.861,0.0029,Fontaine-les-Bassets,61160
+61,Orne,48.532,0.0084,Fontenai-les-Louvets,61420
+61,Orne,48.716,-0.073,Fontenai-sur-Orne,61200
+61,Orne,48.638,-0.060,Francheville,61570
+61,Orne,48.833,0.2274,La Fresnaie-Fayel,61230
+61,Orne,48.872,0.2070,Fresnay-le-Samson,61120
+61,Orne,48.790,0.3084,Gacé,61230
+61,Orne,48.471,-0.086,Gandelain,61420
+61,Orne,48.624,0.2936,Gâprée,61390
+61,Orne,48.661,0.5822,Les Genettes,61270
+61,Orne,48.683,0.3191,La Genevraie,61240
+61,Orne,48.765,-0.208,Giel-Courteilles,61210
+61,Orne,48.744,0.2095,Ginai,61310
+61,Orne,48.675,0.2497,Godisson,61240
+61,Orne,48.815,0.4903,La Gonfrière,61550
+61,Orne,48.736,-0.089,Monts-sur-Orne,61150
+61,Orne,48.640,-0.320,Le Grais,61600
+61,Orne,48.372,0.5097,Belforêt-en-Perche,61130
+61,Orne,48.835,-0.015,Guêprei,61160
+61,Orne,48.900,0.2158,Guerquesalles,61120
+61,Orne,48.790,-0.178,Habloville,61210
+61,Orne,48.481,0.2051,Hauterive,61250
+61,Orne,48.396,0.0351,Héloup,61250
+61,Orne,48.600,0.7357,L'Hôme-Chamondot,61290
+61,Orne,48.312,0.5169,Igé,61130
+61,Orne,48.674,0.6892,Irai,61190
+61,Orne,48.584,-0.231,Joué-du-Bois,61320
+61,Orne,48.680,-0.140,Joué-du-Plain,61150
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61140
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61140
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61330
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61330
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61330
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61330
+61,Orne,48.557,-0.496,Juvigny Val d'Andaine,61330
+61,Orne,48.724,0.0235,Juvigny-sur-Orne,61200
+61,Orne,48.469,-0.127,Lalacelle,61320
+61,Orne,48.756,0.6111,L'Aigle,61300
+61,Orne,48.541,0.3659,Laleu,61170
+61,Orne,48.584,-0.054,La Lande-de-Goult,61320
+61,Orne,48.701,-0.249,La Lande-de-Lougé,61210
+61,Orne,48.753,-0.598,La Lande-Patry,61100
+61,Orne,48.827,-0.433,La Lande-Saint-Siméon,61100
+61,Orne,48.743,-0.477,Landigou,61100
+61,Orne,48.752,-0.658,Landisacq,61100
+61,Orne,48.493,0.1669,Larré,61250
+61,Orne,48.737,0.3061,Lignères,61240
+61,Orne,48.673,-0.342,Lignou,61220
+61,Orne,48.507,-0.038,Livaie,61420
+61,Orne,48.504,0.5863,Loisail,61400
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.529,0.7578,Longny les Villages,61290
+61,Orne,48.516,-0.065,Longuenoë,61320
+61,Orne,48.650,-0.704,Lonlay-l'Abbaye,61700
+61,Orne,48.650,-0.345,Lonlay-le-Tesson,61600
+61,Orne,48.453,0.0362,Lonrai,61250
+61,Orne,48.701,-0.221,Lougé-sur-Maire,61150
+61,Orne,48.869,0.0285,Louvières-en-Auge,61160
+61,Orne,48.647,0.1368,Macé,61500
+61,Orne,48.468,0.8987,La Madeleine-Bouvet,61110
+61,Orne,48.504,0.8135,Le Mage,61290
+61,Orne,48.570,-0.323,Magny-le-Désert,61600
+61,Orne,48.665,0.4389,Mahéru,61380
+61,Orne,48.511,-0.813,Mantilly,61350
+61,Orne,48.522,0.3147,Marchemaisons,61170
+61,Orne,48.829,0.2626,Mardilly,61230
+61,Orne,48.438,0.6082,Mauves-sur-Huisne,61400
+61,Orne,48.673,0.0786,Médavy,61570
+61,Orne,48.508,-0.381,Méhoudin,61410
+61,Orne,48.510,0.3526,Le Mêle-sur-Sarthe,61170
+61,Orne,48.705,0.5107,Le Ménil-Bérard,61270
+61,Orne,48.660,-0.397,Le Ménil-de-Briouze,61220
+61,Orne,48.480,0.2379,Le Ménil-Broût,61250
+61,Orne,48.761,-0.791,Le Ménil-Ciboult,61800
+61,Orne,48.509,0.1837,Ménil-Erreux,61250
+61,Orne,48.730,0.2653,Ménil-Froger,61240
+61,Orne,48.754,-0.296,Ménil-Gondouin,61210
+61,Orne,48.580,0.2943,Le Ménil-Guyon,61170
+61,Orne,48.825,-0.318,Ménil-Hermei,61210
+61,Orne,48.801,0.2334,Ménil-Hubert-en-Exmes,61230
+61,Orne,48.849,-0.415,Ménil-Hubert-sur-Orne,61430
+61,Orne,48.613,-0.124,Le Ménil-Scelleur,61320
+61,Orne,48.745,0.2935,Le Ménil-Vicomte,61240
+61,Orne,48.849,-0.319,Ménil-Vin,61210
+61,Orne,48.517,0.9337,Les Menus,61290
+61,Orne,48.700,0.2802,Le Merlerault,61240
+61,Orne,48.849,-0.048,Merri,61160
+61,Orne,48.521,0.4340,La Mesnière,61560
+61,Orne,48.714,-0.539,Messei,61440
+61,Orne,48.411,-0.002,Mieuxcé,61250
+61,Orne,48.833,-0.674,Moncy,61800
+61,Orne,48.811,-0.085,Montabard,61160
+61,Orne,48.581,0.3344,Montchevrel,61170
+61,Orne,48.751,-0.141,Montgaroult,61150
+61,Orne,48.409,0.3972,Montgaudry,61360
+61,Orne,48.814,-0.570,Montilly-sur-Noireau,61100
+61,Orne,48.630,0.0318,Montmerrei,61570
+61,Orne,48.835,0.1530,Mont-Ormel,61160
+61,Orne,48.681,-0.266,Montreuil-au-Houlme,61210
+61,Orne,48.884,0.0335,Montreuil-la-Cambe,61160
+61,Orne,48.796,-0.677,Montsecret-Clairefougère,61800
+61,Orne,48.796,-0.677,Montsecret-Clairefougère,61800
+61,Orne,48.520,0.5613,Mortagne-au-Perche,61400
+61,Orne,48.638,0.0801,Mortrée,61570
+61,Orne,48.566,-0.268,La Motte-Fouquet,61600
+61,Orne,48.650,0.4746,Moulins-la-Marche,61380
+61,Orne,48.753,-0.065,Moulins-sur-Orne,61200
+61,Orne,48.638,0.7994,Moussonvilliers,61190
+61,Orne,48.483,0.8566,Moutiers-au-Perche,61110
+61,Orne,48.563,0.1942,Neauphe-sous-Essai,61500
+61,Orne,48.851,0.0956,Neauphe-sur-Dive,61160
+61,Orne,48.828,-0.117,Nécy,61160
+61,Orne,48.504,0.2196,Neuilly-le-Bisson,61250
+61,Orne,48.862,0.2807,Neuville-sur-Touques,61120
+61,Orne,48.821,-0.190,Neuvy-au-Houlme,61210
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.380,0.6867,Perche en Nocé,61340
+61,Orne,48.703,0.2072,Nonant-le-Pin,61240
+61,Orne,48.650,0.7216,Normandel,61190
+61,Orne,48.781,-0.065,Occagnes,61200
+61,Orne,48.804,0.1520,Omméel,61160
+61,Orne,48.854,-0.023,Ommoy,61160
+61,Orne,48.752,0.3456,Orgères,61230
+61,Orne,48.378,0.4731,Origny-le-Butin,61130
+61,Orne,48.334,0.4175,Origny-le-Roux,61130
+61,Orne,48.445,-0.005,Pacé,61250
+61,Orne,48.480,0.5060,Parfondeval,61400
+61,Orne,48.493,0.9281,Le Pas-Saint-l'Homer,61290
+61,Orne,48.514,-0.759,Passais Villages,61350
+61,Orne,48.514,-0.759,Passais Villages,61350
+61,Orne,48.514,-0.759,Passais Villages,61350
+61,Orne,48.397,0.4414,La Perrière,61360
+61,Orne,48.576,-0.548,Perrou,61700
+61,Orne,48.443,0.4110,Pervenchères,61360
+61,Orne,48.747,0.1369,Le Pin-au-Haras,61310
+61,Orne,48.444,0.5448,Le Pin-la-Garenne,61400
+61,Orne,48.689,0.3775,Planches,61370
+61,Orne,48.603,0.3970,Le Plantis,61170
+61,Orne,48.694,-0.348,Pointel,61220
+61,Orne,48.930,0.2624,Pontchardon,61120
+61,Orne,48.279,0.5189,Pouvrai,61130
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.766,-0.252,Putanges-le-Lac,61210
+61,Orne,48.508,0.0863,Écouves,61250
+61,Orne,48.508,0.0863,Écouves,61250
+61,Orne,48.508,0.0863,Écouves,61250
+61,Orne,48.755,0.5628,Rai,61270
+61,Orne,48.643,-0.217,Rânes,61150
+61,Orne,48.449,0.7791,Rémalard en Perche,61110
+61,Orne,48.449,0.7791,Rémalard en Perche,61110
+61,Orne,48.449,0.7791,Rémalard en Perche,61110
+61,Orne,48.919,0.0988,Le Renouard,61120
+61,Orne,48.790,0.2769,Résenlieu,61230
+61,Orne,48.480,0.5626,Réveillon,61400
+61,Orne,48.788,-0.138,Ri,61210
+61,Orne,48.489,-0.066,La Roche-Mabile,61420
+61,Orne,48.880,0.2365,Roiville,61120
+61,Orne,48.810,-0.135,Rônai,61160
+61,Orne,48.548,-0.078,Rouperroux,61320
+61,Orne,48.740,0.0235,Sai,61200
+61,Orne,48.621,0.4289,Saint-Agnan-sur-Sarthe,61170
+61,Orne,48.733,-0.327,Saint-André-de-Briouze,61220
+61,Orne,48.688,-0.521,Saint-André-de-Messei,61440
+61,Orne,48.641,0.5273,Saint-Aquilin-de-Corbion,61380
+61,Orne,48.542,0.3380,Saint-Aubin-d'Appenai,61170
+61,Orne,48.949,0.3715,Saint-Aubin-de-Bonneval,61470
+61,Orne,48.608,0.4529,Saint-Aubin-de-Courteraie,61560
+61,Orne,48.644,-0.622,Saint-Bômer-les-Forges,61700
+61,Orne,48.549,-0.641,Saint-Brice,61700
+61,Orne,48.678,-0.193,Saint-Brice-sous-Rânes,61150
+61,Orne,48.389,-0.040,Saint-Céneri-le-Gérei,61250
+61,Orne,48.586,0.5255,Sainte-Céronne-lès-Mortagne,61380
+61,Orne,48.742,-0.831,Saint-Christophe-de-Chaulieu,61800
+61,Orne,48.656,0.0018,Boischampré,61570
+61,Orne,48.656,0.0018,Boischampré,61570
+61,Orne,48.656,0.0018,Boischampré,61570
+61,Orne,48.656,0.0018,Boischampré,61570
+61,Orne,48.689,-0.626,Saint-Clair-de-Halouze,61490
+61,Orne,48.320,0.6424,Saint-Cyr-la-Rosière,61130
+61,Orne,48.470,0.5316,Saint-Denis-sur-Huisne,61400
+61,Orne,48.457,-0.037,Saint-Denis-sur-Sarthon,61420
+61,Orne,48.541,-0.040,Saint-Didier-sous-Écouves,61320
+61,Orne,48.523,-0.098,Saint-Ellier-les-Bois,61320
+61,Orne,48.812,0.3127,Saint-Evroult-de-Montfort,61230
+61,Orne,48.779,0.4524,Saint-Evroult-Notre-Dame-du-Bois,61550
+61,Orne,48.498,-0.711,Saint-Fraimbault,61350
+61,Orne,48.320,0.4530,Saint-Fulgent-des-Ormes,61130
+61,Orne,48.707,0.4445,Sainte-Gauburge-Sainte-Colombe,61370
+61,Orne,48.630,-0.265,Saint-Georges-d'Annebecq,61600
+61,Orne,48.767,-0.568,Saint-Georges-des-Groseillers,61100
+61,Orne,48.929,0.3816,Saint-Germain-d'Aunay,61470
+61,Orne,48.725,0.2408,Saint-Germain-de-Clairefeuille,61240
+61,Orne,48.271,0.5916,Saint-Germain-de-la-Coudre,61130
+61,Orne,48.404,0.8156,Saint-Germain-des-Grois,61110
+61,Orne,48.587,0.4671,Saint-Germain-de-Martigny,61560
+61,Orne,48.417,0.0580,Saint-Germain-du-Corbéis,61000
+61,Orne,48.610,0.3114,Saint-Germain-le-Vieux,61390
+61,Orne,48.901,0.0731,Saint-Gervais-des-Sablons,61160
+61,Orne,48.536,0.1501,Saint-Gervais-du-Perron,61500
+61,Orne,48.585,-0.698,Saint-Gilles-des-Marais,61700
+61,Orne,48.707,-0.307,Saint-Hilaire-de-Briouze,61220
+61,Orne,48.594,0.0496,Saint-Hilaire-la-Gérard,61500
+61,Orne,48.555,0.5402,Saint-Hilaire-le-Châtel,61400
+61,Orne,48.312,0.7458,Saint-Hilaire-sur-Erre,61340
+61,Orne,48.724,0.5078,Saint-Hilaire-sur-Risle,61270
+61,Orne,48.824,-0.476,Sainte-Honorine-la-Chardonne,61430
+61,Orne,48.777,-0.381,Sainte-Honorine-la-Guillaume,61210
+61,Orne,48.448,0.4823,Saint-Jouin-de-Blavou,61360
+61,Orne,48.489,0.3734,Saint-Julien-sur-Sarthe,61170
+61,Orne,48.829,0.0905,Saint-Lambert-sur-Dive,61160
+61,Orne,48.509,0.5317,Saint-Langis-lès-Mortagne,61400
+61,Orne,48.495,0.3167,Saint-Léger-sur-Sarthe,61170
+61,Orne,48.646,0.2768,Saint-Léonard-des-Parcs,61390
+61,Orne,48.510,0.6341,Saint-Mard-de-Réno,61400
+61,Orne,48.593,-0.151,Sainte-Marguerite-de-Carrouges,61320
+61,Orne,48.626,-0.143,Sainte-Marie-la-Robert,61320
+61,Orne,48.551,-0.733,Saint-Mars-d'Égrenne,61350
+61,Orne,48.675,0.6101,Les Aspres,61270
+61,Orne,48.794,0.6691,Saint-Martin-d'Écublei,61300
+61,Orne,48.546,-0.156,Saint-Martin-des-Landes,61320
+61,Orne,48.627,0.4893,Saint-Martin-des-Pézerits,61380
+61,Orne,48.372,0.5471,Saint-Martin-du-Vieux-Bellême,61130
+61,Orne,48.602,-0.179,Saint-Martin-l'Aiguillon,61320
+61,Orne,48.639,0.7529,Charencey,61190
+61,Orne,48.753,0.6865,Saint-Michel-Tubœuf,61300
+61,Orne,48.506,0.0266,Saint-Nicolas-des-Bois,61250
+61,Orne,48.812,0.5979,Saint-Nicolas-de-Sommaire,61550
+61,Orne,48.736,-0.411,Sainte-Opportune,61100
+61,Orne,48.411,0.5871,Saint-Ouen-de-la-Cour,61130
+61,Orne,48.598,0.4921,Saint-Ouen-de-Sécherouvre,61560
+61,Orne,48.509,-0.350,Saint-Ouen-le-Brisoult,61410
+61,Orne,48.735,0.6713,Saint-Ouen-sur-Iton,61300
+61,Orne,48.534,-0.285,Saint-Patrice-du-Désert,61600
+61,Orne,48.739,-0.630,Saint-Paul,61100
+61,Orne,48.834,-0.375,Saint-Philbert-sur-Orne,61430
+61,Orne,48.811,-0.649,Saint-Pierre-d'Entremont,61800
+61,Orne,48.743,0.4662,Saint-Pierre-des-Loges,61370
+61,Orne,48.833,-0.541,Saint-Pierre-du-Regard,61790
+61,Orne,48.359,0.7991,Saint-Pierre-la-Bruyère,61340
+61,Orne,48.815,0.1862,Saint-Pierre-la-Rivière,61310
+61,Orne,48.479,0.4187,Saint-Quentin-de-Blavou,61360
+61,Orne,48.782,-0.751,Saint-Quentin-les-Chardonnets,61800
+61,Orne,48.576,-0.744,Saint-Roch-sur-Égrenne,61350
+61,Orne,48.589,-0.109,Saint-Sauveur-de-Carrouges,61320
+61,Orne,48.581,0.3851,Sainte-Scolasse-sur-Sarthe,61170
+61,Orne,48.776,0.6714,Saint-Sulpice-sur-Risle,61300
+61,Orne,48.786,0.5573,Saint-Symphorien-des-Bruyères,61300
+61,Orne,48.689,-0.487,Saires-la-Verrerie,61220
+61,Orne,48.888,0.3389,Sap-en-Auge,61120
+61,Orne,48.888,0.3389,Sap-en-Auge,61470
+61,Orne,48.828,0.3900,Le Sap-André,61230
+61,Orne,48.715,-0.034,Sarceaux,61200
+61,Orne,48.612,-0.435,Les Monts d'Andaine,61600
+61,Orne,48.612,-0.435,Les Monts d'Andaine,61600
+61,Orne,48.604,0.1690,Sées,61500
+61,Orne,48.735,-0.532,La Selle-la-Forge,61100
+61,Orne,48.473,0.1547,Semallé,61250
+61,Orne,48.767,-0.120,Sentilly,61150
+61,Orne,48.377,0.5901,Sérigny,61130
+61,Orne,48.773,-0.019,Sévigny,61200
+61,Orne,48.704,-0.151,Sevrai,61150
+61,Orne,48.751,0.0651,Gouffern en Auge,61310
+61,Orne,48.627,0.5492,Soligny-la-Trappe,61380
+61,Orne,48.368,0.4063,Suré,61360
+61,Orne,48.840,0.1889,Survie,61310
+61,Orne,48.686,-0.074,Tanques,61150
+61,Orne,48.565,0.0094,Tanville,61500
+61,Orne,48.621,0.3939,Tellières-le-Plessis,61390
+61,Orne,48.531,-0.428,Tessé-Froulay,61410
+61,Orne,48.555,-0.419,Bagnoles de l'Orne Normandie,61140
+61,Orne,48.555,-0.419,Bagnoles de l'Orne Normandie,61600
+61,Orne,48.267,0.6509,Val-au-Perche,61130
+61,Orne,48.267,0.6509,Val-au-Perche,61260
+61,Orne,48.267,0.6509,Val-au-Perche,61260
+61,Orne,48.267,0.6509,Val-au-Perche,61260
+61,Orne,48.267,0.6509,Val-au-Perche,61260
+61,Orne,48.267,0.6509,Val-au-Perche,61340
+61,Orne,48.907,0.2589,Ticheville,61120
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.755,-0.736,Tinchebray-Bocage,61800
+61,Orne,48.539,-0.674,Torchamp,61330
+61,Orne,48.796,0.4145,Touquettes,61550
+61,Orne,48.810,0.0439,Tournai-sur-Dive,61160
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.588,0.6599,Tourouvre au Perche,61190
+61,Orne,48.599,0.2735,Trémont,61390
+61,Orne,48.801,0.3799,La Trinité-des-Laitiers,61230
+61,Orne,48.850,0.0461,Trun,61160
+61,Orne,48.757,0.0121,Urou-et-Crennes,61200
+61,Orne,48.464,0.1105,Valframbert,61250
+61,Orne,48.347,0.4867,Vaunoise,61130
+61,Orne,48.506,0.2664,Les Ventes-de-Bourse,61170
+61,Orne,48.612,0.6891,La Ventrouze,61190
+61,Orne,48.394,0.7517,Verrières,61110
+61,Orne,48.460,0.3765,Vidai,61360
+61,Orne,48.649,-0.151,Vieux-Pont,61150
+61,Orne,48.777,0.1550,Villebadin,61310
+61,Orne,48.799,0.0180,Villedieu-lès-Bailleul,61160
+61,Orne,48.539,0.5930,Villiers-sous-Mortagne,61400
+61,Orne,48.924,0.2006,Vimoutiers,61120
+61,Orne,48.716,0.7092,Vitrai-sous-Laigle,61300
+61,Orne,48.708,-0.270,Les Yveteaux,61210

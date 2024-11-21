@@ -1,0 +1,757 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+14,Calvados,49.394,0.2867,Ablon,14600
+14,Calvados,48.970,-0.370,Acqueville,14220
+14,Calvados,49.237,-0.779,Agy,14400
+14,Calvados,49.326,-0.918,Aignerville,14710
+14,Calvados,49.095,-0.145,Valambray,14370
+14,Calvados,49.091,-0.434,Amayé-sur-Orne,14210
+14,Calvados,49.082,-0.717,Amayé-sur-Seulles,14310
+14,Calvados,49.284,-0.501,Amblie,14480
+14,Calvados,49.250,-0.241,Amfreville,14860
+14,Calvados,49.112,-0.690,Aurseulles,14240
+14,Calvados,49.112,-0.690,Aurseulles,14240
+14,Calvados,49.112,-0.690,Aurseulles,14240
+14,Calvados,49.112,-0.690,Aurseulles,14240
+14,Calvados,49.244,-0.027,Angerville,14430
+14,Calvados,48.943,-0.373,Angoville,14220
+14,Calvados,49.265,-0.396,Colomby-Anguerny,14610
+14,Calvados,49.265,-0.396,Colomby-Anguerny,14610
+14,Calvados,49.250,-0.398,Anisy,14610
+14,Calvados,49.248,0.0540,Annebault,14430
+14,Calvados,49.229,-0.731,Arganchy,14400
+14,Calvados,49.133,-0.158,Argences,14370
+14,Calvados,49.335,-0.620,Arromanches-les-Bains,14117
+14,Calvados,49.333,-0.584,Asnelles,14960
+14,Calvados,49.360,-0.938,Asnières-en-Bessin,14710
+14,Calvados,49.311,-0.026,Auberville,14640
+14,Calvados,48.914,-0.215,Aubigny,14700
+14,Calvados,49.204,-0.604,Audrieu,14250
+14,Calvados,49.014,-0.633,Les Monts d'Aunay,14260
+14,Calvados,49.205,-0.430,Authie,14280
+14,Calvados,49.063,0.0531,Les Authieux-Papion,14140
+14,Calvados,49.284,0.2755,Les Authieux-sur-Calonne,14130
+14,Calvados,49.197,0.0757,Auvillars,14340
+14,Calvados,49.095,-0.464,Avenay,14210
+14,Calvados,49.180,-0.839,Balleroy-sur-Drôme,14490
+14,Calvados,49.180,-0.839,Balleroy-sur-Drôme,14490
+14,Calvados,49.168,-0.224,Banneville-la-Campagne,14940
+14,Calvados,49.061,-0.567,Malherbe-sur-Ajon,14260
+14,Calvados,49.061,-0.567,Malherbe-sur-Ajon,14260
+14,Calvados,49.309,-0.485,Banville,14480
+14,Calvados,49.014,-0.345,Barbery,14220
+14,Calvados,49.273,-0.755,Barbeville,14400
+14,Calvados,49.391,0.1821,Barneville-la-Bertran,14600
+14,Calvados,49.128,-0.481,Baron-sur-Odon,14210
+14,Calvados,48.929,-0.038,Barou-en-Auge,14620
+14,Calvados,49.275,-0.426,Basly,14610
+14,Calvados,49.206,-0.135,Basseneville,14670
+14,Calvados,49.226,-0.182,Bavent,14860
+14,Calvados,49.226,-0.182,Bavent,14860
+14,Calvados,49.277,-0.704,Bayeux,14400
+14,Calvados,49.300,-0.584,Bazenville,14480
+14,Calvados,49.153,-0.877,La Bazoque,14490
+14,Calvados,48.899,-0.071,Beaumais,14620
+14,Calvados,48.896,-0.968,Beaumesnil,14380
+14,Calvados,49.267,0.1101,Beaumont-en-Auge,14950
+14,Calvados,49.033,-0.620,Bauquay,14260
+14,Calvados,49.120,-0.233,Bellengreville,14370
+14,Calvados,49.339,0.0477,Benerville-sur-Mer,14910
+14,Calvados,49.243,-0.287,Bénouville,14970
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14260
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,48.931,-0.829,Souleuvre en Bocage,14350
+14,Calvados,49.290,-0.436,Bény-sur-Mer,14440
+14,Calvados,49.273,-0.931,Bernesq,14710
+14,Calvados,48.947,-0.102,Bernières-d'Ailly,14170
+14,Calvados,49.319,-0.417,Bernières-sur-Mer,14990
+14,Calvados,49.239,-0.336,Biéville-Beuville,14112
+14,Calvados,49.239,-0.336,Biéville-Beuville,14112
+14,Calvados,49.126,0.2497,Beuvillers,14100
+14,Calvados,49.196,-0.042,Beuvron-en-Auge,14430
+14,Calvados,49.011,-0.717,La Bigne,14260
+14,Calvados,49.088,-0.194,Billy,14370
+14,Calvados,49.113,-0.089,Bissières,14370
+14,Calvados,49.228,-0.304,Blainville-sur-Orne,14550
+14,Calvados,49.246,0.2832,Blangy-le-Château,14130
+14,Calvados,49.280,-0.836,Blay,14400
+14,Calvados,49.322,0.0322,Blonville-sur-Mer,14910
+14,Calvados,48.906,-0.441,Le Bô,14690
+14,Calvados,49.019,0.0500,Boissey,14170
+14,Calvados,49.129,0.1320,La Boissière,14340
+14,Calvados,49.218,0.0906,Bonnebosq,14340
+14,Calvados,49.003,-0.585,Bonnemaison,14260
+14,Calvados,49.273,0.3419,Bonneville-la-Louvet,14130
+14,Calvados,49.329,0.1192,Bonneville-sur-Touques,14800
+14,Calvados,48.922,-0.365,Bonnœil,14700
+14,Calvados,48.959,-0.230,Bons-Tassilly,14420
+14,Calvados,49.108,-0.522,Bougy,14210
+14,Calvados,49.047,-0.378,Boulon,14220
+14,Calvados,49.268,0.0583,Bourgeauville,14430
+14,Calvados,49.115,-0.289,Bourguébus,14540
+14,Calvados,49.269,0.0233,Branville,14430
+14,Calvados,48.998,-0.780,Brémoy,14260
+14,Calvados,49.029,-0.258,Bretteville-le-Rabet,14190
+14,Calvados,49.215,-0.516,Thue et Mue,14740
+14,Calvados,49.036,0.0016,Bretteville-sur-Dives,14170
+14,Calvados,49.049,-0.326,Bretteville-sur-Laize,14680
+14,Calvados,49.173,-0.422,Bretteville-sur-Odon,14760
+14,Calvados,49.227,0.2187,Le Breuil-en-Auge,14130
+14,Calvados,49.254,-0.855,Le Breuil-en-Bessin,14330
+14,Calvados,49.226,0.2938,Le Brévedent,14130
+14,Calvados,49.236,-0.221,Bréville-les-Monts,14860
+14,Calvados,49.289,-0.956,Bricqueville,14710
+14,Calvados,49.209,-0.562,Brouay,14250
+14,Calvados,49.246,-0.103,Brucourt,14160
+14,Calvados,49.186,-0.639,Bucéels,14250
+14,Calvados,49.032,-0.176,Le Bû-sur-Rouvres,14190
+14,Calvados,49.283,-0.125,Cabourg,14390
+14,Calvados,49.184,-0.369,Caen,14000
+14,Calvados,49.154,-0.260,Cagny,14630
+14,Calvados,49.067,-0.762,Cahagnes,14240
+14,Calvados,49.163,-0.776,Cahagnolles,14490
+14,Calvados,49.035,-0.515,La Caine,14210
+14,Calvados,49.234,-0.437,Cairon,14610
+14,Calvados,49.344,-1.009,La Cambe,14230
+14,Calvados,49.231,-0.383,Cambes-en-Plaine,14610
+14,Calvados,49.146,0.0539,Cambremer,14340
+14,Calvados,49.146,0.0539,Cambremer,14340
+14,Calvados,49.146,0.0539,Cambremer,14340
+14,Calvados,49.146,0.0539,Cambremer,14340
+14,Calvados,48.889,-0.935,Campagnolles,14500
+14,Calvados,48.981,-0.584,Campandré-Valcongrain,14260
+14,Calvados,49.249,-0.800,Campigny,14490
+14,Calvados,49.317,0.1360,Canapville,14800
+14,Calvados,49.330,-0.984,Canchy,14230
+14,Calvados,49.136,-0.121,Canteloup,14370
+14,Calvados,49.239,-0.613,Carcagny,14740
+14,Calvados,49.345,-1.053,Cardonville,14230
+14,Calvados,49.186,-0.451,Carpiquet,14650
+14,Calvados,49.239,-1.006,Cartigny-l'Épinay,14330
+14,Calvados,49.195,-0.797,Castillon,14490
+14,Calvados,49.034,0.0919,Castillon-en-Auge,14140
+14,Calvados,49.273,-1.016,Castilly,14330
+14,Calvados,49.096,-0.812,Caumont-sur-Aure,14240
+14,Calvados,49.047,-0.259,Cauvicourt,14190
+14,Calvados,48.951,-0.564,Cauville,14770
+14,Calvados,49.016,0.3239,Cernay,14290
+14,Calvados,49.086,-0.120,Cesny-aux-Vignes,14270
+14,Calvados,48.985,-0.394,Cesny-Bois-Halbout,14220
+14,Calvados,48.790,-0.999,Champ-du-Boult,14380
+14,Calvados,49.169,-0.529,Cheux,14210
+14,Calvados,49.105,-0.219,Chicheboville,14370
+14,Calvados,49.209,-0.640,Chouain,14250
+14,Calvados,49.065,-0.283,Cintheaux,14680
+14,Calvados,49.241,0.1345,Clarbec,14130
+14,Calvados,48.902,-0.493,Clécy,14570
+14,Calvados,49.144,-0.094,Cléville,14370
+14,Calvados,49.082,-0.403,Clinchamps-sur-Orne,14320
+14,Calvados,49.350,-0.848,Colleville-sur-Mer,14710
+14,Calvados,49.274,-0.301,Colleville-Montgomery,14880
+14,Calvados,49.198,-0.295,Colombelles,14460
+14,Calvados,49.303,-0.988,Colombières,14710
+14,Calvados,49.299,-0.506,Colombiers-sur-Seulles,14480
+14,Calvados,48.946,-0.445,Combray,14220
+14,Calvados,49.334,-0.739,Commes,14520
+14,Calvados,49.036,-0.139,Condé-sur-Ifs,14270
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14110
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14110
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14110
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14770
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14770
+14,Calvados,48.849,-0.562,Condé-en-Normandie,14770
+14,Calvados,49.221,-0.641,Condé-sur-Seulles,14400
+14,Calvados,49.089,-0.245,Conteville,14540
+14,Calvados,49.202,0.1973,Coquainvilliers,14130
+14,Calvados,49.113,0.3798,Cordebugle,14100
+14,Calvados,48.851,-0.222,Cordey,14700
+14,Calvados,49.154,-0.327,Cormelles-le-Royal,14123
+14,Calvados,49.129,-0.863,Cormolain,14240
+14,Calvados,48.894,-0.425,Cossesseville,14690
+14,Calvados,49.267,-0.785,Cottun,14400
+14,Calvados,49.303,0.1805,Coudray-Rabut,14130
+14,Calvados,49.248,-0.568,Coulombs,14480
+14,Calvados,49.055,0.1037,Coupesarte,14140
+14,Calvados,48.969,-0.033,Courcy,14170
+14,Calvados,49.320,-0.448,Courseulles-sur-Mer,14470
+14,Calvados,48.852,-1.088,Courson,14380
+14,Calvados,49.120,0.3290,Courtonne-la-Meurdrac,14100
+14,Calvados,49.088,0.3780,Courtonne-les-Deux-Églises,14290
+14,Calvados,49.088,0.3780,Courtonne-les-Deux-Églises,14290
+14,Calvados,49.026,-0.573,Courvaudon,14260
+14,Calvados,49.314,-0.545,Crépon,14480
+14,Calvados,49.287,-0.354,Cresserons,14440
+14,Calvados,49.238,0.0117,Cresseveuille,14430
+14,Calvados,49.286,-0.543,Creully sur Seulles,14480
+14,Calvados,49.123,0.0205,Crèvecœur-en-Auge,14340
+14,Calvados,49.396,0.1390,Cricquebœuf,14113
+14,Calvados,49.237,-0.073,Cricqueville-en-Auge,14430
+14,Calvados,49.379,-1.000,Cricqueville-en-Bessin,14450
+14,Calvados,49.194,-0.570,Cristot,14250
+14,Calvados,48.877,-0.051,Crocy,14620
+14,Calvados,49.003,-0.452,Croisilles,14220
+14,Calvados,49.111,-0.108,Croissanville,14370
+14,Calvados,49.269,-0.817,Crouay,14400
+14,Calvados,48.956,-0.531,Culey-le-Patry,14220
+14,Calvados,49.250,-0.527,Cully,14480
+14,Calvados,49.283,-0.762,Cussy,14400
+14,Calvados,49.191,-0.261,Cuverville,14840
+14,Calvados,48.921,-0.126,Damblainville,14620
+14,Calvados,49.041,-0.866,Dampierre,14350
+14,Calvados,49.243,0.0329,Danestal,14430
+14,Calvados,48.963,-0.679,Danvou-la-Ferrière,14770
+14,Calvados,48.963,-0.679,Danvou-la-Ferrière,14770
+14,Calvados,49.354,0.0744,Deauville,14800
+14,Calvados,49.177,-0.263,Démouville,14840
+14,Calvados,48.873,-0.345,Le Détroit,14690
+14,Calvados,49.354,-0.968,Deux-Jumeaux,14230
+14,Calvados,49.282,-0.089,Dives-sur-Mer,14160
+14,Calvados,48.946,-0.417,Donnay,14220
+14,Calvados,49.263,-0.021,Douville-en-Auge,14430
+14,Calvados,49.289,-0.392,Douvres-la-Délivrande,14440
+14,Calvados,49.289,-0.392,Douvres-la-Délivrande,14440
+14,Calvados,49.229,-0.044,Dozulé,14430
+14,Calvados,49.249,0.1040,Drubec,14130
+14,Calvados,49.214,0.0234,Beaufour-Druval,14340
+14,Calvados,49.214,0.0234,Beaufour-Druval,14340
+14,Calvados,49.214,0.0234,Beaufour-Druval,14340
+14,Calvados,49.225,-0.611,Ducy-Sainte-Marguerite,14250
+14,Calvados,49.321,-0.942,Écrammeville,14710
+14,Calvados,49.227,-0.681,Ellon,14250
+14,Calvados,49.153,-0.224,Émiéville,14630
+14,Calvados,49.331,0.1498,Englesqueville-en-Auge,14800
+14,Calvados,49.379,-0.951,Englesqueville-la-Percée,14710
+14,Calvados,48.945,-0.159,Épaney,14170
+14,Calvados,49.068,-0.619,Épinay-sur-Odon,14310
+14,Calvados,49.220,-0.364,Épron,14610
+14,Calvados,49.403,0.2099,Équemauville,14600
+14,Calvados,48.904,-0.157,Eraines,14700
+14,Calvados,49.011,-0.125,Ernes,14270
+14,Calvados,49.205,-0.245,Escoville,14850
+14,Calvados,48.999,-0.414,Espins,14220
+14,Calvados,49.112,-0.471,Esquay-Notre-Dame,14210
+14,Calvados,49.271,-0.622,Esquay-sur-Seulles,14400
+14,Calvados,48.969,-0.459,Esson,14220
+14,Calvados,49.007,-0.243,Estrées-la-Campagne,14190
+14,Calvados,49.147,-0.428,Éterville,14930
+14,Calvados,49.320,-0.793,Étréham,14400
+14,Calvados,49.094,-0.501,Évrecy,14210
+14,Calvados,48.895,-0.193,Falaise,14700
+14,Calvados,49.189,0.2688,Fauguernon,14100
+14,Calvados,49.238,0.3179,Le Faulq,14130
+14,Calvados,49.111,-0.407,Feuguerolles-Bully,14320
+14,Calvados,49.111,-0.407,Feuguerolles-Bully,14320
+14,Calvados,49.064,-0.179,Fierville-Bray,14190
+14,Calvados,49.064,-0.179,Fierville-Bray,14190
+14,Calvados,49.243,0.2307,Fierville-les-Parcs,14130
+14,Calvados,49.152,0.3216,Firfol,14100
+14,Calvados,49.144,-0.377,Fleury-sur-Orne,14123
+14,Calvados,49.262,-0.970,La Folie,14710
+14,Calvados,48.973,0.4080,La Folletière-Abenon,14290
+14,Calvados,49.137,-0.454,Fontaine-Étoupefour,14790
+14,Calvados,49.277,-0.465,Fontaine-Henry,14610
+14,Calvados,48.975,-0.291,Fontaine-le-Pin,14190
+14,Calvados,49.087,-0.344,Fontenay-le-Marmion,14320
+14,Calvados,49.173,-0.580,Fontenay-le-Pesnel,14250
+14,Calvados,48.821,-1.100,Fontenermont,14380
+14,Calvados,49.203,0.1358,Formentin,14340
+14,Calvados,49.335,-0.896,Formigny La Bataille,14710
+14,Calvados,49.139,-0.805,Foulognes,14240
+14,Calvados,48.858,-0.074,Fourches,14620
+14,Calvados,48.862,-0.269,Fourneaux-le-Val,14700
+14,Calvados,49.200,0.1117,Le Fournet,14340
+14,Calvados,49.357,0.2324,Fourneville,14600
+14,Calvados,49.132,-0.249,Frénouville,14630
+14,Calvados,49.256,-0.487,Le Fresne-Camilly,14480
+14,Calvados,48.888,-0.125,Fresné-la-Mère,14700
+14,Calvados,49.066,-0.353,Fresney-le-Puceux,14680
+14,Calvados,49.005,-0.386,Fresney-le-Vieux,14220
+14,Calvados,49.170,0.3766,Fumichon,14590
+14,Calvados,49.096,-0.280,Garcelles-Secqueville,14540
+14,Calvados,48.791,-1.060,Le Gast,14380
+14,Calvados,49.116,-0.507,Gavrus,14210
+14,Calvados,49.361,-1.085,Géfosse-Fontenay,14230
+14,Calvados,49.359,0.2737,Genneville,14600
+14,Calvados,49.193,0.0024,Gerrots,14430
+14,Calvados,49.178,-0.285,Giberville,14730
+14,Calvados,49.276,0.0750,Glanville,14950
+14,Calvados,49.124,0.2813,Glos,14100
+14,Calvados,49.381,0.2363,Gonneville-sur-Honfleur,14600
+14,Calvados,49.289,-0.036,Gonneville-sur-Mer,14510
+14,Calvados,49.259,-0.188,Gonneville-en-Auge,14810
+14,Calvados,49.032,-0.479,Goupillières,14210
+14,Calvados,49.222,-0.108,Goustranville,14430
+14,Calvados,49.036,-0.308,Gouvix,14680
+14,Calvados,49.009,-0.271,Grainville-Langannerie,14190
+14,Calvados,49.138,-0.531,Grainville-sur-Odon,14210
+14,Calvados,49.375,-1.044,Grandcamp-Maisy,14450
+14,Calvados,49.375,-1.044,Grandcamp-Maisy,14450
+14,Calvados,49.084,0.0753,Grandchamp-le-Château,14140
+14,Calvados,49.262,-0.058,Grangues,14160
+14,Calvados,49.329,-0.486,Graye-sur-Mer,14470
+14,Calvados,49.146,-0.293,Grentheville,14540
+14,Calvados,49.044,-0.443,Grimbosq,14220
+14,Calvados,49.247,-0.709,Guéron,14400
+14,Calvados,49.283,-0.322,Hermanville-sur-Mer,14880
+14,Calvados,49.166,0.2912,Hermival-les-Vaux,14100
+14,Calvados,49.207,-0.331,Hérouville-Saint-Clair,14200
+14,Calvados,49.214,-0.260,Hérouvillette,14850
+14,Calvados,49.264,-0.001,Heuland,14430
+14,Calvados,49.022,-0.003,Hiéville,14170
+14,Calvados,48.853,-0.160,La Hoguette,14700
+14,Calvados,49.412,0.2375,Honfleur,14600
+14,Calvados,49.412,0.2375,Honfleur,14600
+14,Calvados,49.140,0.4071,L'Hôtellerie,14100
+14,Calvados,49.177,-0.076,Hotot-en-Auge,14430
+14,Calvados,49.177,-0.076,Hotot-en-Auge,14430
+14,Calvados,49.177,-0.076,Hotot-en-Auge,14430
+14,Calvados,49.146,-0.653,Hottot-les-Bagues,14250
+14,Calvados,49.123,0.1024,La Houblonnière,14340
+14,Calvados,49.297,-0.067,Houlgate,14510
+14,Calvados,49.128,-0.316,Hubert-Folie,14540
+14,Calvados,49.140,-0.342,Ifs,14123
+14,Calvados,49.305,-1.102,Isigny-sur-Mer,14230
+14,Calvados,48.837,-0.349,Les Isles-Bardel,14690
+14,Calvados,49.163,-0.163,Janville,14670
+14,Calvados,48.973,-0.072,Jort,14170
+14,Calvados,49.204,-0.690,Juaye-Mondaye,14250
+14,Calvados,49.021,-0.745,Dialan sur Chaîne,14260
+14,Calvados,49.155,-0.602,Juvigny-sur-Seulles,14250
+14,Calvados,49.080,-0.380,Laize-Clinchamps,14320
+14,Calvados,49.073,-0.860,La Lande-sur-Drôme,14240
+14,Calvados,48.898,-1.002,Landelles-et-Coupigny,14380
+14,Calvados,48.898,-1.002,Landelles-et-Coupigny,14380
+14,Calvados,49.076,-0.572,Landes-sur-Ajon,14310
+14,Calvados,49.312,-0.378,Langrune-sur-Mer,14830
+14,Calvados,49.267,-0.516,Ponts sur Seulles,14480
+14,Calvados,48.913,-0.684,Terres de Druance,14770
+14,Calvados,49.180,0.0527,Léaupartie,14340
+14,Calvados,49.103,0.0846,Lécaude,14140
+14,Calvados,48.916,-0.297,Leffard,14700
+14,Calvados,49.070,0.1312,Lessard-et-le-Chêne,14140
+14,Calvados,49.173,-0.674,Lingèvres,14250
+14,Calvados,49.300,-0.333,Lion-sur-Mer,14780
+14,Calvados,49.146,0.2382,Lisieux,14100
+14,Calvados,49.241,-1.052,Lison,14330
+14,Calvados,48.956,0.2119,Lisores,14140
+14,Calvados,49.153,-0.909,Litteau,14490
+14,Calvados,49.234,-0.889,Le Molay-Littry,14330
+14,Calvados,49.234,-0.889,Le Molay-Littry,14330
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14140
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14290
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14290
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14290
+14,Calvados,49.005,0.1659,Livarot-Pays-d'Auge,14290
+14,Calvados,49.113,-0.768,Livry,14240
+14,Calvados,49.113,-0.768,Livry,14240
+14,Calvados,49.105,-0.556,Le Locheur,14210
+14,Calvados,49.044,-0.801,Les Loges,14240
+14,Calvados,48.864,-0.303,Les Loges-Saulces,14700
+14,Calvados,49.155,-0.700,Longraye,14250
+14,Calvados,49.331,-0.694,Longues-sur-Mer,14400
+14,Calvados,49.335,-0.957,Longueville,14230
+14,Calvados,49.046,-0.644,Longvillers,14310
+14,Calvados,49.225,-0.578,Loucelles,14250
+14,Calvados,48.950,-0.046,Louvagny,14170
+14,Calvados,49.371,-0.922,Louvières,14710
+14,Calvados,49.155,-0.396,Louvigny,14111
+14,Calvados,49.308,-0.357,Luc-sur-Mer,14530
+14,Calvados,49.311,-0.666,Magny-en-Bessin,14400
+14,Calvados,49.049,-0.098,Magny-la-Campagne,14270
+14,Calvados,49.103,-0.074,Magny-le-Freule,14270
+14,Calvados,49.059,-0.672,Maisoncelles-Pelvey,14310
+14,Calvados,49.059,-0.539,Maisoncelles-sur-Ajon,14210
+14,Calvados,49.316,-0.752,Maisons,14400
+14,Calvados,49.075,-0.454,Maizet,14210
+14,Calvados,49.014,-0.166,Maizières,14190
+14,Calvados,49.131,-0.422,Maltot,14930
+14,Calvados,49.306,-0.864,Mandeville-en-Bessin,14710
+14,Calvados,49.178,0.1438,Manerbe,14340
+14,Calvados,49.265,0.2283,Manneville-la-Pipard,14130
+14,Calvados,49.288,-0.599,Le Manoir,14400
+14,Calvados,49.337,-0.658,Manvieux,14117
+14,Calvados,48.882,-0.022,Le Marais-la-Chapelle,14620
+14,Calvados,49.137,0.3690,Marolles,14100
+14,Calvados,48.947,-0.350,Martainville,14220
+14,Calvados,48.890,-0.287,Martigny-sur-l'Ante,14700
+14,Calvados,49.248,-0.601,Moulins en Bessin,14740
+14,Calvados,49.256,-0.366,Mathieu,14920
+14,Calvados,49.096,-0.379,May-sur-Orne,14320
+14,Calvados,49.272,-0.201,Merville-Franceville-Plage,14810
+14,Calvados,49.131,-0.074,Méry-Bissières-en-Auge,14370
+14,Calvados,48.953,-0.392,Meslay,14220
+14,Calvados,49.046,-0.606,Le Mesnil-au-Grain,14260
+14,Calvados,48.977,-0.735,Le Mesnil-Auzouf,14260
+14,Calvados,48.868,-0.981,Le Mesnil-Benoist,14380
+14,Calvados,48.855,-1.010,Le Mesnil-Caussois,14380
+14,Calvados,48.845,-0.982,Mesnil-Clinchamps,14380
+14,Calvados,49.093,0.1747,Le Mesnil-Eudes,14100
+14,Calvados,49.104,0.2825,Le Mesnil-Guillaume,14100
+14,Calvados,49.076,0.0108,Le Mesnil-Mauger,14270
+14,Calvados,49.076,0.0108,Le Mesnil-Mauger,14270
+14,Calvados,49.076,0.0108,Le Mesnil-Mauger,14270
+14,Calvados,49.076,0.0108,Le Mesnil-Mauger,14270
+14,Calvados,49.192,-0.543,Le Mesnil-Patry,14740
+14,Calvados,48.880,-0.972,Le Mesnil-Robert,14380
+14,Calvados,49.088,0.1126,Le Mesnil-Simon,14140
+14,Calvados,49.259,0.2610,Le Mesnil-sur-Blangy,14130
+14,Calvados,48.856,-0.376,Le Mesnil-Villement,14690
+14,Calvados,49.325,-0.572,Meuvaines,14960
+14,Calvados,49.078,-0.074,Mézidon Vallée d'Auge,14270
+14,Calvados,49.078,-0.074,Mézidon Vallée d'Auge,14270
+14,Calvados,49.005,0.0331,Mittois,14170
+14,Calvados,49.110,0.1302,Les Monceaux,14100
+14,Calvados,49.250,-0.689,Monceaux-en-Bessin,14400
+14,Calvados,49.169,-0.310,Mondeville,14120
+14,Calvados,49.141,-0.512,Mondrainville,14210
+14,Calvados,49.312,-1.035,Monfréville,14230
+14,Calvados,49.106,0.0442,Monteille,14270
+14,Calvados,49.185,-0.888,Montfiquet,14490
+14,Calvados,49.040,-0.534,Montigny,14210
+14,Calvados,49.167,0.0706,Montreuil-en-Auge,14340
+14,Calvados,49.121,-0.611,Monts-en-Bessin,14310
+14,Calvados,48.990,0.0966,Montviette,14140
+14,Calvados,48.923,-0.081,Morteaux-Coulibœuf,14620
+14,Calvados,49.305,-0.820,Mosles,14400
+14,Calvados,49.149,-0.488,Mouen,14790
+14,Calvados,48.992,-0.347,Moulines,14220
+14,Calvados,49.112,-0.165,Moult-Chicheboville,14370
+14,Calvados,48.898,0.0077,Les Moutiers-en-Auge,14620
+14,Calvados,49.023,-0.437,Les Moutiers-en-Cinglais,14220
+14,Calvados,49.195,0.3512,Moyaux,14590
+14,Calvados,49.064,-0.422,Mutrécy,14220
+14,Calvados,49.271,-1.089,Neuilly-la-Forêt,14230
+14,Calvados,49.236,-0.647,Nonant,14400
+14,Calvados,49.203,0.2365,Norolles,14100
+14,Calvados,48.896,-0.247,Noron-l'Abbaye,14700
+14,Calvados,49.223,-0.775,Noron-la-Poterie,14490
+14,Calvados,48.913,-0.015,Norrey-en-Auge,14620
+14,Calvados,49.117,0.0412,Notre-Dame-de-Livaye,14340
+14,Calvados,49.135,-0.001,Notre-Dame-d'Estrées-Corbon,14340
+14,Calvados,49.135,-0.001,Notre-Dame-d'Estrées-Corbon,14340
+14,Calvados,49.124,-0.575,Val d'Arry,14210
+14,Calvados,49.124,-0.575,Val d'Arry,14210
+14,Calvados,48.968,-0.173,Olendon,14170
+14,Calvados,48.988,-0.687,Ondefontaine,14260
+14,Calvados,49.023,0.3849,Orbec,14290
+14,Calvados,49.333,-1.088,Osmanville,14230
+14,Calvados,49.284,-1.052,Les Oubeaux,14230
+14,Calvados,49.085,-0.103,Ouézy,14270
+14,Calvados,49.024,-0.488,Ouffières,14220
+14,Calvados,49.165,0.3404,Ouilly-du-Houley,14590
+14,Calvados,48.990,-0.213,Ouilly-le-Tesson,14190
+14,Calvados,49.177,0.2153,Ouilly-le-Vicomte,14100
+14,Calvados,49.274,-0.257,Ouistreham,14150
+14,Calvados,49.052,-0.030,Ouville-la-Bien-Tournée,14170
+14,Calvados,49.088,-0.608,Parfouru-sur-Odon,14310
+14,Calvados,49.401,0.1640,Pennedepie,14600
+14,Calvados,49.059,-0.060,Percy-en-Auge,14270
+14,Calvados,49.264,-0.094,Périers-en-Auge,14160
+14,Calvados,49.257,-0.337,Périers-sur-le-Dan,14112
+14,Calvados,48.918,-0.605,Périgny,14770
+14,Calvados,48.959,-0.125,Perrières,14170
+14,Calvados,48.875,-0.109,Pertheville-Ners,14700
+14,Calvados,49.242,-0.168,Petiville,14390
+14,Calvados,49.254,0.2002,Pierrefitte-en-Auge,14130
+14,Calvados,48.904,-0.388,Pierrefitte-en-Cinglais,14690
+14,Calvados,48.886,-0.321,Pierrepont,14690
+14,Calvados,49.213,0.3356,Le Pin,14590
+14,Calvados,48.978,-0.426,Placy,14220
+14,Calvados,49.162,-0.826,Planquery,14490
+14,Calvados,48.960,-0.611,Le Plessis-Grimoult,14770
+14,Calvados,49.277,-0.361,Plumetot,14440
+14,Calvados,48.909,-0.415,La Pommeraye,14690
+14,Calvados,48.935,-0.982,Pont-Bellanger,14380
+14,Calvados,48.891,-0.583,Pontécoulant,14110
+14,Calvados,48.943,-1.036,Pont-Farcy,14380
+14,Calvados,48.943,-1.036,Pont-Farcy,14380
+14,Calvados,49.280,0.1876,Pont-l'Évêque,14130
+14,Calvados,49.339,-0.772,Port-en-Bessin-Huppain,14520
+14,Calvados,49.339,-0.772,Port-en-Bessin-Huppain,14520
+14,Calvados,48.970,-0.247,Potigny,14420
+14,Calvados,49.078,-0.231,Poussy-la-Campagne,14540
+14,Calvados,49.052,-0.509,Préaux-Bocage,14210
+14,Calvados,49.149,0.1457,Le Pré-d'Auge,14340
+14,Calvados,49.072,0.2586,Prêtreville,14140
+14,Calvados,49.213,-0.066,Putot-en-Auge,14430
+14,Calvados,49.213,-0.544,Putot-en-Bessin,14740
+14,Calvados,49.116,-0.035,Belle Vie en Auge,14270
+14,Calvados,49.116,-0.035,Belle Vie en Auge,14270
+14,Calvados,49.116,-0.035,Belle Vie en Auge,14270
+14,Calvados,49.341,0.3001,Quetteville,14130
+14,Calvados,49.255,-0.763,Ranchy,14400
+14,Calvados,49.228,-0.263,Ranville,14860
+14,Calvados,48.856,-0.343,Rapilly,14690
+14,Calvados,49.199,0.0426,Repentigny,14340
+14,Calvados,49.276,0.1534,Reux,14130
+14,Calvados,49.298,-0.465,Reviers,14470
+14,Calvados,49.408,0.2680,La Rivière-Saint-Sauveur,14600
+14,Calvados,49.095,-0.317,Rocquancourt,14540
+14,Calvados,49.168,0.2494,Rocques,14100
+14,Calvados,49.177,0.0915,La Roque-Baignard,14340
+14,Calvados,49.221,-0.450,Rosel,14740
+14,Calvados,49.206,-0.474,Rots,14740
+14,Calvados,49.206,-0.474,Rots,14740
+14,Calvados,49.206,-0.474,Rots,14980
+14,Calvados,48.986,-0.631,Roucamps,14260
+14,Calvados,49.003,-0.186,Rouvres,14190
+14,Calvados,49.285,-0.886,Rubercy,14710
+14,Calvados,49.258,-0.586,Rucqueville,14480
+14,Calvados,49.186,0.0220,Rumesnil,14340
+14,Calvados,49.328,-0.818,Russy,14710
+14,Calvados,49.313,-0.627,Ryes,14400
+14,Calvados,49.081,-0.286,Saint-Aignan-de-Cramesnil,14540
+14,Calvados,49.303,0.2919,Saint-André-d'Hébertot,14130
+14,Calvados,49.124,-0.388,Saint-André-sur-Orne,14320
+14,Calvados,49.331,0.0895,Saint-Arnoult,14800
+14,Calvados,49.261,-0.283,Saint-Aubin-d'Arquenay,14970
+14,Calvados,48.832,-1.131,Saint-Aubin-des-Bois,14380
+14,Calvados,49.322,-0.392,Saint-Aubin-sur-Mer,14750
+14,Calvados,49.324,0.2727,Saint-Benoît-d'Hébertot,14130
+14,Calvados,49.326,-0.602,Saint-Côme-de-Fresné,14960
+14,Calvados,49.215,-0.400,Saint-Contest,14280
+14,Calvados,49.233,-0.556,Sainte-Croix-Grand-Tonne,14740
+14,Calvados,49.316,-0.510,Sainte-Croix-sur-Mer,14480
+14,Calvados,49.050,0.3018,Valorbiquet,14290
+14,Calvados,49.050,0.3018,Valorbiquet,14290
+14,Calvados,49.050,0.3018,Valorbiquet,14290
+14,Calvados,49.050,0.3018,Valorbiquet,14290
+14,Calvados,49.050,0.3018,Valorbiquet,14290
+14,Calvados,49.098,0.3141,Saint-Denis-de-Mailloc,14100
+14,Calvados,48.864,-0.503,Saint-Denis-de-Méré,14110
+14,Calvados,49.144,0.1907,Saint-Désir,14100
+14,Calvados,49.291,0.1178,Saint-Étienne-la-Thillaye,14950
+14,Calvados,48.958,0.1636,Val-de-Vie,14140
+14,Calvados,48.958,0.1636,Val-de-Vie,14140
+14,Calvados,48.958,0.1636,Val-de-Vie,14140
+14,Calvados,48.958,0.1636,Val-de-Vie,14140
+14,Calvados,49.270,-0.570,Saint-Gabriel-Brécy,14480
+14,Calvados,49.350,0.1868,Saint-Gatien-des-Bois,14130
+14,Calvados,49.026,-0.688,Seulline,14260
+14,Calvados,49.026,-0.688,Seulline,14310
+14,Calvados,48.988,0.0708,Saint-Georges-en-Auge,14140
+14,Calvados,49.119,-0.715,Saint-Germain-d'Ectot,14240
+14,Calvados,49.076,0.1975,Saint-Germain-de-Livet,14100
+14,Calvados,49.330,-1.042,Saint-Germain-du-Pert,14230
+14,Calvados,49.195,-0.421,Saint-Germain-la-Blanche-Herbe,14280
+14,Calvados,48.922,-0.327,Saint-Germain-Langot,14700
+14,Calvados,48.999,-0.301,Saint-Germain-le-Vasson,14190
+14,Calvados,49.137,-0.785,Sainte-Honorine-de-Ducy,14240
+14,Calvados,49.346,-0.810,Aure sur Mer,14520
+14,Calvados,49.070,-0.491,Sainte-Honorine-du-Fay,14210
+14,Calvados,49.243,0.1673,Saint-Hymer,14130
+14,Calvados,49.093,0.2423,Saint-Jean-de-Livet,14100
+14,Calvados,49.048,-0.818,Saint-Jean-des-Essartiers,14350
+14,Calvados,48.939,-0.657,Saint-Jean-le-Blanc,14770
+14,Calvados,49.217,-0.012,Saint-Jouin,14430
+14,Calvados,49.067,0.0812,Saint-Julien-le-Faucon,14140
+14,Calvados,49.287,0.2305,Saint-Julien-sur-Calonne,14130
+14,Calvados,48.935,-0.537,Saint-Lambert,14570
+14,Calvados,49.026,-0.394,Saint-Laurent-de-Condel,14220
+14,Calvados,49.140,0.0272,Saint-Laurent-du-Mont,14340
+14,Calvados,49.357,-0.876,Saint-Laurent-sur-Mer,14710
+14,Calvados,49.230,-0.014,Saint-Léger-Dubosq,14430
+14,Calvados,49.095,-0.677,Saint-Louet-sur-Seulles,14310
+14,Calvados,49.108,0.0102,Saint-Loup-de-Fribois,14340
+14,Calvados,49.260,-0.730,Saint-Loup-Hors,14400
+14,Calvados,49.186,-0.500,Saint-Manvieu-Norrey,14740
+14,Calvados,49.186,-0.500,Saint-Manvieu-Norrey,14740
+14,Calvados,48.821,-0.964,Saint-Manvieu-Bocage,14380
+14,Calvados,49.257,-1.002,Saint-Marcouf,14330
+14,Calvados,49.215,-0.986,Sainte-Marguerite-d'Elle,14330
+14,Calvados,49.011,0.0881,Sainte-Marguerite-de-Viette,14140
+14,Calvados,48.930,-1.021,Sainte-Marie-Outre-l'Eau,14380
+14,Calvados,49.308,0.1543,Saint-Martin-aux-Chartrains,14130
+14,Calvados,49.032,0.3527,Saint-Martin-de-Bienfaite-la-Cressonnière,14290
+14,Calvados,49.032,0.3527,Saint-Martin-de-Bienfaite-la-Cressonnière,14290
+14,Calvados,49.249,-0.942,Saint-Martin-de-Blagny,14710
+14,Calvados,49.114,-0.351,Saint-Martin-de-Fontenay,14320
+14,Calvados,49.110,0.2243,Saint-Martin-de-la-Lieue,14100
+14,Calvados,49.088,0.2864,Saint-Martin-de-Mailloc,14100
+14,Calvados,48.873,-0.240,Saint-Martin-de-Mieux,14700
+14,Calvados,49.257,-0.664,Saint-Martin-des-Entrées,14400
+14,Calvados,48.928,-0.443,Saint-Omer,14220
+14,Calvados,49.157,-0.115,Saint-Ouen-du-Mesnil-Oger,14670
+14,Calvados,49.150,0.1036,Saint-Ouen-le-Pin,14340
+14,Calvados,49.165,-0.186,Saint-Pair,14670
+14,Calvados,49.196,-0.756,Saint-Paul-du-Vernay,14490
+14,Calvados,49.211,0.2755,Saint-Philbert-des-Champs,14130
+14,Calvados,49.292,0.0372,Saint-Pierre-Azif,14950
+14,Calvados,48.921,-0.230,Saint-Pierre-Canivet,14700
+14,Calvados,49.114,0.1618,Saint-Pierre-des-Ifs,14100
+14,Calvados,48.864,-0.204,Saint-Pierre-du-Bû,14700
+14,Calvados,49.034,-0.765,Saint-Pierre-du-Fresne,14260
+14,Calvados,49.165,-0.139,Saint-Pierre-du-Jonquet,14670
+14,Calvados,49.381,-0.975,Saint-Pierre-du-Mont,14450
+14,Calvados,49.015,-0.040,Saint-Pierre-en-Auge,14170
+14,Calvados,48.939,-0.490,Saint-Rémy,14570
+14,Calvados,49.190,-0.152,Saint-Samson,14670
+14,Calvados,48.821,-1.046,Noues de Sienne,14380
+14,Calvados,49.053,-0.215,Saint-Sylvain,14190
+14,Calvados,49.290,0.0023,Saint-Vaast-en-Auge,14640
+14,Calvados,49.136,-0.630,Saint-Vaast-sur-Seulles,14250
+14,Calvados,48.903,-0.633,Saint-Vigor-des-Mézerets,14770
+14,Calvados,49.287,-0.676,Saint-Vigor-le-Grand,14400
+14,Calvados,49.116,-0.839,Sallen,14240
+14,Calvados,49.263,-0.233,Sallenelles,14121
+14,Calvados,49.183,-0.222,Sannerville,14940
+14,Calvados,49.271,-0.863,Saon,14330
+14,Calvados,49.272,-0.880,Saonnet,14330
+14,Calvados,48.985,-0.139,Sassy,14170
+14,Calvados,48.864,-1.040,Sept-Frères,14380
+14,Calvados,49.066,-0.837,Val de Drôme,14240
+14,Calvados,49.029,-0.216,Soignolles,14190
+14,Calvados,49.131,-0.287,Soliers,14540
+14,Calvados,49.292,-0.645,Sommervieu,14400
+14,Calvados,48.940,-0.213,Soulangy,14700
+14,Calvados,48.979,-0.234,Soumont-Saint-Quentin,14420
+14,Calvados,49.239,-0.749,Subles,14400
+14,Calvados,49.300,-0.741,Sully,14400
+14,Calvados,49.328,-0.854,Surrain,14710
+14,Calvados,49.302,0.2233,Surville,14130
+14,Calvados,49.150,-0.568,Tessel,14250
+14,Calvados,49.254,-0.449,Thaon,14610
+14,Calvados,49.346,0.2509,Le Theil-en-Auge,14130
+14,Calvados,49.036,-0.044,Thiéville,14170
+14,Calvados,48.986,-0.485,Le Hom,14220
+14,Calvados,48.986,-0.485,Le Hom,14220
+14,Calvados,48.986,-0.485,Le Hom,14220
+14,Calvados,48.986,-0.485,Le Hom,14220
+14,Calvados,48.986,-0.485,Le Hom,14220
+14,Calvados,49.298,-0.527,Tierceville,14480
+14,Calvados,49.110,-0.310,Tilly-la-Campagne,14540
+14,Calvados,49.171,-0.623,Tilly-sur-Seulles,14250
+14,Calvados,49.218,0.1693,Le Torquesne,14130
+14,Calvados,49.149,-0.730,Torteval-Quesnay,14240
+14,Calvados,49.149,-0.730,Torteval-Quesnay,14240
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,48.962,0.0329,Tôtes,14170
+14,Calvados,49.199,-0.225,Touffréville,14940
+14,Calvados,49.353,0.1126,Touques,14800
+14,Calvados,49.293,-0.783,Tour-en-Bessin,14400
+14,Calvados,49.317,0.0798,Tourgéville,14800
+14,Calvados,49.096,-0.582,Tournay-sur-Odon,14310
+14,Calvados,48.963,-0.326,Tournebu,14220
+14,Calvados,49.230,-0.937,Tournières,14330
+14,Calvados,49.319,0.1951,Tourville-en-Auge,14130
+14,Calvados,49.137,-0.500,Tourville-sur-Odon,14210
+14,Calvados,49.072,-0.689,Tracy-Bocage,14310
+14,Calvados,49.331,-0.644,Tracy-sur-Mer,14117
+14,Calvados,48.898,-0.346,Tréprel,14690
+14,Calvados,49.299,-0.916,Trévières,14710
+14,Calvados,49.191,-0.183,Saline,14670
+14,Calvados,49.191,-0.183,Saline,14670
+14,Calvados,49.048,-0.479,Trois-Monts,14210
+14,Calvados,49.227,-0.819,Le Tronquay,14490
+14,Calvados,49.372,0.1021,Trouville-sur-Mer,14360
+14,Calvados,49.193,-0.722,Trungy,14490
+14,Calvados,49.025,-0.294,Urville,14190
+14,Calvados,48.946,-0.290,Ussy,14420
+14,Calvados,49.085,-0.534,Vacognes-Neuilly,14210
+14,Calvados,49.085,-0.534,Vacognes-Neuilly,14210
+14,Calvados,49.092,-0.855,La Vacquerie,14240
+14,Calvados,49.237,0.0992,Valsemé,14340
+14,Calvados,49.263,-0.145,Varaville,14390
+14,Calvados,48.863,-0.658,Valdallière,14350
+14,Calvados,48.863,-0.658,Valdallière,14350
+14,Calvados,48.863,-0.658,Valdallière,14350
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,48.863,-0.658,Valdallière,14410
+14,Calvados,49.283,-0.735,Vaucelles,14400
+14,Calvados,48.946,0.0006,Vaudeloges,14170
+14,Calvados,49.308,0.0585,Vauville,14800
+14,Calvados,49.307,-0.710,Vaux-sur-Aure,14400
+14,Calvados,49.261,-0.627,Vaux-sur-Seulles,14400
+14,Calvados,49.142,-0.600,Vendes,14250
+14,Calvados,49.006,-0.082,Vendeuvre,14170
+14,Calvados,49.006,-0.082,Vendeuvre,14170
+14,Calvados,49.006,-0.082,Vendeuvre,14170
+14,Calvados,48.919,-0.171,Versainville,14700
+14,Calvados,49.163,-0.463,Verson,14790
+14,Calvados,49.333,-0.528,Ver-sur-Mer,14114
+14,Calvados,49.011,0.4247,La Vespière-Friardel,14290
+14,Calvados,49.011,0.4247,La Vespière-Friardel,14290
+14,Calvados,48.916,-0.461,Le Vey,14570
+14,Calvados,48.953,-0.074,Vicques,14170
+14,Calvados,49.168,-0.009,Victot-Pontfol,14430
+14,Calvados,49.281,-0.627,Vienne-en-Bessin,14400
+14,Calvados,49.366,-0.901,Vierville-sur-Mer,14710
+14,Calvados,49.112,-0.442,Vieux,14930
+14,Calvados,49.312,0.2454,Vieux-Bourg,14130
+14,Calvados,49.061,-0.129,Vieux-Fumé,14270
+14,Calvados,49.042,0.0529,Vieux-Pont-en-Auge,14140
+14,Calvados,48.854,-0.102,Vignats,14700
+14,Calvados,49.078,-0.652,Villers-Bocage,14310
+14,Calvados,48.933,-0.261,Villers-Canivet,14420
+14,Calvados,49.311,0.0059,Villers-sur-Mer,14640
+14,Calvados,49.390,0.1231,Villerville,14113
+14,Calvados,48.909,-0.543,La Villette,14570
+14,Calvados,49.292,-0.565,Villiers-le-Sec,14480
+14,Calvados,49.236,-0.411,Villons-les-Buissons,14610
+14,Calvados,48.900,-0.136,Villy-lez-Falaise,14700
+14,Calvados,49.103,-0.641,Villy-Bocage,14310
+14,Calvados,49.141,-0.194,Vimont,14370
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,48.851,-0.889,Vire Normandie,14500
+14,Calvados,49.295,-1.032,Vouilly,14230
+14,Calvados,48.876,-0.409,Pont-d'Ouilly,14690
