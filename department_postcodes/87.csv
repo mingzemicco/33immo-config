@@ -1,0 +1,211 @@
+department_id,department_name,latitude,longitude,locality,postal_code
+87,Haute-Vienne,45.798,1.1325,Aixe-sur-Vienne,87700
+87,Haute-Vienne,45.953,1.3993,Ambazac,87240
+87,Haute-Vienne,46.263,1.3733,Arnac-la-Poste,87160
+87,Haute-Vienne,45.771,1.7005,Augne,87120
+87,Haute-Vienne,45.809,1.4012,Aureil,87220
+87,Haute-Vienne,46.307,1.0573,Azat-le-Ris,87360
+87,Haute-Vienne,46.108,1.2162,Balledent,87290
+87,Haute-Vienne,46.255,1.0839,La Bazeuge,87210
+87,Haute-Vienne,45.771,1.8548,Beaumont-du-Lac,87120
+87,Haute-Vienne,46.104,1.0411,Bellac,87300
+87,Haute-Vienne,46.065,1.1095,Berneuil,87300
+87,Haute-Vienne,46.077,1.4176,Bersac-sur-Rivalier,87370
+87,Haute-Vienne,46.108,1.3601,Bessines-sur-Gartempe,87250
+87,Haute-Vienne,46.108,1.3601,Bessines-sur-Gartempe,87250
+87,Haute-Vienne,45.767,1.1655,Beynac,87700
+87,Haute-Vienne,45.977,1.5362,Les Billanges,87340
+87,Haute-Vienne,46.127,1.1079,Blanzac,87300
+87,Haute-Vienne,46.053,1.0171,Blond,87300
+87,Haute-Vienne,45.761,1.3284,Boisseuil,87220
+87,Haute-Vienne,45.947,1.2928,Bonnac-la-Côte,87270
+87,Haute-Vienne,45.765,1.2042,Bosmie-l'Aiguille,87110
+87,Haute-Vienne,46.042,1.1092,Breuilaufa,87300
+87,Haute-Vienne,46.034,1.2043,Le Buis,87140
+87,Haute-Vienne,45.792,1.6311,Bujaleuf,87460
+87,Haute-Vienne,45.740,1.1672,Burgnac,87800
+87,Haute-Vienne,45.617,1.0459,Bussière-Galant,87230
+87,Haute-Vienne,45.617,1.0459,Bussière-Galant,87230
+87,Haute-Vienne,46.241,0.9039,Bussière-Poitevine,87320
+87,Haute-Vienne,45.674,1.0713,Les Cars,87230
+87,Haute-Vienne,45.863,0.8754,Chaillac-sur-Vienne,87200
+87,Haute-Vienne,45.554,1.1248,Le Chalard,87500
+87,Haute-Vienne,45.657,0.9646,Châlus,87230
+87,Haute-Vienne,46.005,1.1249,Chamboret,87140
+87,Haute-Vienne,45.694,0.9131,Champagnac-la-Rivière,87150
+87,Haute-Vienne,45.827,1.5788,Champnétery,87400
+87,Haute-Vienne,45.703,0.9623,Champsac,87230
+87,Haute-Vienne,45.644,0.8533,La Chapelle-Montbrandeix,87440
+87,Haute-Vienne,45.917,1.2466,Chaptelat,87270
+87,Haute-Vienne,45.590,1.3564,Château-Chervix,87380
+87,Haute-Vienne,45.694,1.6100,Châteauneuf-la-Forêt,87130
+87,Haute-Vienne,46.131,1.2804,Châteauponsac,87290
+87,Haute-Vienne,45.904,1.5053,Le Châtenet-en-Dognon,87400
+87,Haute-Vienne,45.831,1.6381,Cheissoux,87460
+87,Haute-Vienne,45.756,0.7535,Chéronnac,87600
+87,Haute-Vienne,45.985,1.0290,Cieux,87520
+87,Haute-Vienne,45.836,1.0050,Cognac-la-Forêt,87310
+87,Haute-Vienne,45.997,1.2816,Compreignac,87140
+87,Haute-Vienne,45.783,1.2400,Condat-sur-Vienne,87920
+87,Haute-Vienne,45.516,1.3239,Coussac-Bonneval,87500
+87,Haute-Vienne,45.883,1.2207,Couzeix,87270
+87,Haute-Vienne,45.619,1.6037,La Croisille-sur-Briance,87130
+87,Haute-Vienne,46.160,1.0023,La Croix-sur-Gartempe,87210
+87,Haute-Vienne,46.360,1.3110,Cromac,87160
+87,Haute-Vienne,45.690,0.8491,Cussac,87150
+87,Haute-Vienne,46.238,0.9566,Darnac,87320
+87,Haute-Vienne,46.240,1.1101,Dinsac,87210
+87,Haute-Vienne,46.215,1.2496,Dompierre-les-Églises,87190
+87,Haute-Vienne,45.655,1.7123,Domps,87120
+87,Haute-Vienne,46.205,1.0677,Le Dorat,87210
+87,Haute-Vienne,45.629,0.9185,Dournazac,87230
+87,Haute-Vienne,46.165,1.1485,Droux,87190
+87,Haute-Vienne,45.800,1.4851,Eybouleuf,87400
+87,Haute-Vienne,45.774,1.3772,Eyjeaux,87220
+87,Haute-Vienne,45.710,1.7402,Eymoutiers,87120
+87,Haute-Vienne,45.805,1.3294,Feytiat,87220
+87,Haute-Vienne,45.712,1.0737,Flavignac,87230
+87,Haute-Vienne,46.124,1.4562,Folles,87250
+87,Haute-Vienne,46.158,1.4190,Fromental,87250
+87,Haute-Vienne,46.109,0.8440,Gajoubert,87330
+87,Haute-Vienne,45.787,1.4542,La Geneytouse,87400
+87,Haute-Vienne,45.472,1.2285,Glandon,87500
+87,Haute-Vienne,45.659,1.4609,Glanges,87380
+87,Haute-Vienne,45.737,0.9953,Gorre,87310
+87,Haute-Vienne,46.356,1.3843,Les Grands-Chézeaux,87160
+87,Haute-Vienne,45.803,1.1952,Isle,87170
+87,Haute-Vienne,46.024,1.5148,Jabreilles-les-Bordes,87370
+87,Haute-Vienne,45.653,1.2412,Janailhac,87800
+87,Haute-Vienne,45.956,0.9652,Javerdat,87520
+87,Haute-Vienne,46.004,1.4785,La Jonchère-Saint-Maurice,87340
+87,Haute-Vienne,46.349,1.2593,Jouac,87890
+87,Haute-Vienne,45.731,1.2128,Jourgnac,87800
+87,Haute-Vienne,45.588,1.1074,Ladignac-le-Long,87500
+87,Haute-Vienne,46.076,1.5010,Laurière,87370
+87,Haute-Vienne,45.719,1.1219,Lavignac,87230
+87,Haute-Vienne,45.854,1.2487,Limoges,87000
+87,Haute-Vienne,45.854,1.2487,Limoges,87100
+87,Haute-Vienne,45.854,1.2487,Limoges,87100
+87,Haute-Vienne,45.854,1.2487,Limoges,87280
+87,Haute-Vienne,45.854,1.2487,Limoges,87280
+87,Haute-Vienne,45.703,1.5375,Linards,87130
+87,Haute-Vienne,46.341,1.1759,Lussac-les-Églises,87360
+87,Haute-Vienne,45.600,1.4356,Magnac-Bourg,87380
+87,Haute-Vienne,46.228,1.1728,Magnac-Laval,87190
+87,Haute-Vienne,46.310,1.3157,Mailhac-sur-Benaize,87160
+87,Haute-Vienne,45.711,0.6838,Maisonnais-sur-Tardoire,87440
+87,Haute-Vienne,45.634,0.7960,Marval,87440
+87,Haute-Vienne,45.634,0.7960,Marval,87440
+87,Haute-Vienne,45.766,1.5746,Masléon,87130
+87,Haute-Vienne,45.711,1.1575,Meilhac,87800
+87,Haute-Vienne,45.553,1.4167,Meuzac,87380
+87,Haute-Vienne,45.607,1.1943,La Meyze,87800
+87,Haute-Vienne,46.111,0.9140,Val d'Issoire,87330
+87,Haute-Vienne,46.111,0.9140,Val d'Issoire,87330
+87,Haute-Vienne,45.874,1.5561,Moissannes,87400
+87,Haute-Vienne,46.017,0.9527,Montrol-Sénard,87330
+87,Haute-Vienne,46.048,0.9550,Mortemart,87330
+87,Haute-Vienne,46.011,1.1736,Nantiat,87140
+87,Haute-Vienne,45.720,1.8265,Nedde,87120
+87,Haute-Vienne,45.737,1.6387,Neuvic-Entier,87130
+87,Haute-Vienne,45.674,1.1856,Nexon,87800
+87,Haute-Vienne,45.921,1.1801,Nieul,87510
+87,Haute-Vienne,46.062,0.9151,Nouic,87330
+87,Haute-Vienne,46.242,1.0196,Oradour-Saint-Genest,87210
+87,Haute-Vienne,45.931,1.0230,Oradour-sur-Glane,87520
+87,Haute-Vienne,45.740,0.8795,Oradour-sur-Vayres,87150
+87,Haute-Vienne,45.682,1.0167,Pageas,87230
+87,Haute-Vienne,45.873,1.3252,Le Palais-sur-Vienne,87410
+87,Haute-Vienne,45.840,1.3235,Panazol,87350
+87,Haute-Vienne,45.599,0.8282,Pensol,87440
+87,Haute-Vienne,46.131,1.0203,Peyrat-de-Bellac,87300
+87,Haute-Vienne,45.808,1.7824,Peyrat-le-Château,87470
+87,Haute-Vienne,45.961,1.1208,Peyrilhac,87510
+87,Haute-Vienne,45.691,1.3602,Pierre-Buffière,87260
+87,Haute-Vienne,45.576,1.5467,La Porcherie,87380
+87,Haute-Vienne,46.128,1.1802,Rancon,87290
+87,Haute-Vienne,46.037,1.3407,Razès,87640
+87,Haute-Vienne,45.684,1.8646,Rempnat,87120
+87,Haute-Vienne,45.658,1.1137,Rilhac-Lastours,87800
+87,Haute-Vienne,45.907,1.3325,Rilhac-Rancon,87570
+87,Haute-Vienne,45.823,0.8428,Rochechouart,87600
+87,Haute-Vienne,45.593,1.2581,La Roche-l'Abeille,87800
+87,Haute-Vienne,46.071,1.1980,Roussac,87140
+87,Haute-Vienne,45.851,1.4345,Royères,87400
+87,Haute-Vienne,45.743,1.5606,Roziers-Saint-Georges,87130
+87,Haute-Vienne,45.870,0.8340,Saillat-sur-Vienne,87720
+87,Haute-Vienne,45.769,1.7675,Saint-Amand-le-Petit,87120
+87,Haute-Vienne,46.184,1.3579,Saint-Amand-Magnazeix,87290
+87,Haute-Vienne,45.697,1.6828,Sainte-Anne-Saint-Priest,87120
+87,Haute-Vienne,45.810,0.9210,Saint-Auvent,87310
+87,Haute-Vienne,46.202,0.8534,Saint-Barbant,87330
+87,Haute-Vienne,45.734,0.8072,Saint-Bazile,87150
+87,Haute-Vienne,45.715,1.4847,Saint-Bonnet-Briance,87260
+87,Haute-Vienne,46.163,0.9381,Saint-Bonnet-de-Bellac,87300
+87,Haute-Vienne,45.902,0.9635,Saint-Brice-sur-Vienne,87200
+87,Haute-Vienne,45.802,0.9821,Saint-Cyr,87310
+87,Haute-Vienne,45.779,1.5301,Saint-Denis-des-Murs,87400
+87,Haute-Vienne,45.909,1.1393,Saint-Gence,87510
+87,Haute-Vienne,45.700,1.4251,Saint-Genest-sur-Roselle,87260
+87,Haute-Vienne,46.361,1.3484,Saint-Georges-les-Landes,87160
+87,Haute-Vienne,45.604,1.4860,Saint-Germain-les-Belles,87380
+87,Haute-Vienne,45.629,1.6669,Saint-Gilles-les-Forêts,87130
+87,Haute-Vienne,45.721,1.3678,Saint-Hilaire-Bonneval,87260
+87,Haute-Vienne,46.248,1.3104,Saint-Hilaire-la-Treille,87190
+87,Haute-Vienne,45.636,1.1523,Saint-Hilaire-les-Places,87800
+87,Haute-Vienne,45.690,1.3078,Saint-Jean-Ligoure,87260
+87,Haute-Vienne,45.956,1.2098,Saint-Jouvent,87510
+87,Haute-Vienne,45.822,1.7056,Saint-Julien-le-Petit,87460
+87,Haute-Vienne,45.902,0.8878,Saint-Junien,87200
+87,Haute-Vienne,46.085,1.1342,Saint-Junien-les-Combes,87300
+87,Haute-Vienne,45.852,1.3868,Saint-Just-le-Martel,87590
+87,Haute-Vienne,45.963,1.4750,Saint-Laurent-les-Églises,87240
+87,Haute-Vienne,45.768,0.9733,Saint-Laurent-sur-Gorre,87310
+87,Haute-Vienne,46.030,1.4254,Saint-Léger-la-Montagne,87340
+87,Haute-Vienne,46.288,1.2380,Saint-Léger-Magnazeix,87190
+87,Haute-Vienne,45.840,1.4960,Saint-Léonard-de-Noblat,87400
+87,Haute-Vienne,45.862,1.0411,Sainte-Marie-de-Vaux,87420
+87,Haute-Vienne,46.153,0.8733,Saint-Martial-sur-Isop,87330
+87,Haute-Vienne,45.860,0.9436,Saint-Martin-de-Jussac,87200
+87,Haute-Vienne,46.360,1.2159,Saint-Martin-le-Mault,87360
+87,Haute-Vienne,45.750,1.1190,Saint-Martin-le-Vieux,87700
+87,Haute-Vienne,45.914,1.4602,Saint-Martin-Terressus,87400
+87,Haute-Vienne,45.706,0.7717,Saint-Mathieu,87440
+87,Haute-Vienne,45.699,1.2415,Saint-Maurice-les-Brousses,87800
+87,Haute-Vienne,45.664,1.5426,Saint-Méard,87130
+87,Haute-Vienne,46.173,1.0789,Saint-Ouen-sur-Gartempe,87300
+87,Haute-Vienne,46.063,1.2911,Saint-Pardoux,87250
+87,Haute-Vienne,45.752,1.4428,Saint-Paul,87260
+87,Haute-Vienne,45.626,1.3003,Saint-Priest-Ligoure,87800
+87,Haute-Vienne,45.820,1.0839,Saint-Priest-sous-Aixe,87700
+87,Haute-Vienne,45.897,1.3966,Saint-Priest-Taurion,87480
+87,Haute-Vienne,46.190,0.9922,Saint-Sornin-la-Marche,87210
+87,Haute-Vienne,46.196,1.2976,Saint-Sornin-Leulac,87290
+87,Haute-Vienne,46.196,1.2976,Saint-Sornin-Leulac,87290
+87,Haute-Vienne,46.055,1.4770,Saint-Sulpice-Laurière,87370
+87,Haute-Vienne,46.315,1.3920,Saint-Sulpice-les-Feuilles,87160
+87,Haute-Vienne,45.994,1.3651,Saint-Sylvestre,87240
+87,Haute-Vienne,46.049,1.2387,Saint-Symphorien-sur-Couze,87140
+87,Haute-Vienne,45.880,1.0249,Saint-Victurnien,87420
+87,Haute-Vienne,45.625,1.5387,Saint-Vitte-sur-Briance,87380
+87,Haute-Vienne,45.525,1.2038,Saint-Yrieix-la-Perche,87500
+87,Haute-Vienne,45.850,1.0639,Saint-Yrieix-sous-Aixe,87700
+87,Haute-Vienne,45.744,0.6934,Les Salles-Lavauguyon,87440
+87,Haute-Vienne,45.906,1.5885,Sauviat-sur-Vige,87400
+87,Haute-Vienne,45.765,1.0600,Séreilhac,87620
+87,Haute-Vienne,45.754,1.2575,Solignac,87110
+87,Haute-Vienne,45.605,1.6503,Surdoux,87130
+87,Haute-Vienne,45.658,1.6519,Sussac,87130
+87,Haute-Vienne,46.290,1.1275,Tersannes,87360
+87,Haute-Vienne,46.274,0.9697,Thiat,87320
+87,Haute-Vienne,45.998,1.2199,Thouron,87140
+87,Haute-Vienne,46.027,1.0838,Vaulry,87140
+87,Haute-Vienne,45.773,0.8237,Vayres,87600
+87,Haute-Vienne,46.337,1.1164,Verneuil-Moustiers,87360
+87,Haute-Vienne,45.850,1.1294,Verneuil-sur-Vienne,87430
+87,Haute-Vienne,45.903,1.0900,Veyrac,87520
+87,Haute-Vienne,45.903,1.0900,Veyrac,87520
+87,Haute-Vienne,45.649,1.3907,Vicq-sur-Breuilh,87260
+87,Haute-Vienne,45.782,0.7319,Videix,87600
+87,Haute-Vienne,45.736,1.2814,Le Vigen,87110
+87,Haute-Vienne,46.169,1.2141,Villefavard,87190
