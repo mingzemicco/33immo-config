@@ -1,4 +1,4 @@
-region_id,region_name,latitude,longitude,cities
+department_id,department_name,latitude,longitude,cities
 75,Paris,48.866,2.333,Paris
 95,Val-d'Oise,49.0333,2.066,Osny|Eaubonne|L'Isle-Adam|Cergy|Persan|Nointel|Beauchamp|Marly-la-Ville|Taverny|Saint-Witz|Andilly|Villiers-le-Bel|Roissy-en-France|Moisselles|Bouffémont|Éragny|Montigny-lès-Cormeilles|Deuil-la-Barre|Domont|Aincourt|Sannois|Parmain|Champagne-sur-Oise|Ennery|Bezons|La Frette-sur-Seine|Le Plessis-Bouchard|Saint-Leu-la-Forêt|Saint-Martin-du-Tertre|Louvres|Puiseux-en-France|Cormeilles-en-Parisis|Argenteuil|Enghien-les-Bains|Bray-et-Lû|Sarcelles|Pontoise|Ermont
 92,Hauts-de-Seine,48.900,2.2,Bourg-la-Reine|Clamart|Neuilly-sur-Seine|Sceaux|Fontenay-aux-Roses|Courbevoie|Châtenay-Malabry|Suresnes|Nanterre|La Garenne-Colombes|Malakoff|Garches|Sèvres|Gennevilliers|Vanves|Châtillon|Rueil-Malmaison|Puteaux|Levallois-Perret|Villeneuve-la-Garenne|Clichy|Boulogne-Billancourt|Montrouge|Asnières-sur-Seine|Marnes-la-Coquette|Saint-Cloud|Le Plessis-Robinson|Colombes|Antony|Issy-les-Moulineaux|Meudon|Bagneux
